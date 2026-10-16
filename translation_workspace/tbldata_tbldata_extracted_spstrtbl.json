@@ -1,0 +1,221 @@
+{
+  "file_path": "tbldata/tbldata_extracted/spstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 304,
+      "original": "買い物をする",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 320,
+      "original": "用はない",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 332,
+      "original": "カルゴニア道具店",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 352,
+      "original": "装備品を買う",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 368,
+      "original": "消耗品を買う",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 384,
+      "original": "持ち物を売る",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 400,
+      "original": "装備可能職業",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 416,
+      "original": "値段",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 424,
+      "original": "あと",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 432,
+      "original": "空き",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 440,
+      "original": "個",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 444,
+      "original": "装備中",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 452,
+      "original": "気に入った商品はあったか？",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 480,
+      "original": "そいつを買うのか？",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 500,
+      "original": "気に入った商品はあったか？",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 528,
+      "original": "そいつを買うのか？",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 548,
+      "original": "何を売るんだ？",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 564,
+      "original": "そいつを売るのか？",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 584,
+      "original": "おい、お金がたりないようだぞ",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 616,
+      "original": "おい、袋がいっぱいのようだぞ",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 648,
+      "original": "ありがとうよ",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 664,
+      "original": "やめるのか？",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 680,
+      "original": "左手の装備が外れているから気をつけろよ",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 720,
+      "original": "そいつを売るには袋に空きがいるぞ",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 756,
+      "original": "気に入った商品はあったか？",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 784,
+      "original": "そいつを買うのか？",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 804,
+      "original": "気に入った商品はあったか？",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 832,
+      "original": "そいつを買うのか？",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 852,
+      "original": "何を売るんだ？",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 868,
+      "original": "そいつを売るのか？",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 888,
+      "original": "おい、お金がたりないようだぞ",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 920,
+      "original": "おい、袋がいっぱいのようだぞ",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 952,
+      "original": "ありがとうよ",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 968,
+      "original": "やめるのか？",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 984,
+      "original": "左手の装備が外れているから気をつけろよ",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1024,
+      "original": "そいつを売るには袋に空きがいるぞ",
+      "translated": ""
+    }
+  ]
+}

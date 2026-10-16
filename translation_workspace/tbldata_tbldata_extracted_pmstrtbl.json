@@ -1,0 +1,725 @@
+{
+  "file_path": "tbldata/tbldata_extracted/pmstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 976,
+      "original": "ラキム",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 984,
+      "original": "アリオス",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 996,
+      "original": "ケリー",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 1004,
+      "original": "ルーファス",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 1016,
+      "original": "リューイ",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 1028,
+      "original": "ヴォルフラム",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 1044,
+      "original": "テッド",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 1052,
+      "original": "オーウェル",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1064,
+      "original": "ロン",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1072,
+      "original": "タムズ",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1080,
+      "original": "エドアルド",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1092,
+      "original": "リオン",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1100,
+      "original": "ロッテ",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1108,
+      "original": "リスティ",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1120,
+      "original": "ミキアス",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1132,
+      "original": "ネリーニ",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1144,
+      "original": "コラリー",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1156,
+      "original": "ナターシャ",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1168,
+      "original": "エルフィール",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1184,
+      "original": "シェイラ",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1196,
+      "original": "リーファ",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1208,
+      "original": "ダナティア",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1220,
+      "original": "サリー",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1228,
+      "original": "ルナ",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1236,
+      "original": "ジェイド",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1248,
+      "original": "ティルキス",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1260,
+      "original": "アウルム",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1272,
+      "original": "エカイユ",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1284,
+      "original": "ルード",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1292,
+      "original": "キリィ",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1300,
+      "original": "ゼフェ",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1308,
+      "original": "ギース",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1316,
+      "original": "ウォン",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1324,
+      "original": "ソイル",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1332,
+      "original": "ガヴィヤ",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1344,
+      "original": "ザンド",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1352,
+      "original": "フロール",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1364,
+      "original": "イーリス",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 1376,
+      "original": "ネルケ",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 1384,
+      "original": "アルマ",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 1392,
+      "original": "キルシェ",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 1404,
+      "original": "アナリス",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 1416,
+      "original": "カリュン",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 1428,
+      "original": "クラニア",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 1440,
+      "original": "フィオラ",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 1452,
+      "original": "セレフィナ",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 1464,
+      "original": "タニア",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 1472,
+      "original": "ナージャ",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 1484,
+      "original": "ゲオ",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 1492,
+      "original": "ネロ",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 1500,
+      "original": "リトム",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 1508,
+      "original": "アルベロ",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 1520,
+      "original": "サジ",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 1528,
+      "original": "マルロ",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 1536,
+      "original": "キキルカ",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 1548,
+      "original": "タギ",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 1556,
+      "original": "ビボ",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 1564,
+      "original": "ベック",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 1572,
+      "original": "バルク",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 1580,
+      "original": "ワイリー",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 1592,
+      "original": "ノーマ",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 1600,
+      "original": "エアル",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 1608,
+      "original": "ネイ",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 1616,
+      "original": "ニュパ",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 1624,
+      "original": "ユーリ",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 1632,
+      "original": "セア",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 1640,
+      "original": "セレナ",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 1648,
+      "original": "ローザ",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 1656,
+      "original": "ラシーヌ",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 1668,
+      "original": "リリア",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 1676,
+      "original": "ラウラ",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 1684,
+      "original": "メル",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 1692,
+      "original": "アルギュロス",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 1708,
+      "original": "サルドニュクス",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 1724,
+      "original": "フェイルーク",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 1740,
+      "original": "イズゥムルード",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 1756,
+      "original": "リュミエール",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 1772,
+      "original": "リュフトフェル",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 1788,
+      "original": "ヴァスハド",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 1800,
+      "original": "リートゥスアレム",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 1820,
+      "original": "カズィルーク",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 1836,
+      "original": "フィルグラート",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 1852,
+      "original": "アプセウデス",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 1868,
+      "original": "テイルスティル",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 1884,
+      "original": "ネフェリティ",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 1900,
+      "original": "サフィーリア",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 1916,
+      "original": "シルヴィアナ",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 1932,
+      "original": "ルナジェーナ",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 1948,
+      "original": "リスノーイ",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 1960,
+      "original": "ウェルスィニー",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 1976,
+      "original": "ティフォーニア",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 1992,
+      "original": "エルツィオーネ",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 2008,
+      "original": "アヴィエーラ",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 2024,
+      "original": "ラピスナーヤ",
+      "translated": ""
+    },
+    {
+      "index": 94,
+      "offset": 2040,
+      "original": "ルチェシーナ",
+      "translated": ""
+    },
+    {
+      "index": 95,
+      "offset": 2056,
+      "original": "メルツェーデス",
+      "translated": ""
+    },
+    {
+      "index": 96,
+      "offset": 2072,
+      "original": "ＶＩＲ−７１７２",
+      "translated": ""
+    },
+    {
+      "index": 97,
+      "offset": 2092,
+      "original": "ノーマン",
+      "translated": ""
+    },
+    {
+      "index": 98,
+      "offset": 2104,
+      "original": "ＵＯＭ−００２７",
+      "translated": ""
+    },
+    {
+      "index": 99,
+      "offset": 2124,
+      "original": "ウェンツ",
+      "translated": ""
+    },
+    {
+      "index": 100,
+      "offset": 2136,
+      "original": "ＮＯＲ−４８６９",
+      "translated": ""
+    },
+    {
+      "index": 101,
+      "offset": 2156,
+      "original": "ワント",
+      "translated": ""
+    },
+    {
+      "index": 102,
+      "offset": 2164,
+      "original": "ＶＩＲ−３１２３",
+      "translated": ""
+    },
+    {
+      "index": 103,
+      "offset": 2184,
+      "original": "レオポルト",
+      "translated": ""
+    },
+    {
+      "index": 104,
+      "offset": 2196,
+      "original": "ＡＳＴ−８６９３",
+      "translated": ""
+    },
+    {
+      "index": 105,
+      "offset": 2216,
+      "original": "ワイアット",
+      "translated": ""
+    },
+    {
+      "index": 106,
+      "offset": 2228,
+      "original": "ＵＯＭ−５２１１",
+      "translated": ""
+    },
+    {
+      "index": 107,
+      "offset": 2248,
+      "original": "アドガ",
+      "translated": ""
+    },
+    {
+      "index": 108,
+      "offset": 2256,
+      "original": "レジーナ",
+      "translated": ""
+    },
+    {
+      "index": 109,
+      "offset": 2268,
+      "original": "マリア",
+      "translated": ""
+    },
+    {
+      "index": 110,
+      "offset": 2276,
+      "original": "ＭＪＲ−５４１３",
+      "translated": ""
+    },
+    {
+      "index": 111,
+      "offset": 2296,
+      "original": "ＭＣＮ−７７７２",
+      "translated": ""
+    },
+    {
+      "index": 112,
+      "offset": 2316,
+      "original": "ロゼリー",
+      "translated": ""
+    },
+    {
+      "index": 113,
+      "offset": 2328,
+      "original": "シャロン",
+      "translated": ""
+    },
+    {
+      "index": 114,
+      "offset": 2340,
+      "original": "ニーナ",
+      "translated": ""
+    },
+    {
+      "index": 115,
+      "offset": 2348,
+      "original": "ＭＪＲ−２２６０",
+      "translated": ""
+    },
+    {
+      "index": 116,
+      "offset": 2368,
+      "original": "マリー",
+      "translated": ""
+    },
+    {
+      "index": 117,
+      "offset": 2376,
+      "original": "ＭＣＮ−３５２１",
+      "translated": ""
+    },
+    {
+      "index": 118,
+      "offset": 2396,
+      "original": "ＭＪＲ−７８１３",
+      "translated": ""
+    },
+    {
+      "index": 119,
+      "offset": 2416,
+      "original": "ロレッタ",
+      "translated": ""
+    }
+  ]
+}

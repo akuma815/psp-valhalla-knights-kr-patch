@@ -1,0 +1,137 @@
+﻿File Path,Index,Offset,Original,Translated
+tbldata/tbldata_extracted/btstrtbl,0,1088,アイテム,아이템
+tbldata/tbldata_extracted/btstrtbl,1,1100,魔法,마법
+tbldata/tbldata_extracted/btstrtbl,2,1108,装備,장비
+tbldata/tbldata_extracted/btstrtbl,3,1116,サポート,지원
+tbldata/tbldata_extracted/btstrtbl,4,1128,逃げる,도망
+tbldata/tbldata_extracted/btstrtbl,5,1136,装備を変更しますか？,장비를 바꿀까요?
+tbldata/tbldata_extracted/btstrtbl,6,1160,個別,개별
+tbldata/tbldata_extracted/btstrtbl,7,1168,全体,전체
+tbldata/tbldata_extracted/btstrtbl,8,1176,サポート,지원
+tbldata/tbldata_extracted/btstrtbl,9,1188,自己判断優先,자율판단우선
+tbldata/tbldata_extracted/btstrtbl,10,1204,回復行動優先,회복행동우선
+tbldata/tbldata_extracted/btstrtbl,11,1220,武器攻撃優先,무기공격우선
+tbldata/tbldata_extracted/btstrtbl,12,1236,魔法攻撃優先,마법공격우선
+tbldata/tbldata_extracted/btstrtbl,13,1252,補助魔法優先,보조마법우선
+tbldata/tbldata_extracted/btstrtbl,14,1268,緊急脱出,긴급탈출
+tbldata/tbldata_extracted/btstrtbl,15,1280,バトルから逃げますか？,전투에서 도망칠까요?
+tbldata/tbldata_extracted/btstrtbl,16,1304,ＥＸＰを得た,ＥＸＰ 획득
+tbldata/tbldata_extracted/btstrtbl,17,1320,はレベルアップ！,은 레벨업!
+tbldata/tbldata_extracted/btstrtbl,18,1340,不明モンスターは,미확인몬스터는
+tbldata/tbldata_extracted/btstrtbl,19,1360,と識別できた,로 식별했다
+tbldata/tbldata_extracted/btstrtbl,20,1376,ボーナスポイントを振り分けてください,보너스 포인트를 배분하세요
+tbldata/tbldata_extracted/btstrtbl,21,1416,残りポイント,남은 포인트
+tbldata/tbldata_extracted/btstrtbl,22,1432,"すべてのボーナスポイントの振り分けが終了したら
+□ボタンをおしてください","모든 보너스 포인트를 배분한 뒤
+□ 버튼을 누르세요"
+tbldata/tbldata_extracted/btstrtbl,23,1504,マイナス,마이너스
+tbldata/tbldata_extracted/btstrtbl,24,1516,プラス,플러스
+tbldata/tbldata_extracted/btstrtbl,25,1524,入力終了,입력종료
+tbldata/tbldata_extracted/btstrtbl,26,1536,サイドアタックに成功！,측면공격 성공!
+tbldata/tbldata_extracted/btstrtbl,27,1560,バックアタックに成功！,후방공격 성공!
+tbldata/tbldata_extracted/btstrtbl,28,1584,サイドアタックを受けた！,측면공격을 받았다!
+tbldata/tbldata_extracted/btstrtbl,29,1612,バックアタックを受けた！,후방공격을 받았다!
+tbldata/tbldata_extracted/btstrtbl,30,1640,不明モンスター,미확인몬스터
+tbldata/tbldata_extracted/btstrtbl,31,1656,は思考ボーナスを１得た,은 사고보너스１ 획득
+tbldata/tbldata_extracted/btstrtbl,32,1680,全滅した・・・,전멸했다…
+tbldata/tbldata_extracted/btstrtbl,33,1696,になった,이 됐다
+tbldata/tbldata_extracted/btstrtbl,34,1708,から回復した,에서 회복
+tbldata/tbldata_extracted/btstrtbl,35,1724,を使った,을 썼다
+tbldata/tbldata_extracted/btstrtbl,36,1736,に使った,에 썼다
+tbldata/tbldata_extracted/btstrtbl,37,1748,死亡してしまった,은 사망했다
+tbldata/tbldata_extracted/btstrtbl,38,1768,ＨＰが少なくなっている,ＨＰ가 줄고 있다
+tbldata/tbldata_extracted/btstrtbl,39,1792,ＨＰが半分を切った,ＨＰ가 절반 이하
+tbldata/tbldata_extracted/btstrtbl,40,1812,ＨＰがかなり少なくなった,ＨＰ가 매우 적다
+tbldata/tbldata_extracted/btstrtbl,41,1840,を倒した,을 격파
+tbldata/tbldata_extracted/btstrtbl,42,1852,そろそろ危ないな,슬슬 위험하군
+tbldata/tbldata_extracted/btstrtbl,43,1872,かなり危険ね,꽤 위험해
+tbldata/tbldata_extracted/btstrtbl,44,1888,まだだ！まだ行ける！,아직이야! 간다!
+tbldata/tbldata_extracted/btstrtbl,45,1912,けっこう、やるじゃないか,제법 하는데?
+tbldata/tbldata_extracted/btstrtbl,46,1940,か、かすりキズだ！,"스,스친 상처다!"
+tbldata/tbldata_extracted/btstrtbl,47,1960,きびしいねぇ,힘드네
+tbldata/tbldata_extracted/btstrtbl,48,1976,ピンチ、たまには悪くない,위기도 가끔은 괜찮네
+tbldata/tbldata_extracted/btstrtbl,49,2004,あ、あせってないわよ！,"다,당황 안 했거든!"
+tbldata/tbldata_extracted/btstrtbl,50,2028,ヒガイリツ70パーセント,피해율70퍼센트
+tbldata/tbldata_extracted/btstrtbl,51,2052,ボディにキズがっ！,몸에 상처가!
+tbldata/tbldata_extracted/btstrtbl,52,2072,これはちょっとヤバイな,이건 좀 위험한데
+tbldata/tbldata_extracted/btstrtbl,53,2096,ここまでか・・・,여기까지인가…
+tbldata/tbldata_extracted/btstrtbl,54,2116,やられちゃった・・・,당해버렸네…
+tbldata/tbldata_extracted/btstrtbl,55,2140,これしきの事で・・・,이 정도 일로…
+tbldata/tbldata_extracted/btstrtbl,56,2164,まさかここまでとは・・・,설마 여기까지라니…
+tbldata/tbldata_extracted/btstrtbl,57,2192,無念・・・,무념…
+tbldata/tbldata_extracted/btstrtbl,58,2204,かなわないねぇ・・・,상대가 안 되네…
+tbldata/tbldata_extracted/btstrtbl,59,2228,デートはおあずけか・・・,데이트는 미뤄야겠네…
+tbldata/tbldata_extracted/btstrtbl,60,2256,美しくないですわ・・・,아름답지 않군요…
+tbldata/tbldata_extracted/btstrtbl,61,2280,キノウテイシシマス・・・,기능정지합니다…
+tbldata/tbldata_extracted/btstrtbl,62,2308,私が負けるなんて・・・,내가 지다니…
+tbldata/tbldata_extracted/btstrtbl,63,2332,すまねぇ・・・,미안하다…
+tbldata/tbldata_extracted/btstrtbl,64,2348,キラー・ビー,킬러 비
+tbldata/tbldata_extracted/btstrtbl,65,2364,チェックメイト,체크메이트
+tbldata/tbldata_extracted/btstrtbl,66,2380,ジ・エンド,디 엔드
+tbldata/tbldata_extracted/btstrtbl,67,2392,兜割り,파갑참
+tbldata/tbldata_extracted/btstrtbl,68,2400,十文字,십문자
+tbldata/tbldata_extracted/btstrtbl,69,2408,ヘブンズクライ,헤븐즈 크라이
+tbldata/tbldata_extracted/btstrtbl,70,2424,クレセントウェブ,크레센트 웹
+tbldata/tbldata_extracted/btstrtbl,71,2444,ムーンライト,문라이트
+tbldata/tbldata_extracted/btstrtbl,72,2460,トールハンマー,토르 해머
+tbldata/tbldata_extracted/btstrtbl,73,2476,ダンシングナイフ,댄싱 나이프
+tbldata/tbldata_extracted/btstrtbl,74,2496,ブレイブハート,브레이브 하트
+tbldata/tbldata_extracted/btstrtbl,75,2512,双竜門,쌍룡문
+tbldata/tbldata_extracted/btstrtbl,76,2520,ホーリースワロー,홀리 스왈로
+tbldata/tbldata_extracted/btstrtbl,77,2540,アーマーキラー,아머 킬러
+tbldata/tbldata_extracted/btstrtbl,78,2556,メテオストライク,메테오스트라이크
+tbldata/tbldata_extracted/btstrtbl,79,2576,パニッシャー,퍼니셔
+tbldata/tbldata_extracted/btstrtbl,80,2592,アベンジャー,어벤저
+tbldata/tbldata_extracted/btstrtbl,81,2608,アベンジャー,어벤저
+tbldata/tbldata_extracted/btstrtbl,82,2624,メテオストライク,메테오스트라이크
+tbldata/tbldata_extracted/btstrtbl,83,2644,＜ダミー＞,＜더미＞
+tbldata/tbldata_extracted/btstrtbl,84,2656,メテオストライク,메테오스트라이크
+tbldata/tbldata_extracted/btstrtbl,85,2676,アベンジャー,어벤저
+tbldata/tbldata_extracted/btstrtbl,86,2692,メテオストライク,메테오스트라이크
+tbldata/tbldata_extracted/btstrtbl,87,2712,ワイバンフォーム,와이번 폼
+tbldata/tbldata_extracted/btstrtbl,88,2732,ワイバンフォーム,와이번 폼
+tbldata/tbldata_extracted/btstrtbl,89,2752,ワイバンフォーム,와이번 폼
+tbldata/tbldata_extracted/btstrtbl,90,2772,ワイバンフォーム,와이번 폼
+tbldata/tbldata_extracted/btstrtbl,91,2792,ワイバンフォーム,와이번 폼
+tbldata/tbldata_extracted/btstrtbl,92,2812,トリガーハッピー,트리거 해피
+tbldata/tbldata_extracted/btstrtbl,93,2832,デフコン５,데프콘５
+tbldata/tbldata_extracted/btstrtbl,94,2844,スティンガー,스팅어
+tbldata/tbldata_extracted/btstrtbl,95,2860,デモンスライサー,데몬 슬라이서
+tbldata/tbldata_extracted/btstrtbl,96,2880,ギガインパクト,기가 임팩트
+tbldata/tbldata_extracted/btstrtbl,97,2896,エレクトロキュート,일렉트로큐트
+tbldata/tbldata_extracted/btstrtbl,98,2916,袋にアイテムが装備されていません,가방에 장착 아이템이 없다
+tbldata/tbldata_extracted/btstrtbl,99,2952,魔法を覚えていません,배운 마법이 없다
+tbldata/tbldata_extracted/btstrtbl,100,2976,予備武器が装備されていません,예비무기가 장착되지 않음
+tbldata/tbldata_extracted/btstrtbl,101,3008,サポート対象の仲間がいません,지원할 동료가 없다
+tbldata/tbldata_extracted/btstrtbl,102,3040,逃げる事が出来ません,도망칠 수 없다
+tbldata/tbldata_extracted/btstrtbl,103,3064,MP ,MP 
+tbldata/tbldata_extracted/btstrtbl,104,3068,ミス,미스
+tbldata/tbldata_extracted/btstrtbl,105,3076,ガード,방어
+tbldata/tbldata_extracted/btstrtbl,106,3084,MP＋,MP＋
+tbldata/tbldata_extracted/btstrtbl,107,3092,加速,가속
+tbldata/tbldata_extracted/btstrtbl,108,3100,減速,감속
+tbldata/tbldata_extracted/btstrtbl,109,3108,毒化,중독
+tbldata/tbldata_extracted/btstrtbl,110,3116,闇化,암흑
+tbldata/tbldata_extracted/btstrtbl,111,3124,沈黙,침묵
+tbldata/tbldata_extracted/btstrtbl,112,3132,麻痺,마비
+tbldata/tbldata_extracted/btstrtbl,113,3140,病気,질병
+tbldata/tbldata_extracted/btstrtbl,114,3148,石化,석화
+tbldata/tbldata_extracted/btstrtbl,115,3156,死亡,사망
+tbldata/tbldata_extracted/btstrtbl,116,3164,防御力Down,방어력감소
+tbldata/tbldata_extracted/btstrtbl,117,3176,攻撃力Down,공격력감소
+tbldata/tbldata_extracted/btstrtbl,118,3188,防御力Up,방어력증가
+tbldata/tbldata_extracted/btstrtbl,119,3200,攻撃力Up,공격력증가
+tbldata/tbldata_extracted/btstrtbl,120,3212,魔法防御力Up,마법방어력증가
+tbldata/tbldata_extracted/btstrtbl,121,3228,毒化 解除,중독 해제
+tbldata/tbldata_extracted/btstrtbl,122,3240,闇化 解除,암흑 해제
+tbldata/tbldata_extracted/btstrtbl,123,3252,沈黙 解除,침묵 해제
+tbldata/tbldata_extracted/btstrtbl,124,3264,麻痺 解除,마비 해제
+tbldata/tbldata_extracted/btstrtbl,125,3276,病気 解除,질병 해제
+tbldata/tbldata_extracted/btstrtbl,126,3288,石化 解除,석화 해제
+tbldata/tbldata_extracted/btstrtbl,127,3300,死亡 解除,사망 해제
+tbldata/tbldata_extracted/btstrtbl,128,3312,全異常 解除,모든이상해제
+tbldata/tbldata_extracted/btstrtbl,129,3324,相手の戦闘終了を待っています・・・,상대 전투 종료를 기다리는 중…
+tbldata/tbldata_extracted/btstrtbl,130,3360,右,우
+tbldata/tbldata_extracted/btstrtbl,131,3364,左,좌
+tbldata/tbldata_extracted/btstrtbl,132,3368,が,가
+tbldata/tbldata_extracted/btstrtbl,133,3372,上がった,올랐다

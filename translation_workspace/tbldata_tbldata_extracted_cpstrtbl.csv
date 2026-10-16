@@ -1,0 +1,189 @@
+﻿File Path,Index,Offset,Original,Translated
+tbldata/tbldata_extracted/cpstrtbl,0,1456,頭部,머리
+tbldata/tbldata_extracted/cpstrtbl,1,1464,首部,목
+tbldata/tbldata_extracted/cpstrtbl,2,1472,胴体,몸통
+tbldata/tbldata_extracted/cpstrtbl,3,1480,腕部,팔
+tbldata/tbldata_extracted/cpstrtbl,4,1488,右手,우손
+tbldata/tbldata_extracted/cpstrtbl,5,1496,左手,왼손
+tbldata/tbldata_extracted/cpstrtbl,6,1504,右指,우지
+tbldata/tbldata_extracted/cpstrtbl,7,1512,左指,좌지
+tbldata/tbldata_extracted/cpstrtbl,8,1520,脚部,다리
+tbldata/tbldata_extracted/cpstrtbl,9,1528,右予,우예
+tbldata/tbldata_extracted/cpstrtbl,10,1536,左予,좌예
+tbldata/tbldata_extracted/cpstrtbl,11,1544,袋１,낭１
+tbldata/tbldata_extracted/cpstrtbl,12,1552,袋２,낭２
+tbldata/tbldata_extracted/cpstrtbl,13,1560,袋３,낭３
+tbldata/tbldata_extracted/cpstrtbl,14,1568,袋４,낭４
+tbldata/tbldata_extracted/cpstrtbl,15,1576,袋５,낭５
+tbldata/tbldata_extracted/cpstrtbl,16,1584,袋６,낭６
+tbldata/tbldata_extracted/cpstrtbl,17,1592,アイテム,아이템
+tbldata/tbldata_extracted/cpstrtbl,18,1604,魔法,마법
+tbldata/tbldata_extracted/cpstrtbl,19,1612,装備,장비
+tbldata/tbldata_extracted/cpstrtbl,20,1620,陣形,진형
+tbldata/tbldata_extracted/cpstrtbl,21,1628,思考作成,사고작성
+tbldata/tbldata_extracted/cpstrtbl,22,1640,ステータス,상태
+tbldata/tbldata_extracted/cpstrtbl,23,1652,コンフィグ,설정
+tbldata/tbldata_extracted/cpstrtbl,24,1664,一時セーブ,임시저장
+tbldata/tbldata_extracted/cpstrtbl,25,1676,つかう,사용
+tbldata/tbldata_extracted/cpstrtbl,26,1684,大事な物,중요품
+tbldata/tbldata_extracted/cpstrtbl,27,1696,決定,결정
+tbldata/tbldata_extracted/cpstrtbl,28,1704,戻る,뒤로
+tbldata/tbldata_extracted/cpstrtbl,29,1712,前ページ,이전쪽
+tbldata/tbldata_extracted/cpstrtbl,30,1724,次ページ,다음쪽
+tbldata/tbldata_extracted/cpstrtbl,31,1736,大事な物,중요품
+tbldata/tbldata_extracted/cpstrtbl,32,1748,ソート,정렬
+tbldata/tbldata_extracted/cpstrtbl,33,1756,アイテム,아이템
+tbldata/tbldata_extracted/cpstrtbl,34,1768,前ページ,이전쪽
+tbldata/tbldata_extracted/cpstrtbl,35,1780,次ページ,다음쪽
+tbldata/tbldata_extracted/cpstrtbl,36,1792,説明文,설명문
+tbldata/tbldata_extracted/cpstrtbl,37,1800,前の人,이전인
+tbldata/tbldata_extracted/cpstrtbl,38,1808,次の人,다음인
+tbldata/tbldata_extracted/cpstrtbl,39,1816,移動,이동
+tbldata/tbldata_extracted/cpstrtbl,40,1824,増減,증감
+tbldata/tbldata_extracted/cpstrtbl,41,1832,前の人,이전인
+tbldata/tbldata_extracted/cpstrtbl,42,1840,次の人,다음인
+tbldata/tbldata_extracted/cpstrtbl,43,1848,「アイテム」アイテムを使います,「아이템」아이템을 씁니다
+tbldata/tbldata_extracted/cpstrtbl,44,1880,「魔法」魔法を使います,「마법」마법을 씁니다
+tbldata/tbldata_extracted/cpstrtbl,45,1904,「装備」装備を整えます,「장비」장비 정비
+tbldata/tbldata_extracted/cpstrtbl,46,1928,「陣形」バトル陣形を設定します,「진형」전투진형 설정
+tbldata/tbldata_extracted/cpstrtbl,47,1960,「思考作成」仲間のバトル思考を作成します,「사고작성」동료 전투사고 작성
+tbldata/tbldata_extracted/cpstrtbl,48,2004,「ステータス」仲間のステータスを見ます,「상태」동료 상태를 봅니다
+tbldata/tbldata_extracted/cpstrtbl,49,2044,「コンフィグ」各種設定を行います,「설정」각종 설정을 합니다
+tbldata/tbldata_extracted/cpstrtbl,50,2080,「一時セーブ」ゲームを中断します,「임시저장」게임을 중단합니다
+tbldata/tbldata_extracted/cpstrtbl,51,2116,アイテムを選択してください,아이템을 고르세요
+tbldata/tbldata_extracted/cpstrtbl,52,2144,つかう、すてる　を選択してください,"사용, 버리기를 고르세요"
+tbldata/tbldata_extracted/cpstrtbl,53,2180,誰に使いますか？,누구에게 쓸까?
+tbldata/tbldata_extracted/cpstrtbl,54,2200,ほんとうにすてますか？,정말 버릴까요?
+tbldata/tbldata_extracted/cpstrtbl,55,2224,大事な物を確認できます,중요품을 확인합니다
+tbldata/tbldata_extracted/cpstrtbl,56,2248,誰が魔法を唱えますか？,누가 마법을 쓸까요?
+tbldata/tbldata_extracted/cpstrtbl,57,2272,唱える魔法を選んでください,사용할 마법을 고르세요
+tbldata/tbldata_extracted/cpstrtbl,58,2300,ナレスで鑑定するアイテムを選んでください,나레스로 감정할 아이템을 고르세요
+tbldata/tbldata_extracted/cpstrtbl,59,2344,もう未鑑定のアイテムはありません　「○」,미감정 아이템이 없습니다　「○」
+tbldata/tbldata_extracted/cpstrtbl,60,2388,ＭＰがつきました　「○」,ＭＰ 부여　「○」
+tbldata/tbldata_extracted/cpstrtbl,61,2416,誰の装備をととのえますか？,누구 장비를 정비할까요?
+tbldata/tbldata_extracted/cpstrtbl,62,2444,どの部分の装備をととのえますか？,어느 부위 장비를 정비할까요?
+tbldata/tbldata_extracted/cpstrtbl,63,2480,装備を選んでください,장비를 고르세요
+tbldata/tbldata_extracted/cpstrtbl,64,2504,移動させる人を選んでください,이동할 사람을 고르세요
+tbldata/tbldata_extracted/cpstrtbl,65,2536,誰の思考をカスタマイズしますか？,누구의 사고를 조정할까요?
+tbldata/tbldata_extracted/cpstrtbl,66,2572,パラメータを割りふってください,수치를 배분하세요
+tbldata/tbldata_extracted/cpstrtbl,67,2604,誰のステータスをみますか？,누구의 상태를 볼까요?
+tbldata/tbldata_extracted/cpstrtbl,68,2632,変更したい項目を選んで、決定してください,바꿀 항목을 골라 결정하세요
+tbldata/tbldata_extracted/cpstrtbl,69,2676,メッセージを速く表示します,메시지를 빨리 표시합니다
+tbldata/tbldata_extracted/cpstrtbl,70,2704,メッセージを適度な速さで表示します,메시지를 적당히 표시합니다
+tbldata/tbldata_extracted/cpstrtbl,71,2740,メッセージをゆっくり表示します,메시지를 느리게 표시합니다
+tbldata/tbldata_extracted/cpstrtbl,72,2772,"アナログパッドを上に入れると、カメラは上を向きます
+アナログパッドを下に入れると、カメラは下を向きます","아날로그 패드를 올리면 카메라가 위를 봅니다
+아날로그 패드를 내리면 카메라가 아래를 봅니다"
+tbldata/tbldata_extracted/cpstrtbl,73,2876,"アナログパッドを上に入れると、カメラは下を向きます
+アナログパッドを下に入れると、カメラは上を向きます","아날로그 패드를 올리면 카메라가 아래를 봅니다
+아날로그 패드를 내리면 카메라가 위를 봅니다"
+tbldata/tbldata_extracted/cpstrtbl,74,2980,メニューのカーソル位置を覚えておきます,메뉴 커서 위치를 기억합니다
+tbldata/tbldata_extracted/cpstrtbl,75,3020,メニューのカーソル位置を覚えず最初の場所からにします,메뉴 커서 위치를 기억 않고 처음으로 돌립니다
+tbldata/tbldata_extracted/cpstrtbl,76,3076,バトル中の操作について、アイコンを表示します,전투 조작 아이콘을 표시합니다
+tbldata/tbldata_extracted/cpstrtbl,77,3124,バトル中の操作について、アイコンを表示しません,전투 조작 아이콘을 표시하지 않습니다
+tbldata/tbldata_extracted/cpstrtbl,78,3172,移動用キー配置を設定します,이동 키배치를 설정합니다
+tbldata/tbldata_extracted/cpstrtbl,79,3200,戦闘用キー配置を設定します,전투 키배치를 설정합니다
+tbldata/tbldata_extracted/cpstrtbl,80,3228,ミニマップの表示切替を行えるようにします,미니맵 표시를 전환할 수 있습니다
+tbldata/tbldata_extracted/cpstrtbl,81,3272,ミニマップの表示切替を行えないようにします,미니맵 표시를 전환할 수 없습니다
+tbldata/tbldata_extracted/cpstrtbl,82,3316,戦闘中はリーダーも自動で戦います,전투 중 리더도 자동전투합니다
+tbldata/tbldata_extracted/cpstrtbl,83,3352,戦闘中はリーダーを操作して戦います,전투 중 리더를 조작해 싸웁니다
+tbldata/tbldata_extracted/cpstrtbl,84,3388,コンフィグの内容を初期化します,설정을 초기화합니다
+tbldata/tbldata_extracted/cpstrtbl,85,3420,"コンフィグの内容を初期化します
+よろしいですか？","설정을 초기화합니다
+괜찮습니까?"
+tbldata/tbldata_extracted/cpstrtbl,86,3468,移動用キー配置を決めてください,이동 키 배치를 정하세요
+tbldata/tbldata_extracted/cpstrtbl,87,3500,キャラクターの目の位置から、全体を見るモードです,캐릭터 시점에서 전체를 보는 모드입니다
+tbldata/tbldata_extracted/cpstrtbl,88,3552,カメラをキャラクターの後ろへ再配置します,카메라를 캐릭터 뒤로 재배치합니다
+tbldata/tbldata_extracted/cpstrtbl,89,3596,キャンプメニューを呼び出して表示します,캠프 메뉴를 표시합니다
+tbldata/tbldata_extracted/cpstrtbl,90,3636,キャラクターをしゃがませます,캐릭터를 웅크립니다
+tbldata/tbldata_extracted/cpstrtbl,91,3668,話しかけたり、選択肢などの決定を行います,대화하거나 선택지를 결정합니다
+tbldata/tbldata_extracted/cpstrtbl,92,3712,選択肢などのキャンセルを行います,선택지 등을 취소합니다
+tbldata/tbldata_extracted/cpstrtbl,93,3748,ミニマップ表示・非表示の切り替えを行います,미니맵 표시를 전환합니다
+tbldata/tbldata_extracted/cpstrtbl,94,3792,キャンプメニュー表示を配分してください,캠프 메뉴 표시 키를 지정하세요
+tbldata/tbldata_extracted/cpstrtbl,95,3832,戦闘用キー配置を決めてください,전투 키 배치를 정하세요
+tbldata/tbldata_extracted/cpstrtbl,96,3864,遠距離武器で敵を狙うモードです,원거리무기 조준 모드입니다
+tbldata/tbldata_extracted/cpstrtbl,97,3896,ターゲットとなる敵をロックするモードです,대상 적을 고정하는 모드입니다
+tbldata/tbldata_extracted/cpstrtbl,98,3940,攻撃を実行します,공격합니다
+tbldata/tbldata_extracted/cpstrtbl,99,3960,必殺技を実行します,필살기를 씁니다
+tbldata/tbldata_extracted/cpstrtbl,100,3980,アイテムメニューを起動します,아이템 메뉴를 엽니다
+tbldata/tbldata_extracted/cpstrtbl,101,4012,仲間にサポート指示を行うメニューを起動します,동료 지원 지시 메뉴를 엽니다
+tbldata/tbldata_extracted/cpstrtbl,102,4060,魔法メニューを起動します,마법 메뉴를 엽니다
+tbldata/tbldata_extracted/cpstrtbl,103,4088,バトルのメインメニューを起動します,전투 주 메뉴를 엽니다
+tbldata/tbldata_extracted/cpstrtbl,104,4124,逃げるメニューを起動します,도주 메뉴를 엽니다
+tbldata/tbldata_extracted/cpstrtbl,105,4152,装備メニューを起動します,장비 메뉴를 엽니다
+tbldata/tbldata_extracted/cpstrtbl,106,4180,つかう,사용
+tbldata/tbldata_extracted/cpstrtbl,107,4188,すてる,버리기
+tbldata/tbldata_extracted/cpstrtbl,108,4196,ほんとうにすてますか？,정말 버릴까요?
+tbldata/tbldata_extracted/cpstrtbl,109,4220,武器攻撃,무기공격
+tbldata/tbldata_extracted/cpstrtbl,110,4232,アイテム使用,아이템사용
+tbldata/tbldata_extracted/cpstrtbl,111,4248,攻撃魔法,공격마법
+tbldata/tbldata_extracted/cpstrtbl,112,4260,状態異常回復,상태이상회복
+tbldata/tbldata_extracted/cpstrtbl,113,4276,ＨＰ回復魔法,ＨＰ회복마법
+tbldata/tbldata_extracted/cpstrtbl,114,4292,援護行動,지원행동
+tbldata/tbldata_extracted/cpstrtbl,115,4304,思考パラメータ合計,사고수치합계
+tbldata/tbldata_extracted/cpstrtbl,116,4324,思考パラメータ残り,사고수치잔여
+tbldata/tbldata_extracted/cpstrtbl,117,4344,対種族攻撃有効,종족특효
+tbldata/tbldata_extracted/cpstrtbl,118,4360,次Ｌｖまで,다음Ｌｖ
+tbldata/tbldata_extracted/cpstrtbl,119,4372,メッセージ速度,메시지속도
+tbldata/tbldata_extracted/cpstrtbl,120,4388,カメラ操作,카메라조작
+tbldata/tbldata_extracted/cpstrtbl,121,4400,カーソル位置記憶,커서위치기억
+tbldata/tbldata_extracted/cpstrtbl,122,4420,操作アイコン表示,조작아이콘표시
+tbldata/tbldata_extracted/cpstrtbl,123,4440,キー操作,키조작
+tbldata/tbldata_extracted/cpstrtbl,124,4452,ミニマップ切替,미니맵전환
+tbldata/tbldata_extracted/cpstrtbl,125,4468,フルオートバトル,완전자동전투
+tbldata/tbldata_extracted/cpstrtbl,126,4488,初期化,초기화
+tbldata/tbldata_extracted/cpstrtbl,127,4496,速,속
+tbldata/tbldata_extracted/cpstrtbl,128,4500,遅,지
+tbldata/tbldata_extracted/cpstrtbl,129,4504,ノーマルモード,일반모드
+tbldata/tbldata_extracted/cpstrtbl,130,4520,リバースモード,반전모드
+tbldata/tbldata_extracted/cpstrtbl,131,4536,ＯＮ,ＯＮ
+tbldata/tbldata_extracted/cpstrtbl,132,4544,ＯＦＦ,ＯＦＦ
+tbldata/tbldata_extracted/cpstrtbl,133,4552,ＯＮ,ＯＮ
+tbldata/tbldata_extracted/cpstrtbl,134,4560,ＯＦＦ,ＯＦＦ
+tbldata/tbldata_extracted/cpstrtbl,135,4568,移動用,이동용
+tbldata/tbldata_extracted/cpstrtbl,136,4576,戦闘用,전투용
+tbldata/tbldata_extracted/cpstrtbl,137,4584,ＯＮ,ＯＮ
+tbldata/tbldata_extracted/cpstrtbl,138,4592,ＯＦＦ,ＯＦＦ
+tbldata/tbldata_extracted/cpstrtbl,139,4600,ＯＮ,ＯＮ
+tbldata/tbldata_extracted/cpstrtbl,140,4608,ＯＦＦ,ＯＦＦ
+tbldata/tbldata_extracted/cpstrtbl,141,4616,実行,실행
+tbldata/tbldata_extracted/cpstrtbl,142,4624,キー配置,키배치
+tbldata/tbldata_extracted/cpstrtbl,143,4636,移動用,이동용
+tbldata/tbldata_extracted/cpstrtbl,144,4644,戦闘用,전투용
+tbldata/tbldata_extracted/cpstrtbl,145,4652,主観モード,주관모드
+tbldata/tbldata_extracted/cpstrtbl,146,4664,カメラリセット,카메라초기화
+tbldata/tbldata_extracted/cpstrtbl,147,4680,キャンプメニュー表示,캠프메뉴표시
+tbldata/tbldata_extracted/cpstrtbl,148,4704,しゃがみ,웅크리기
+tbldata/tbldata_extracted/cpstrtbl,149,4716,アクション（決定）,액션（결정）
+tbldata/tbldata_extracted/cpstrtbl,150,4736,キャンセル,취소
+tbldata/tbldata_extracted/cpstrtbl,151,4748,リーダー切替,리더전환
+tbldata/tbldata_extracted/cpstrtbl,152,4764,ミニマップ表示切替,미니맵표시전환
+tbldata/tbldata_extracted/cpstrtbl,153,4784,遠距離攻撃モード,원거리공격모드
+tbldata/tbldata_extracted/cpstrtbl,154,4804,ターゲットロック,대상고정
+tbldata/tbldata_extracted/cpstrtbl,155,4824,攻撃決定,공격결정
+tbldata/tbldata_extracted/cpstrtbl,156,4836,必殺技決定,필살기결정
+tbldata/tbldata_extracted/cpstrtbl,157,4848,アイテムメニュー起動,아이템메뉴열기
+tbldata/tbldata_extracted/cpstrtbl,158,4872,サポートメニュー起動,지원메뉴열기
+tbldata/tbldata_extracted/cpstrtbl,159,4896,魔法メニュー起動,마법메뉴열기
+tbldata/tbldata_extracted/cpstrtbl,160,4916,バトルメニュー起動,전투메뉴열기
+tbldata/tbldata_extracted/cpstrtbl,161,4936,逃げるメニュー起動,도주메뉴열기
+tbldata/tbldata_extracted/cpstrtbl,162,4956,装備メニュー起動,장비메뉴열기
+tbldata/tbldata_extracted/cpstrtbl,163,4976,決定,결정
+tbldata/tbldata_extracted/cpstrtbl,164,4984,未識別の,미식별
+tbldata/tbldata_extracted/cpstrtbl,165,4996,街へ戻りますか？,마을로 갈까요?
+tbldata/tbldata_extracted/cpstrtbl,166,5016,はずす,해제
+tbldata/tbldata_extracted/cpstrtbl,167,5024,武器を使っての攻撃を優先する度合い,무기 공격을 우선하는 정도
+tbldata/tbldata_extracted/cpstrtbl,168,5060,アイテムを使う度合い,아이템을 쓰는 정도
+tbldata/tbldata_extracted/cpstrtbl,169,5084,攻撃魔法を使う度合い,공격마법 사용 정도
+tbldata/tbldata_extracted/cpstrtbl,170,5108,状態異常を回復する度合い,상태이상 회복 정도
+tbldata/tbldata_extracted/cpstrtbl,171,5136,ＨＰ回復魔法を使う度合い,ＨＰ회복마법 사용 정도
+tbldata/tbldata_extracted/cpstrtbl,172,5164,危機にある仲間を助ける度合い,위험한 동료를 돕는 정도
+tbldata/tbldata_extracted/cpstrtbl,173,5196,既にその魔法は覚えています,이미 배운 마법입니다
+tbldata/tbldata_extracted/cpstrtbl,174,5224,一時セーブを実行しますか？,임시저장을 할까요?
+tbldata/tbldata_extracted/cpstrtbl,175,5252,一時セーブを実行中です・・・,임시저장 중…
+tbldata/tbldata_extracted/cpstrtbl,176,5284,ゲームを続けますか？,게임을 계속할까요?
+tbldata/tbldata_extracted/cpstrtbl,177,5308,を覚えた,을 습득
+tbldata/tbldata_extracted/cpstrtbl,178,5320,敵の動きが止まった,적의 움직임 정지
+tbldata/tbldata_extracted/cpstrtbl,179,5340,"ダンジョンの状況が
+ミニマップに投影された","던전 상황이
+미니맵에 투영됐다"

@@ -1,0 +1,47 @@
+{
+  "file_path": "tbldata/tbldata_extracted/instrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 72,
+      "original": "何の用だ？",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 84,
+      "original": "休息をとる",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 96,
+      "original": "セーブする",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 108,
+      "original": "Ｇだ",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 116,
+      "original": "また来いよ",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 128,
+      "original": "疲れていないようだが、休むのか？",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 164,
+      "original": "お金が足りないようだぞ",
+      "translated": ""
+    }
+  ]
+}

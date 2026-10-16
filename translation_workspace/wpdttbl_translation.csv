@@ -1,0 +1,132 @@
+﻿File Path,Index,Record Offset,Name Offset,Field Size,Max Encoded Bytes,Original Bytes,Original,Translated
+tbldata/wpdttbl,0,0x10,0x10,24,24,6,ナイフ,나이프
+tbldata/wpdttbl,1,0x44,0x44,24,24,12,ジャマダハル,자마다르
+tbldata/wpdttbl,2,0x78,0x78,24,24,6,サクス,색스
+tbldata/wpdttbl,3,0xAC,0xAC,24,24,6,ダガー,대거
+tbldata/wpdttbl,4,0xE0,0xE0,24,24,16,ラウンデルダガー,론델 대거
+tbldata/wpdttbl,5,0x114,0x114,24,24,14,シーザーダガー,시저 대거
+tbldata/wpdttbl,6,0x148,0x148,24,24,14,ショートソード,쇼트 소드
+tbldata/wpdttbl,7,0x17C,0x17C,24,24,10,バゼラード,바젤라드
+tbldata/wpdttbl,8,0x1B0,0x1B0,24,24,16,ソードブレイカー,소드 브레이커
+tbldata/wpdttbl,9,0x1E4,0x1E4,24,24,12,ロングソード,롱 소드
+tbldata/wpdttbl,10,0x218,0x218,24,24,14,ブロードソード,브로드 소드
+tbldata/wpdttbl,11,0x24C,0x24C,24,24,12,グラディウス,글라디우스
+tbldata/wpdttbl,12,0x280,0x280,24,24,8,シミター,시미터
+tbldata/wpdttbl,13,0x2B4,0x2B4,24,24,12,シャムシール,샴시르
+tbldata/wpdttbl,14,0x2E8,0x2E8,24,24,10,タルワール,탈와르
+tbldata/wpdttbl,15,0x31C,0x31C,24,24,8,サーベル,세이버
+tbldata/wpdttbl,16,0x350,0x350,24,24,12,イヤーソード,이어 소드
+tbldata/wpdttbl,17,0x384,0x384,24,24,10,エストック,에스톡
+tbldata/wpdttbl,18,0x3B8,0x3B8,24,24,10,クレイモア,클레이모어
+tbldata/wpdttbl,19,0x3EC,0x3EC,24,24,8,カスカラ,카스카라
+tbldata/wpdttbl,20,0x420,0x420,24,24,16,トゥハンドソード,투핸드 소드
+tbldata/wpdttbl,21,0x454,0x454,24,24,16,バスタードソード,바스타드 소드
+tbldata/wpdttbl,22,0x488,0x488,24,24,8,カーテナ,커테나
+tbldata/wpdttbl,23,0x4BC,0x4BC,24,24,18,トゥヴァイハンダー,츠바이핸더
+tbldata/wpdttbl,24,0x4F0,0x4F0,24,24,14,グレートソード,그레이트 소드
+tbldata/wpdttbl,25,0x524,0x524,24,24,18,ヴィーキングソード,바이킹 소드
+tbldata/wpdttbl,26,0x558,0x558,24,24,16,ダマスカスソード,다마스쿠스 소드
+tbldata/wpdttbl,27,0x58C,0x58C,24,24,8,円頭太刀,환두대도
+tbldata/wpdttbl,28,0x5C0,0x5C0,24,24,8,頭椎太刀,두추대도
+tbldata/wpdttbl,29,0x5F4,0x5F4,24,24,8,天叢雲剣,천총운검
+tbldata/wpdttbl,30,0x628,0x628,24,24,4,宗近,종근
+tbldata/wpdttbl,31,0x65C,0x65C,24,24,4,兼光,겸광
+tbldata/wpdttbl,32,0x690,0x690,24,24,8,妙法村正,묘법촌정
+tbldata/wpdttbl,33,0x6C4,0x6C4,24,24,4,小烏,소오
+tbldata/wpdttbl,34,0x6F8,0x6F8,24,24,6,一文字,일문자
+tbldata/wpdttbl,35,0x72C,0x72C,24,24,6,虎入道,호입도
+tbldata/wpdttbl,36,0x760,0x760,24,24,4,光包,광포
+tbldata/wpdttbl,37,0x794,0x794,24,24,4,水龍,수룡
+tbldata/wpdttbl,38,0x7C8,0x7C8,24,24,8,黒作大刀,흑작대도
+tbldata/wpdttbl,39,0x7FC,0x7FC,24,24,4,吉光,길광
+tbldata/wpdttbl,40,0x830,0x830,24,24,4,正宗,정종
+tbldata/wpdttbl,41,0x864,0x864,24,24,6,小狐丸,소호환
+tbldata/wpdttbl,42,0x898,0x898,24,24,12,ショートボウ,쇼트 보우
+tbldata/wpdttbl,43,0x8CC,0x8CC,24,24,2,弓,활
+tbldata/wpdttbl,44,0x900,0x900,24,24,16,コンポジットボウ,컴포지트 보우
+tbldata/wpdttbl,45,0x934,0x934,24,24,10,ロングボウ,롱 보우
+tbldata/wpdttbl,46,0x968,0x968,24,24,12,グレイトボウ,그레이트보우
+tbldata/wpdttbl,47,0x99C,0x99C,24,24,6,重籐弓,중등궁
+tbldata/wpdttbl,48,0x9D0,0x9D0,24,24,2,杖,봉
+tbldata/wpdttbl,49,0xA04,0xA04,24,24,6,ワンド,완드
+tbldata/wpdttbl,50,0xA38,0xA38,24,24,8,セプター,셉터
+tbldata/wpdttbl,51,0xA6C,0xA6C,24,24,6,クラブ,클럽
+tbldata/wpdttbl,52,0xAA0,0xAA0,24,24,14,ジャバウォック,재버워크
+tbldata/wpdttbl,53,0xAD4,0xAD4,24,24,16,スパイクドクラブ,스파이크드 클럽
+tbldata/wpdttbl,54,0xB08,0xB08,24,24,8,スタッフ,스태프
+tbldata/wpdttbl,55,0xB3C,0xB3C,24,24,6,ブラワ,브라와
+tbldata/wpdttbl,56,0xB70,0xB70,24,24,6,メイス,메이스
+tbldata/wpdttbl,57,0xBA4,0xBA4,24,24,14,ウォーハンマー,워해머
+tbldata/wpdttbl,58,0xBD8,0xBD8,24,24,14,ハンドアックス,핸드 액스
+tbldata/wpdttbl,59,0xC0C,0xC0C,24,24,16,グレートアックス,그레이트 액스
+tbldata/wpdttbl,60,0xC40,0xC40,24,24,10,トマホーク,토마호크
+tbldata/wpdttbl,61,0xC74,0xC74,24,24,14,バトルアックス,배틀 액스
+tbldata/wpdttbl,62,0xCA8,0xCA8,24,24,20,ダブルブレーディット,더블 블레이드
+tbldata/wpdttbl,63,0xCDC,0xCDC,24,24,10,ラブリュス,라브리스
+tbldata/wpdttbl,64,0xD10,0xD10,24,24,12,ＡＰＳ６０Ｋ,ＡＰＳ６０Ｋ
+tbldata/wpdttbl,65,0xD44,0xD44,24,24,10,ＳＶＫ７３,ＳＶＫ７３
+tbldata/wpdttbl,66,0xD78,0xD78,24,24,16,ラピットファイア,래피드 파이어
+tbldata/wpdttbl,67,0xDAC,0xDAC,24,24,12,ＡＶＫ８６１,ＡＶＫ８６１
+tbldata/wpdttbl,68,0xDE0,0xDE0,24,24,8,Ｍ１５０,Ｍ１５０
+tbldata/wpdttbl,69,0xE14,0xE14,24,24,8,スメルチ,스메르치
+tbldata/wpdttbl,70,0xE48,0xE48,24,24,10,ボルケーノ,볼케이노
+tbldata/wpdttbl,71,0xE7C,0xE7C,24,24,12,プロミネンス,프로미넌스
+tbldata/wpdttbl,72,0xEB0,0xEB0,24,24,10,バックラー,버클러
+tbldata/wpdttbl,73,0xEE4,0xEE4,24,24,8,タージェ,타지
+tbldata/wpdttbl,74,0xF18,0xF18,24,24,16,ラウンドシールド,라운드 실드
+tbldata/wpdttbl,75,0xF4C,0xF4C,24,24,14,ラージシールド,라지 실드
+tbldata/wpdttbl,76,0xF80,0xF80,24,24,14,カイトシールド,카이트 실드
+tbldata/wpdttbl,77,0xFB4,0xFB4,24,24,10,スクトゥム,스쿠툼
+tbldata/wpdttbl,78,0xFE8,0xFE8,24,24,6,木の矢,나무살
+tbldata/wpdttbl,79,0x101C,0x101C,24,24,6,石の矢,돌화살
+tbldata/wpdttbl,80,0x1050,0x1050,24,24,6,鉄の矢,철화살
+tbldata/wpdttbl,81,0x1084,0x1084,24,24,6,病の矢,병화살
+tbldata/wpdttbl,82,0x10B8,0x10B8,24,24,6,闇の矢,어둠살
+tbldata/wpdttbl,83,0x10EC,0x10EC,24,24,6,毒の矢,독화살
+tbldata/wpdttbl,84,0x1120,0x1120,24,24,8,麻痺の矢,마비화살
+tbldata/wpdttbl,85,0x1154,0x1154,24,24,8,沈黙の矢,침묵화살
+tbldata/wpdttbl,86,0x1188,0x1188,24,24,16,ポイントブレット,포인트 불릿
+tbldata/wpdttbl,87,0x11BC,0x11BC,24,24,18,アーマーピアシング,아머 피어싱
+tbldata/wpdttbl,88,0x11F0,0x11F0,24,24,18,スチールジャケット,스틸 재킷
+tbldata/wpdttbl,89,0x1224,0x1224,24,24,12,ブランクコア,블랭크 코어
+tbldata/wpdttbl,90,0x1258,0x1258,24,24,5,APC弾,APC탄
+tbldata/wpdttbl,91,0x128C,0x128C,24,24,6,APCR弾,APCR탄
+tbldata/wpdttbl,92,0x12C0,0x12C0,24,24,6,HEAT弾,HEAT탄
+tbldata/wpdttbl,93,0x12F4,0x12F4,24,24,5,SSF弾,SSF탄
+tbldata/wpdttbl,94,0x1328,0x1328,24,24,12,ドリルアーム,드릴 암
+tbldata/wpdttbl,95,0x135C,0x135C,24,24,18,スパイラルファング,스파이럴 팽
+tbldata/wpdttbl,96,0x1390,0x1390,24,24,20,ブロークントルネード,브로큰 토네이도
+tbldata/wpdttbl,97,0x13C4,0x13C4,24,24,12,チェーンソー,체인소
+tbldata/wpdttbl,98,0x13F8,0x13F8,24,24,14,ダンデライオン,댄들라이언
+tbldata/wpdttbl,99,0x142C,0x142C,24,24,12,デスダンサー,데스 댄서
+tbldata/wpdttbl,100,0x1460,0x1460,24,24,18,スピニングニードル,스피닝 니들
+tbldata/wpdttbl,101,0x1494,0x1494,24,24,12,ビッグタスク,빅 터스크
+tbldata/wpdttbl,102,0x14C8,0x14C8,24,24,20,ハイパーエクスプレス,하이퍼 익스프레스
+tbldata/wpdttbl,103,0x14FC,0x14FC,24,24,10,スタンガン,스턴 건
+tbldata/wpdttbl,104,0x1530,0x1530,24,24,20,ライトニングスパーク,라이트닝 스파크
+tbldata/wpdttbl,105,0x1564,0x1564,24,24,24,ヴォルティックドライバー,볼틱 드라이버
+tbldata/wpdttbl,106,0x1598,0x1598,24,24,6,カルド,카르드
+tbldata/wpdttbl,107,0x15CC,0x15CC,24,24,12,ミセリコルデ,미제리코르드
+tbldata/wpdttbl,108,0x1600,0x1600,24,24,10,パラッシュ,팔라슈
+tbldata/wpdttbl,109,0x1634,0x1634,24,24,16,ドラゴントゥース,드래곤 투스
+tbldata/wpdttbl,110,0x1668,0x1668,24,24,6,カダラ,콰다라
+tbldata/wpdttbl,111,0x169C,0x169C,24,24,22,エグゼキューショナーズ,엑시큐셔너
+tbldata/wpdttbl,112,0x16D0,0x16D0,24,24,4,国綱,국강
+tbldata/wpdttbl,113,0x1704,0x1704,24,24,4,清光,청광
+tbldata/wpdttbl,114,0x1738,0x1738,24,24,4,天国,천국
+tbldata/wpdttbl,115,0x176C,0x176C,24,24,4,包平,포평
+tbldata/wpdttbl,116,0x17A0,0x17A0,24,24,10,ジェンダワ,겐다와
+tbldata/wpdttbl,117,0x17D4,0x17D4,24,24,12,ラップドボウ,랩트 보우
+tbldata/wpdttbl,118,0x1808,0x1808,24,24,10,シャシブル,샤시불
+tbldata/wpdttbl,119,0x183C,0x183C,24,24,6,アロン,아론
+tbldata/wpdttbl,120,0x1870,0x1870,24,24,6,グルズ,구르즈
+tbldata/wpdttbl,121,0x18A4,0x18A4,24,24,16,モルゲンステルン,모르겐슈테른
+tbldata/wpdttbl,122,0x18D8,0x18D8,24,24,14,ヘッドアックス,헤드 액스
+tbldata/wpdttbl,123,0x190C,0x190C,24,24,8,ブローバ,불로바
+tbldata/wpdttbl,124,0x1940,0x1940,24,24,10,ナイトメア,나이트메어
+tbldata/wpdttbl,125,0x1974,0x1974,24,24,10,グローリー,글로리
+tbldata/wpdttbl,126,0x19A8,0x19A8,24,24,8,グローザ,그로자
+tbldata/wpdttbl,127,0x19DC,0x19DC,24,24,10,０式擲弾筒,０식척탄통
+tbldata/wpdttbl,128,0x1A10,0x1A10,24,24,8,カーワー,카와르
+tbldata/wpdttbl,129,0x1A44,0x1A44,24,24,14,タワーシールド,타워 실드
+tbldata/wpdttbl,130,0x1A78,0x1A78,24,24,18,ライジングフォース,라이징 포스

@@ -1,0 +1,149 @@
+{
+  "file_path": "tbldata/tbldata_extracted/tbstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 208,
+      "original": "トラップなし",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 224,
+      "original": "炎ダメージ",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 236,
+      "original": "冷ダメージ",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 248,
+      "original": "空ダメージ",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 260,
+      "original": "無ダメージ",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 272,
+      "original": "毒化",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 280,
+      "original": "闇化",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 288,
+      "original": "麻痺",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 296,
+      "original": "沈黙",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 304,
+      "original": "病気",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 312,
+      "original": "減速",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 320,
+      "original": "加速",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 328,
+      "original": "防御力ダウン",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 344,
+      "original": "攻撃力ダウン",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 360,
+      "original": "ミニマップクリア",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 380,
+      "original": "宝箱を調べる方法を選んでください",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 416,
+      "original": "魔法を使う",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 428,
+      "original": "魔法は使わない",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 444,
+      "original": "誰が魔法ナディオスを使いますか？",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 480,
+      "original": "誰が解除しますか？",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 500,
+      "original": "トラップが仕掛けられているようです\n仕掛けてあると思うトラップを解除してください",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 580,
+      "original": "トラップ発動！！",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 600,
+      "original": "を手に入れた！",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 616,
+      "original": "持ち物がいっぱいだった・・・",
+      "translated": ""
+    }
+  ]
+}

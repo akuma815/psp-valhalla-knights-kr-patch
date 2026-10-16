@@ -1,0 +1,75 @@
+﻿File Path,Category,Index,Record Offset,Offset,Field Size,Original Bytes,Original,Translated
+tbldata/sitmtbl,시나리오 아이템명,0,0x10,0x10,16,10,杖のかけら,지팡이조각
+tbldata/sitmtbl,시나리오 아이템명,1,0x28,0x28,16,16,王女のペンダント,공주의 펜던트
+tbldata/sitmtbl,시나리오 아이템명,2,0x40,0x40,16,14,黒森の誓いの証,흑림의맹세증표
+tbldata/sitmtbl,시나리오 아이템명,3,0x58,0x58,16,8,同盟の証,동맹증표
+tbldata/sitmtbl,시나리오 아이템명,4,0x70,0x70,16,14,同盟の証カケラ,동맹증표조각
+tbldata/sitmtbl,시나리오 아이템명,5,0x88,0x88,16,14,同盟の証カケラ,동맹증표조각
+tbldata/sitmtbl,시나리오 아이템명,6,0xA0,0xA0,16,8,錆びた剣,녹슨 검
+tbldata/sitmtbl,시나리오 아이템명,7,0xB8,0xB8,16,8,和睦の証,화친증표
+tbldata/sitmtbl,시나리오 아이템명,8,0xD0,0xD0,16,14,聖域へ導く左翼,성역의 좌익
+tbldata/sitmtbl,시나리오 아이템명,9,0xE8,0xE8,16,14,聖域へ導く右翼,성역의 우익
+tbldata/sitmtbl,시나리오 아이템명,10,0x100,0x100,16,14,羽無し鳥の宣告,무익조의선고
+tbldata/sitmtbl,시나리오 아이템명,11,0x118,0x118,16,4,遺書,유서
+tbldata/sitmtbl,시나리오 아이템명,12,0x130,0x130,16,4,林檎,사과
+tbldata/sitmtbl,시나리오 아이템명,13,0x148,0x148,16,12,ブルージェム,푸른보석
+tbldata/sitmtbl,시나리오 아이템명,14,0x160,0x160,16,8,名誉の剣,명예검
+tbldata/sitmtbl,시나리오 아이템명,15,0x178,0x178,16,6,空の絵,하늘화
+tbldata/sitmtbl,시나리오 아이템명,16,0x190,0x190,16,6,天の壺,천호
+tbldata/sitmtbl,시나리오 아이템명,17,0x1A8,0x1A8,16,10,父への手紙,부친서신
+tbldata/sitmtbl,시나리오 아이템명,18,0x1C0,0x1C0,16,16,聖なるペンダント,성스런펜던트
+tbldata/sitmtbl,시나리오 아이템명,19,0x1D8,0x1D8,16,8,ハンマー,망치
+tbldata/sitmtbl,시나리오 아이템명,20,0x1F0,0x1F0,16,12,鍛冶屋の手紙,대장장이편지
+tbldata/sitmtbl,시나리오 아이템명,21,0x208,0x208,16,6,黒い石,흑석
+tbldata/sitmtbl,시나리오 아이템명,22,0x220,0x220,16,8,家宝の剣,가보검
+tbldata/sitmtbl,시나리오 아이템명,23,0x238,0x238,16,10,誓いの指輪,맹세반지
+tbldata/sitmtbl,시나리오 아이템명,24,0x250,0x250,16,4,宝箱,보함
+tbldata/sitmtbl,시나리오 아이템명,25,0x268,0x268,16,4,神酒,신주
+tbldata/sitmtbl,시나리오 아이템명,26,0x280,0x280,16,4,手紙,편지
+tbldata/sitmtbl,시나리오 아이템명,27,0x298,0x298,16,4,巻物,서책
+tbldata/sitmtbl,시나리오 아이템명,28,0x2B0,0x2B0,16,8,神聖な筆,성필
+tbldata/sitmtbl,시나리오 아이템명,29,0x2C8,0x2C8,16,10,黄金の林檎,황금사과
+tbldata/sitmtbl,시나리오 아이템명,30,0x2E0,0x2E0,16,16,思い出のブローチ,추억브로치
+tbldata/sitmtbl,시나리오 아이템명,31,0x2F8,0x2F8,16,8,白い小枝,흰가지
+tbldata/sitmtbl,시나리오 아이템명,32,0x310,0x310,16,10,呪いの腕輪,저주팔찌
+tbldata/sitmtbl,시나리오 아이템명,33,0x328,0x328,16,6,天の壺,천호
+tbldata/sitmtbl,시나리오 아이템명,34,0x340,0x340,16,6,予知鏡,예지경
+tbldata/sitmtbl,시나리오 아이템명,35,0x358,0x358,16,8,スカーフ,스카프
+tbldata/sitmtbl,시나리오 아이템명,36,0x370,0x370,16,8,古びた剣,낡은 검
+tbldata/sitmtbl,시나리오 아이템명,37,0x388,0x388,16,12,マンドラゴラ,만드라고라
+tbldata/sitmtbl,시나리오 아이템명,38,0x3A0,0x3A0,16,10,黄金の腕輪,황금팔찌
+tbldata/sitmtbl,시나리오 아이템명,39,0x3B8,0x3B8,16,12,銀のかたまり,은덩이
+tbldata/sitmtbl,시나리오 아이템명,40,0x3D0,0x3D0,16,4,人形,인형
+tbldata/sitmtbl,시나리오 아이템명,41,0x3E8,0x3E8,16,12,思い出の手紙,추억편지
+tbldata/sitmtbl,시나리오 아이템명,42,0x400,0x400,16,12,フラウアの花,플라우아꽃
+tbldata/sitmtbl,시나리오 아이템명,43,0x418,0x418,16,4,耳栓,귀막
+tbldata/sitmtbl,시나리오 아이템명,44,0x430,0x430,16,8,犬の置物,개 장식
+tbldata/sitmtbl,시나리오 아이템명,45,0x448,0x448,16,12,壁画のかけら,벽화조각
+tbldata/sitmtbl,시나리오 아이템명,46,0x460,0x460,16,6,預言書,예언서
+tbldata/sitmtbl,시나리오 아이템명,47,0x478,0x478,16,8,おにぎり,주먹밥
+tbldata/sitmtbl,시나리오 아이템명,48,0x490,0x490,16,8,銀の聖杯,은성배
+tbldata/sitmtbl,시나리오 아이템명,49,0x4A8,0x4A8,16,6,時の棺,시간관
+tbldata/sitmtbl,시나리오 아이템명,50,0x4C0,0x4C0,16,6,白い石,흰 돌
+tbldata/sitmtbl,시나리오 아이템명,51,0x4D8,0x4D8,16,8,緑の指輪,녹색반지
+tbldata/sitmtbl,시나리오 아이템명,52,0x4F0,0x4F0,16,10,呪いの小箱,저주상자
+tbldata/sitmtbl,시나리오 아이템명,53,0x508,0x508,16,12,金のかたまり,금덩이
+tbldata/sitmtbl,시나리오 아이템명,54,0x520,0x520,16,6,赤い石,적석
+tbldata/sitmtbl,시나리오 아이템명,55,0x538,0x538,16,8,フラスコ,플라스크
+tbldata/sitmtbl,시나리오 아이템명,56,0x550,0x550,16,6,銀食器,은식기
+tbldata/sitmtbl,시나리오 아이템명,57,0x568,0x568,16,4,鉱物,광물
+tbldata/sitmtbl,시나리오 아이템명,58,0x580,0x580,16,8,純金の杖,순금봉
+tbldata/sitmtbl,시나리오 아이템명,59,0x598,0x598,16,4,星図,성도
+tbldata/sitmtbl,시나리오 아이템명,60,0x5B0,0x5B0,16,8,緑の石版,녹색석판
+tbldata/sitmtbl,시나리오 아이템명,61,0x5C8,0x5C8,16,8,緑の石版,녹색석판
+tbldata/sitmtbl,시나리오 아이템명,62,0x5E0,0x5E0,16,8,緑の石版,녹색석판
+tbldata/sitmtbl,시나리오 아이템명,63,0x5F8,0x5F8,16,8,緑の石版,녹색석판
+tbldata/sitmtbl,시나리오 아이템명,64,0x610,0x610,16,8,緑の石版,녹색석판
+tbldata/sitmtbl,시나리오 아이템명,65,0x628,0x628,16,6,金の剣,금검
+tbldata/sitmtbl,시나리오 아이템명,66,0x640,0x640,16,6,銀の剣,은검
+tbldata/sitmtbl,시나리오 아이템명,67,0x658,0x658,16,6,銅の剣,동검
+tbldata/sitmtbl,시나리오 아이템명,68,0x670,0x670,16,4,ネジ,나사
+tbldata/sitmtbl,시나리오 아이템명,69,0x688,0x688,16,8,電子時計,전자시계
+tbldata/sitmtbl,시나리오 아이템명,70,0x6A0,0x6A0,16,10,オルゴール,오르골
+tbldata/sitmtbl,시나리오 아이템명,71,0x6B8,0x6B8,16,16,機械仕掛けの林檎,기계장치사과
+tbldata/sitmtbl,시나리오 아이템명,72,0x6D0,0x6D0,16,6,望む石,소망석
+tbldata/sitmtbl,시나리오 아이템명,73,0x6E8,0x6E8,16,8,聖なる粉,성분말

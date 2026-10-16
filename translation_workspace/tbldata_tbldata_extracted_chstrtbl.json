@@ -1,0 +1,35 @@
+{
+  "file_path": "tbldata/tbldata_extracted/chstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 56,
+      "original": "アルカルス教会",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 72,
+      "original": "どなたに祈りをささげましょうか？",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 108,
+      "original": "必要ですが、祈りましょうか？",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 140,
+      "original": "私の祈りは必要なさそうですね",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 172,
+      "original": "おふせが足りないようですね",
+      "translated": ""
+    }
+  ]
+}

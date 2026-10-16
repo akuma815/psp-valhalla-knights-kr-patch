@@ -1,0 +1,197 @@
+{
+  "file_path": "tbldata/tbldata_extracted/msstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 272,
+      "original": "メモリースティック＠がみつかりません。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 360,
+      "original": "メモリースティック＠がみつかりません。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 448,
+      "original": "メモリースティック＠の空き容量が不足しています。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 548,
+      "original": "セーブに失敗しました。\nメモリースティック＠がロックされているため、\nメモリースティック＠に書き込みできませんでした。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 716,
+      "original": "セーブに失敗しました。\nメモリースティック＠を入れてください。",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 780,
+      "original": "セーブデータが壊れています。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 860,
+      "original": "セーブデータがありません。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 936,
+      "original": "セーブデータが壊れています。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1016,
+      "original": "メモリースティック＠にアクセスできませんでした。\nメモリースティック＠を入れてください。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1156,
+      "original": "セーブデータがありません。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1232,
+      "original": "メモリースティック＠にアクセスできませんでした。\nメモリースティック＠を入れてください。\nこのゲームのデータをセーブするには空き容量が合計",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1372,
+      "original": "ＫＢ以上必要です。",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1392,
+      "original": "ロードに失敗しました。",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1416,
+      "original": "セーブデータを削除しますか？",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1448,
+      "original": "一時セーブデータを削除しますが、かまいませんか？",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1500,
+      "original": "一時セーブデータを削除しています・・・",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1540,
+      "original": "セーブをしますか？",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1560,
+      "original": "セーブに失敗しました。",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1584,
+      "original": "ロードが中断されました",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1608,
+      "original": "セーブが中断されました",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1632,
+      "original": "もう一度ロードをおこないますか？",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1668,
+      "original": "もう一度セーブをおこないますか？",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1704,
+      "original": "ロードに失敗しました。\nメモリースティック＠を入れてください。",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1768,
+      "original": "本ゲームはオートセーブ機能に対応しています。\nオートセーブ中にはメモリースティック デュオ＠アクセスランプが\n点滅しますので、その間はメモリースティック＠を抜いたり、\n本体の電源を切ったりしないで下さい。",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1972,
+      "original": "セーブデータをロードします。\nロードの際に、一時セーブデータは削除する事になりますが、\nかまいませんか？",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 2076,
+      "original": "一時セーブデータを上書きしますか？",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 2112,
+      "original": "一時セーブを行いませんでした",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 2144,
+      "original": "セーブデータの削除が中断されました",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 2180,
+      "original": "もう一度セーブデータの削除をおこないますか？",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 2228,
+      "original": "すでにあるセーブデータは削除されますが、かまいませんか？",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 2288,
+      "original": "別のセーブデータにかわっています\n上書きしてもかまいませんか？",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 2352,
+      "original": "別のセーブデータにかわっています\n一時セーブデータの削除を中止します",
+      "translated": ""
+    }
+  ]
+}

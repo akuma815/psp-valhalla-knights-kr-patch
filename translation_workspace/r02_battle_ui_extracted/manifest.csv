@@ -1,0 +1,13 @@
+﻿kind,name,source,offset,size,sprite_count,texture_refs,output
+sprite_definition,btmens00,gsprite/gsprite.res,0xCE0,256,5,station0,sprite_definitions/btmens00.bin
+sprite_definition,btmens10,gsprite/gsprite.res,0xDE0,648,13,station0;station2,sprite_definitions/btmens10.bin
+sprite_definition,btmens11,gsprite/gsprite.res,0x1070,168,3,station0;station2,sprite_definitions/btmens11.bin
+sprite_definition,btmens20,gsprite/gsprite.res,0x1120,744,15,station0;station2,sprite_definitions/btmens20.bin
+sprite_definition,btmens21,gsprite/gsprite.res,0x1410,168,3,station0;station2,sprite_definitions/btmens21.bin
+sprite_definition,btmens30,gsprite/gsprite.res,0x14C0,504,10,station0;station2,sprite_definitions/btmens30.bin
+sprite_definition,btmens40,gsprite/gsprite.res,0x16C0,400,8,station0,sprite_definitions/btmens40.bin
+sprite_definition,btmens41,gsprite/gsprite.res,0x1850,304,6,station0,sprite_definitions/btmens41.bin
+sprite_definition,btmens42,gsprite/gsprite.res,0x1980,112,2,station0,sprite_definitions/btmens42.bin
+sprite_definition,btmensxx,gsprite/gsprite.res,0x19F0,64,1,station2,sprite_definitions/btmensxx.bin
+texture,station0,global/global.res,0x769E0,263452,,,textures/station0.gim; textures/station0.png; textures/station0_dark.png
+texture,station2,global/global.res,0xD7420,66844,,,textures/station2.gim; textures/station2.png; textures/station2_dark.png; textures/station2_battle_text_crop.png; textures/station2_battle_text_crop_x4.png

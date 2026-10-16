@@ -1,0 +1,155 @@
+﻿File Path,Index,Offset,Original,Translated
+tbldata/tbldata_extracted/mgstrtbl,0,400,"魔法属性《炎》
+炎でダメージを与える
+単数対象","마법속성《불》
+불로 피해를 준다
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,1,448,"魔法属性《冷》
+冷気でダメージを与える
+単数対象","마법속성《냉》
+냉기로 피해를 준다
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,2,496,"状態異常「毒化」を付与
+単数対象","상태이상「중독」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,3,528,"状態異常「闇化」を付与
+単数対象","상태이상「암흑」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,4,560,"魔法属性《空》
+真空刃でダメージを与える
+単数対象","마법속성《공》
+진공날로 피해를 준다
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,5,612,"心理的ダメージをＭＰに与える
+単数対象","정신 피해를 ＭＰ에 준다
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,6,652,"状態異常「麻痺」を付与
+単数対象","상태이상「마비」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,7,684,"対象の魔法ダメージに対する耐性を上げる
+単数対象","대상의 마법피해 저항력 증가
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,8,732,"魔法属性《炎》
+炎でダメージを与える
+複数対象","마법속성《불》
+불로 피해를 준다
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,9,780,"対象の防御力を下げる
+複数対象","대상의 방어력 감소
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,10,812,"状態異常「沈黙」を付与
+単数対象","상태이상「침묵」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,11,844,"状態異常「毒化」を付与
+複数対象","상태이상「중독」 부여
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,12,876,"魔法属性《冷》
+冷気でダメージを与える
+複数対象","마법속성《냉》
+냉기로 피해를 준다
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,13,924,"対象の攻撃力を下げる
+複数対象","대상의 공격력 감소
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,14,956,"状態異常「病気」を付与
+単数対象","상태이상「질병」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,15,988,"心理的ダメージをＭＰに与える
+複数対象","정신 피해를 ＭＰ에 준다
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,16,1028,"魔法属性《空》
+真空刃でダメージを与える
+複数対象","마법속성《공》
+진공날로 피해를 준다
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,17,1080,"魔法属性《無》
+光線でダメージを与える
+単数対象","마법속성《무》
+광선으로 피해를 준다
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,18,1128,"状態異常「石化」を付与
+単数対象","상태이상「석화」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,19,1160,"状態異常「闇化」を付与
+複数対象","상태이상「암흑」 부여
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,20,1192,街へ戻る,마을귀환
+tbldata/tbldata_extracted/mgstrtbl,21,1204,"魔法属性《無》
+光線でダメージを与える
+複数対象","마법속성《무》
+광선으로 피해를 준다
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,22,1252,"状態異常「麻痺」を付与
+複数対象","상태이상「마비」 부여
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,23,1284,"対象の魔法ダメージに対する耐性を上げる
+複数対象","대상의 마법피해 저항력 증가
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,24,1332,"ＨＰを少し回復させる
+単数対象","ＨＰ 소량 회복
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,25,1364,"状態異常「毒化」を解除
+単数対象","상태이상「중독」 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,26,1396,"状態異常「闇化」を解除
+単数対象","상태이상「암흑」 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,27,1428,対象物を鑑定する,대상을 감정한다
+tbldata/tbldata_extracted/mgstrtbl,28,1448,"ＨＰを少し回復させる
+複数対象","ＨＰ 소량 회복
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,29,1480,"状態異常「減速」を付与
+単数対象","상태이상「감속」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,30,1512,"状態異常「麻痺」を解除
+単数対象","상태이상「마비」 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,31,1544,弱い敵を動けなくする,약한적 행동불능
+tbldata/tbldata_extracted/mgstrtbl,32,1568,"ＨＰを回復させる
+単数対象","ＨＰ 회복
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,33,1596,"状態異常「加速」を付与
+単数対象","상태이상「가속」 부여
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,34,1628,ダンジョンの状況をミニマップに投影する,던전 상황을 미니맵에 투영한다
+tbldata/tbldata_extracted/mgstrtbl,35,1668,"魔法属性　なし
+光の束でダメージを与える
+単数対象","마법속성　없음
+빛줄기로 피해를 준다
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,36,1720,"ＨＰを回復させる
+複数対象","ＨＰ 회복
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,37,1748,"状態異常「沈黙」を解除
+単数対象","상태이상「침묵」 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,38,1780,"状態異常「病気」を解除
+単数対象","상태이상「질병」 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,39,1812,"対象の防御力を上げる
+単数対象","대상의 방어력 증가
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,40,1844,"ＨＰを大幅に回復させる
+単数対象","ＨＰ 대량 회복
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,41,1876,"死亡状態を解除
+単数対象","사망상태 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,42,1900,"状態異常「石化」を解除
+単数対象","상태이상「석화」 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,43,1932,"対象の攻撃力を上げる
+単数対象","대상의 공격력 증가
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,44,1964,"ＨＰを大幅に回復させる
+複数対象","ＨＰ 대량 회복
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,45,1996,"状態異常の全てを解除
+単数対象","모든 상태이상 해제
+단일대상"
+tbldata/tbldata_extracted/mgstrtbl,46,2028,"魔法属性　なし
+光の束でダメージを与える
+複数対象","마법속성　없음
+빛줄기로 피해를 준다
+복수대상"
+tbldata/tbldata_extracted/mgstrtbl,47,2080,自分のＭＰを対象に分け与える,내 ＭＰ를 대상과 나눈다

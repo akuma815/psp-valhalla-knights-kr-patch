@@ -1,0 +1,569 @@
+{
+  "file_path": "tbldata/tbldata_extracted/amstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 768,
+      "original": "",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 772,
+      "original": "",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 776,
+      "original": "",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 780,
+      "original": "",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 784,
+      "original": "レザー製の帽子\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 812,
+      "original": "チェイン製の\nヘルメット\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 848,
+      "original": "魔法を使う\n職業用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 880,
+      "original": "シーフ専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 904,
+      "original": "金属製の\nヘルメット\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 936,
+      "original": "硬い金属製の\nヘルメット\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 972,
+      "original": "重く重圧な\nヘルメット\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1008,
+      "original": "ファイター\n専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1036,
+      "original": "ナイト専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1060,
+      "original": "古来の形状をしたヘルメット\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1100,
+      "original": "サムライ専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1128,
+      "original": "金属製の頭巾\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1156,
+      "original": "布製の頭巾\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1180,
+      "original": "ニンジャ専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1208,
+      "original": "一般的な\nティアラ\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1240,
+      "original": "魔法を使う職業用ティアラ\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1280,
+      "original": "メイジ専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1304,
+      "original": "プリースト専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1332,
+      "original": "アンカー専用\n\n装備＝頭部",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1360,
+      "original": "布製のローブ\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1388,
+      "original": "上等なローブ\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1416,
+      "original": "魔法を使う職業用のローブ\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1456,
+      "original": "メイジ専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1480,
+      "original": "プリースト専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1508,
+      "original": "アンカー専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1536,
+      "original": "皮製のメイル\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1564,
+      "original": "金属と布製の\nメイル\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1596,
+      "original": "チェイン製の\nメイル\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1628,
+      "original": "金属に装飾の施されたメイル\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1668,
+      "original": "シーフ専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1692,
+      "original": "金属製の\nプレート\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1724,
+      "original": "金属に装飾の施されたプレート\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1768,
+      "original": "ファイター専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1796,
+      "original": "ナイト専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 1820,
+      "original": "一般的な鎧\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 1844,
+      "original": "装飾の施された鎧\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 1876,
+      "original": "サムライ専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 1904,
+      "original": "一般的な装束\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 1932,
+      "original": "黒色の装束\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 1956,
+      "original": "ニンジャ専用\n\n装備＝胴体",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 1984,
+      "original": "布製のグローブ\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 2012,
+      "original": "皮製のグローブ\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 2040,
+      "original": "チェイン製の\nグローブ\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 2076,
+      "original": "シーフ専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 2100,
+      "original": "アンカー専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 2128,
+      "original": "金属製の\nグローブ\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 2160,
+      "original": "金属に装飾の施されたグローブ\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 2204,
+      "original": "ファイター専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 2232,
+      "original": "ナイト専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 2256,
+      "original": "一般的な籠手\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 2284,
+      "original": "サムライ専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 2312,
+      "original": "ニンジャ専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 2340,
+      "original": "攻撃特性を持つブレスレット\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 2380,
+      "original": "防御特性を持つブレスレット\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 2420,
+      "original": "メイジ専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 2444,
+      "original": "プリースト専用\n\n装備＝腕部",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 2472,
+      "original": "皮製のパンツ\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 2500,
+      "original": "硬い皮製の\nパンツ\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 2532,
+      "original": "魔法を使う職業用のパンツ\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 2572,
+      "original": "メイジ専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 2596,
+      "original": "プリースト専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 2624,
+      "original": "シーフ専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 2648,
+      "original": "アンカー専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 2676,
+      "original": "チェイン製\nのパンツ\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 2708,
+      "original": "金属製のパンツ\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 2736,
+      "original": "金属に装飾の施されたパンツ\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 2776,
+      "original": "ファイター専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 2804,
+      "original": "ナイト専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 2828,
+      "original": "サムライ専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 2856,
+      "original": "一般的な袴\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 2880,
+      "original": "ニンジャ専用\n\n装備＝脚部",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 2908,
+      "original": "一般的な\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 2940,
+      "original": "状態異常\n「減速」に\n耐性のある\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 2996,
+      "original": "状態異常\n「毒化」に\n耐性のある\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 3052,
+      "original": "状態異常\n「闇化」に\n耐性のある\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 3108,
+      "original": "状態異常\n「沈黙」に\n耐性のある\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 3164,
+      "original": "状態異常\n「麻痺」に\n耐性のある\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 3220,
+      "original": "状態異常\n「病気」に\n耐性のある\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 3276,
+      "original": "状態異常\n「石化」に\n耐性のある\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 3332,
+      "original": "ダメージを少なくしてくれる\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 3384,
+      "original": "ダメージを少しおおくしてくれる\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 3440,
+      "original": "ＨＰが増える\nネックレス\n\n装備＝首部",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 3476,
+      "original": "一般的なリング\n\n装備＝左右指",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 3508,
+      "original": "魔法属性「炎」\nに耐性をもつ\nリング\n\n装備＝左右指",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 3560,
+      "original": "魔法属性「冷」\nに耐性をもつ\nリング\n\n装備＝左右指",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 3612,
+      "original": "魔法属性「空」\nに耐性をもつ\nリング\n\n装備＝左右指",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 3664,
+      "original": "魔法属性「無」\nに耐性をもつ\nリング\n\n装備＝左右指",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 3716,
+      "original": "魔法からの\nダメージを少なくする\nリング\n\n装備＝左右指",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 3772,
+      "original": "魔法による\nダメージをおおくする\nリング\n\n装備＝左右指",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 3828,
+      "original": "ＭＰが増える\nリング\n\n装備＝左右指",
+      "translated": ""
+    }
+  ]
+}

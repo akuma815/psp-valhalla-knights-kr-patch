@@ -1,0 +1,1085 @@
+{
+  "file_path": "tbldata/tbldata_extracted/cpstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 1456,
+      "original": "頭部",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 1464,
+      "original": "首部",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 1472,
+      "original": "胴体",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 1480,
+      "original": "腕部",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 1488,
+      "original": "右手",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 1496,
+      "original": "左手",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 1504,
+      "original": "右指",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 1512,
+      "original": "左指",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1520,
+      "original": "脚部",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1528,
+      "original": "右予",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1536,
+      "original": "左予",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1544,
+      "original": "袋１",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1552,
+      "original": "袋２",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1560,
+      "original": "袋３",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1568,
+      "original": "袋４",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1576,
+      "original": "袋５",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1584,
+      "original": "袋６",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1592,
+      "original": "アイテム",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1604,
+      "original": "魔法",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1612,
+      "original": "装備",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1620,
+      "original": "陣形",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1628,
+      "original": "思考作成",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1640,
+      "original": "ステータス",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1652,
+      "original": "コンフィグ",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1664,
+      "original": "一時セーブ",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1676,
+      "original": "つかう",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1684,
+      "original": "大事な物",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1696,
+      "original": "決定",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1704,
+      "original": "戻る",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1712,
+      "original": "前ページ",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1724,
+      "original": "次ページ",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1736,
+      "original": "大事な物",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1748,
+      "original": "ソート",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1756,
+      "original": "アイテム",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1768,
+      "original": "前ページ",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1780,
+      "original": "次ページ",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1792,
+      "original": "説明文",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1800,
+      "original": "前の人",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 1808,
+      "original": "次の人",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 1816,
+      "original": "移動",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 1824,
+      "original": "増減",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 1832,
+      "original": "前の人",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 1840,
+      "original": "次の人",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 1848,
+      "original": "「アイテム」アイテムを使います",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 1880,
+      "original": "「魔法」魔法を使います",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 1904,
+      "original": "「装備」装備を整えます",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 1928,
+      "original": "「陣形」バトル陣形を設定します",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 1960,
+      "original": "「思考作成」仲間のバトル思考を作成します",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 2004,
+      "original": "「ステータス」仲間のステータスを見ます",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 2044,
+      "original": "「コンフィグ」各種設定を行います",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 2080,
+      "original": "「一時セーブ」ゲームを中断します",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 2116,
+      "original": "アイテムを選択してください",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 2144,
+      "original": "つかう、すてる　を選択してください",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 2180,
+      "original": "誰に使いますか？",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 2200,
+      "original": "ほんとうにすてますか？",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 2224,
+      "original": "大事な物を確認できます",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 2248,
+      "original": "誰が魔法を唱えますか？",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 2272,
+      "original": "唱える魔法を選んでください",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 2300,
+      "original": "ナレスで鑑定するアイテムを選んでください",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 2344,
+      "original": "もう未鑑定のアイテムはありません　「○」",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 2388,
+      "original": "ＭＰがつきました　「○」",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 2416,
+      "original": "誰の装備をととのえますか？",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 2444,
+      "original": "どの部分の装備をととのえますか？",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 2480,
+      "original": "装備を選んでください",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 2504,
+      "original": "移動させる人を選んでください",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 2536,
+      "original": "誰の思考をカスタマイズしますか？",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 2572,
+      "original": "パラメータを割りふってください",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 2604,
+      "original": "誰のステータスをみますか？",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 2632,
+      "original": "変更したい項目を選んで、決定してください",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 2676,
+      "original": "メッセージを速く表示します",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 2704,
+      "original": "メッセージを適度な速さで表示します",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 2740,
+      "original": "メッセージをゆっくり表示します",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 2772,
+      "original": "アナログパッドを上に入れると、カメラは上を向きます\nアナログパッドを下に入れると、カメラは下を向きます",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 2876,
+      "original": "アナログパッドを上に入れると、カメラは下を向きます\nアナログパッドを下に入れると、カメラは上を向きます",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 2980,
+      "original": "メニューのカーソル位置を覚えておきます",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 3020,
+      "original": "メニューのカーソル位置を覚えず最初の場所からにします",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 3076,
+      "original": "バトル中の操作について、アイコンを表示します",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 3124,
+      "original": "バトル中の操作について、アイコンを表示しません",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 3172,
+      "original": "移動用キー配置を設定します",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 3200,
+      "original": "戦闘用キー配置を設定します",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 3228,
+      "original": "ミニマップの表示切替を行えるようにします",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 3272,
+      "original": "ミニマップの表示切替を行えないようにします",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 3316,
+      "original": "戦闘中はリーダーも自動で戦います",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 3352,
+      "original": "戦闘中はリーダーを操作して戦います",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 3388,
+      "original": "コンフィグの内容を初期化します",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 3420,
+      "original": "コンフィグの内容を初期化します\nよろしいですか？",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 3468,
+      "original": "移動用キー配置を決めてください",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 3500,
+      "original": "キャラクターの目の位置から、全体を見るモードです",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 3552,
+      "original": "カメラをキャラクターの後ろへ再配置します",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 3596,
+      "original": "キャンプメニューを呼び出して表示します",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 3636,
+      "original": "キャラクターをしゃがませます",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 3668,
+      "original": "話しかけたり、選択肢などの決定を行います",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 3712,
+      "original": "選択肢などのキャンセルを行います",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 3748,
+      "original": "ミニマップ表示・非表示の切り替えを行います",
+      "translated": ""
+    },
+    {
+      "index": 94,
+      "offset": 3792,
+      "original": "キャンプメニュー表示を配分してください",
+      "translated": ""
+    },
+    {
+      "index": 95,
+      "offset": 3832,
+      "original": "戦闘用キー配置を決めてください",
+      "translated": ""
+    },
+    {
+      "index": 96,
+      "offset": 3864,
+      "original": "遠距離武器で敵を狙うモードです",
+      "translated": ""
+    },
+    {
+      "index": 97,
+      "offset": 3896,
+      "original": "ターゲットとなる敵をロックするモードです",
+      "translated": ""
+    },
+    {
+      "index": 98,
+      "offset": 3940,
+      "original": "攻撃を実行します",
+      "translated": ""
+    },
+    {
+      "index": 99,
+      "offset": 3960,
+      "original": "必殺技を実行します",
+      "translated": ""
+    },
+    {
+      "index": 100,
+      "offset": 3980,
+      "original": "アイテムメニューを起動します",
+      "translated": ""
+    },
+    {
+      "index": 101,
+      "offset": 4012,
+      "original": "仲間にサポート指示を行うメニューを起動します",
+      "translated": ""
+    },
+    {
+      "index": 102,
+      "offset": 4060,
+      "original": "魔法メニューを起動します",
+      "translated": ""
+    },
+    {
+      "index": 103,
+      "offset": 4088,
+      "original": "バトルのメインメニューを起動します",
+      "translated": ""
+    },
+    {
+      "index": 104,
+      "offset": 4124,
+      "original": "逃げるメニューを起動します",
+      "translated": ""
+    },
+    {
+      "index": 105,
+      "offset": 4152,
+      "original": "装備メニューを起動します",
+      "translated": ""
+    },
+    {
+      "index": 106,
+      "offset": 4180,
+      "original": "つかう",
+      "translated": ""
+    },
+    {
+      "index": 107,
+      "offset": 4188,
+      "original": "すてる",
+      "translated": ""
+    },
+    {
+      "index": 108,
+      "offset": 4196,
+      "original": "ほんとうにすてますか？",
+      "translated": ""
+    },
+    {
+      "index": 109,
+      "offset": 4220,
+      "original": "武器攻撃",
+      "translated": ""
+    },
+    {
+      "index": 110,
+      "offset": 4232,
+      "original": "アイテム使用",
+      "translated": ""
+    },
+    {
+      "index": 111,
+      "offset": 4248,
+      "original": "攻撃魔法",
+      "translated": ""
+    },
+    {
+      "index": 112,
+      "offset": 4260,
+      "original": "状態異常回復",
+      "translated": ""
+    },
+    {
+      "index": 113,
+      "offset": 4276,
+      "original": "ＨＰ回復魔法",
+      "translated": ""
+    },
+    {
+      "index": 114,
+      "offset": 4292,
+      "original": "援護行動",
+      "translated": ""
+    },
+    {
+      "index": 115,
+      "offset": 4304,
+      "original": "思考パラメータ合計",
+      "translated": ""
+    },
+    {
+      "index": 116,
+      "offset": 4324,
+      "original": "思考パラメータ残り",
+      "translated": ""
+    },
+    {
+      "index": 117,
+      "offset": 4344,
+      "original": "対種族攻撃有効",
+      "translated": ""
+    },
+    {
+      "index": 118,
+      "offset": 4360,
+      "original": "次Ｌｖまで",
+      "translated": ""
+    },
+    {
+      "index": 119,
+      "offset": 4372,
+      "original": "メッセージ速度",
+      "translated": ""
+    },
+    {
+      "index": 120,
+      "offset": 4388,
+      "original": "カメラ操作",
+      "translated": ""
+    },
+    {
+      "index": 121,
+      "offset": 4400,
+      "original": "カーソル位置記憶",
+      "translated": ""
+    },
+    {
+      "index": 122,
+      "offset": 4420,
+      "original": "操作アイコン表示",
+      "translated": ""
+    },
+    {
+      "index": 123,
+      "offset": 4440,
+      "original": "キー操作",
+      "translated": ""
+    },
+    {
+      "index": 124,
+      "offset": 4452,
+      "original": "ミニマップ切替",
+      "translated": ""
+    },
+    {
+      "index": 125,
+      "offset": 4468,
+      "original": "フルオートバトル",
+      "translated": ""
+    },
+    {
+      "index": 126,
+      "offset": 4488,
+      "original": "初期化",
+      "translated": ""
+    },
+    {
+      "index": 127,
+      "offset": 4496,
+      "original": "速",
+      "translated": ""
+    },
+    {
+      "index": 128,
+      "offset": 4500,
+      "original": "遅",
+      "translated": ""
+    },
+    {
+      "index": 129,
+      "offset": 4504,
+      "original": "ノーマルモード",
+      "translated": ""
+    },
+    {
+      "index": 130,
+      "offset": 4520,
+      "original": "リバースモード",
+      "translated": ""
+    },
+    {
+      "index": 131,
+      "offset": 4536,
+      "original": "ＯＮ",
+      "translated": ""
+    },
+    {
+      "index": 132,
+      "offset": 4544,
+      "original": "ＯＦＦ",
+      "translated": ""
+    },
+    {
+      "index": 133,
+      "offset": 4552,
+      "original": "ＯＮ",
+      "translated": ""
+    },
+    {
+      "index": 134,
+      "offset": 4560,
+      "original": "ＯＦＦ",
+      "translated": ""
+    },
+    {
+      "index": 135,
+      "offset": 4568,
+      "original": "移動用",
+      "translated": ""
+    },
+    {
+      "index": 136,
+      "offset": 4576,
+      "original": "戦闘用",
+      "translated": ""
+    },
+    {
+      "index": 137,
+      "offset": 4584,
+      "original": "ＯＮ",
+      "translated": ""
+    },
+    {
+      "index": 138,
+      "offset": 4592,
+      "original": "ＯＦＦ",
+      "translated": ""
+    },
+    {
+      "index": 139,
+      "offset": 4600,
+      "original": "ＯＮ",
+      "translated": ""
+    },
+    {
+      "index": 140,
+      "offset": 4608,
+      "original": "ＯＦＦ",
+      "translated": ""
+    },
+    {
+      "index": 141,
+      "offset": 4616,
+      "original": "実行",
+      "translated": ""
+    },
+    {
+      "index": 142,
+      "offset": 4624,
+      "original": "キー配置",
+      "translated": ""
+    },
+    {
+      "index": 143,
+      "offset": 4636,
+      "original": "移動用",
+      "translated": ""
+    },
+    {
+      "index": 144,
+      "offset": 4644,
+      "original": "戦闘用",
+      "translated": ""
+    },
+    {
+      "index": 145,
+      "offset": 4652,
+      "original": "主観モード",
+      "translated": ""
+    },
+    {
+      "index": 146,
+      "offset": 4664,
+      "original": "カメラリセット",
+      "translated": ""
+    },
+    {
+      "index": 147,
+      "offset": 4680,
+      "original": "キャンプメニュー表示",
+      "translated": ""
+    },
+    {
+      "index": 148,
+      "offset": 4704,
+      "original": "しゃがみ",
+      "translated": ""
+    },
+    {
+      "index": 149,
+      "offset": 4716,
+      "original": "アクション（決定）",
+      "translated": ""
+    },
+    {
+      "index": 150,
+      "offset": 4736,
+      "original": "キャンセル",
+      "translated": ""
+    },
+    {
+      "index": 151,
+      "offset": 4748,
+      "original": "リーダー切替",
+      "translated": ""
+    },
+    {
+      "index": 152,
+      "offset": 4764,
+      "original": "ミニマップ表示切替",
+      "translated": ""
+    },
+    {
+      "index": 153,
+      "offset": 4784,
+      "original": "遠距離攻撃モード",
+      "translated": ""
+    },
+    {
+      "index": 154,
+      "offset": 4804,
+      "original": "ターゲットロック",
+      "translated": ""
+    },
+    {
+      "index": 155,
+      "offset": 4824,
+      "original": "攻撃決定",
+      "translated": ""
+    },
+    {
+      "index": 156,
+      "offset": 4836,
+      "original": "必殺技決定",
+      "translated": ""
+    },
+    {
+      "index": 157,
+      "offset": 4848,
+      "original": "アイテムメニュー起動",
+      "translated": ""
+    },
+    {
+      "index": 158,
+      "offset": 4872,
+      "original": "サポートメニュー起動",
+      "translated": ""
+    },
+    {
+      "index": 159,
+      "offset": 4896,
+      "original": "魔法メニュー起動",
+      "translated": ""
+    },
+    {
+      "index": 160,
+      "offset": 4916,
+      "original": "バトルメニュー起動",
+      "translated": ""
+    },
+    {
+      "index": 161,
+      "offset": 4936,
+      "original": "逃げるメニュー起動",
+      "translated": ""
+    },
+    {
+      "index": 162,
+      "offset": 4956,
+      "original": "装備メニュー起動",
+      "translated": ""
+    },
+    {
+      "index": 163,
+      "offset": 4976,
+      "original": "決定",
+      "translated": ""
+    },
+    {
+      "index": 164,
+      "offset": 4984,
+      "original": "未識別の",
+      "translated": ""
+    },
+    {
+      "index": 165,
+      "offset": 4996,
+      "original": "街へ戻りますか？",
+      "translated": ""
+    },
+    {
+      "index": 166,
+      "offset": 5016,
+      "original": "はずす",
+      "translated": ""
+    },
+    {
+      "index": 167,
+      "offset": 5024,
+      "original": "武器を使っての攻撃を優先する度合い",
+      "translated": ""
+    },
+    {
+      "index": 168,
+      "offset": 5060,
+      "original": "アイテムを使う度合い",
+      "translated": ""
+    },
+    {
+      "index": 169,
+      "offset": 5084,
+      "original": "攻撃魔法を使う度合い",
+      "translated": ""
+    },
+    {
+      "index": 170,
+      "offset": 5108,
+      "original": "状態異常を回復する度合い",
+      "translated": ""
+    },
+    {
+      "index": 171,
+      "offset": 5136,
+      "original": "ＨＰ回復魔法を使う度合い",
+      "translated": ""
+    },
+    {
+      "index": 172,
+      "offset": 5164,
+      "original": "危機にある仲間を助ける度合い",
+      "translated": ""
+    },
+    {
+      "index": 173,
+      "offset": 5196,
+      "original": "既にその魔法は覚えています",
+      "translated": ""
+    },
+    {
+      "index": 174,
+      "offset": 5224,
+      "original": "一時セーブを実行しますか？",
+      "translated": ""
+    },
+    {
+      "index": 175,
+      "offset": 5252,
+      "original": "一時セーブを実行中です・・・",
+      "translated": ""
+    },
+    {
+      "index": 176,
+      "offset": 5284,
+      "original": "ゲームを続けますか？",
+      "translated": ""
+    },
+    {
+      "index": 177,
+      "offset": 5308,
+      "original": "を覚えた",
+      "translated": ""
+    },
+    {
+      "index": 178,
+      "offset": 5320,
+      "original": "敵の動きが止まった",
+      "translated": ""
+    },
+    {
+      "index": 179,
+      "offset": 5340,
+      "original": "ダンジョンの状況が\nミニマップに投影された",
+      "translated": ""
+    }
+  ]
+}

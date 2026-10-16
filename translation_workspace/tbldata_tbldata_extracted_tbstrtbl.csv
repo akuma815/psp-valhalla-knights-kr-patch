@@ -1,0 +1,27 @@
+﻿File Path,Index,Offset,Original,Translated
+tbldata/tbldata_extracted/tbstrtbl,0,208,トラップなし,함정 없음
+tbldata/tbldata_extracted/tbstrtbl,1,224,炎ダメージ,화염 피해
+tbldata/tbldata_extracted/tbstrtbl,2,236,冷ダメージ,냉기 피해
+tbldata/tbldata_extracted/tbstrtbl,3,248,空ダメージ,공 피해
+tbldata/tbldata_extracted/tbstrtbl,4,260,無ダメージ,무 피해
+tbldata/tbldata_extracted/tbstrtbl,5,272,毒化,중독
+tbldata/tbldata_extracted/tbstrtbl,6,280,闇化,암흑
+tbldata/tbldata_extracted/tbstrtbl,7,288,麻痺,마비
+tbldata/tbldata_extracted/tbstrtbl,8,296,沈黙,침묵
+tbldata/tbldata_extracted/tbstrtbl,9,304,病気,질병
+tbldata/tbldata_extracted/tbstrtbl,10,312,減速,감속
+tbldata/tbldata_extracted/tbstrtbl,11,320,加速,가속
+tbldata/tbldata_extracted/tbstrtbl,12,328,防御力ダウン,방어력 감소
+tbldata/tbldata_extracted/tbstrtbl,13,344,攻撃力ダウン,공격력 감소
+tbldata/tbldata_extracted/tbstrtbl,14,360,ミニマップクリア,미니맵 지우기
+tbldata/tbldata_extracted/tbstrtbl,15,380,宝箱を調べる方法を選んでください,보물상자 조사법을 고르세요
+tbldata/tbldata_extracted/tbstrtbl,16,416,魔法を使う,마법 사용
+tbldata/tbldata_extracted/tbstrtbl,17,428,魔法は使わない,마법 미사용
+tbldata/tbldata_extracted/tbstrtbl,18,444,誰が魔法ナディオスを使いますか？,누가 나디오스를 쓰나요?
+tbldata/tbldata_extracted/tbstrtbl,19,480,誰が解除しますか？,누가 해제할까요?
+tbldata/tbldata_extracted/tbstrtbl,20,500,"トラップが仕掛けられているようです
+仕掛けてあると思うトラップを解除してください","함정이 설치된 듯합니다
+예상되는 함정을 해제하세요"
+tbldata/tbldata_extracted/tbstrtbl,21,580,トラップ発動！！,함정 발동!!
+tbldata/tbldata_extracted/tbstrtbl,22,600,を手に入れた！,을 얻었다!
+tbldata/tbldata_extracted/tbstrtbl,23,616,持ち物がいっぱいだった・・・,소지품이 가득 찼다…

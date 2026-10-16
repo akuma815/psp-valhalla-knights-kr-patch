@@ -1,0 +1,809 @@
+{
+  "file_path": "tbldata/tbldata_extracted/btstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 1088,
+      "original": "アイテム",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 1100,
+      "original": "魔法",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 1108,
+      "original": "装備",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 1116,
+      "original": "サポート",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 1128,
+      "original": "逃げる",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 1136,
+      "original": "装備を変更しますか？",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 1160,
+      "original": "個別",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 1168,
+      "original": "全体",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1176,
+      "original": "サポート",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1188,
+      "original": "自己判断優先",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1204,
+      "original": "回復行動優先",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1220,
+      "original": "武器攻撃優先",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1236,
+      "original": "魔法攻撃優先",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1252,
+      "original": "補助魔法優先",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1268,
+      "original": "緊急脱出",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1280,
+      "original": "バトルから逃げますか？",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1304,
+      "original": "ＥＸＰを得た",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1320,
+      "original": "はレベルアップ！",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1340,
+      "original": "不明モンスターは",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1360,
+      "original": "と識別できた",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1376,
+      "original": "ボーナスポイントを振り分けてください",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1416,
+      "original": "残りポイント",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1432,
+      "original": "すべてのボーナスポイントの振り分けが終了したら\n□ボタンをおしてください",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1504,
+      "original": "マイナス",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1516,
+      "original": "プラス",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1524,
+      "original": "入力終了",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1536,
+      "original": "サイドアタックに成功！",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1560,
+      "original": "バックアタックに成功！",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1584,
+      "original": "サイドアタックを受けた！",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1612,
+      "original": "バックアタックを受けた！",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1640,
+      "original": "不明モンスター",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1656,
+      "original": "は思考ボーナスを１得た",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1680,
+      "original": "全滅した・・・",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1696,
+      "original": "になった",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1708,
+      "original": "から回復した",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1724,
+      "original": "を使った",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1736,
+      "original": "に使った",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1748,
+      "original": "死亡してしまった",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 1768,
+      "original": "ＨＰが少なくなっている",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 1792,
+      "original": "ＨＰが半分を切った",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 1812,
+      "original": "ＨＰがかなり少なくなった",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 1840,
+      "original": "を倒した",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 1852,
+      "original": "そろそろ危ないな",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 1872,
+      "original": "かなり危険ね",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 1888,
+      "original": "まだだ！まだ行ける！",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 1912,
+      "original": "けっこう、やるじゃないか",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 1940,
+      "original": "か、かすりキズだ！",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 1960,
+      "original": "きびしいねぇ",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 1976,
+      "original": "ピンチ、たまには悪くない",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 2004,
+      "original": "あ、あせってないわよ！",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 2028,
+      "original": "ヒガイリツ70パーセント",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 2052,
+      "original": "ボディにキズがっ！",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 2072,
+      "original": "これはちょっとヤバイな",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 2096,
+      "original": "ここまでか・・・",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 2116,
+      "original": "やられちゃった・・・",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 2140,
+      "original": "これしきの事で・・・",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 2164,
+      "original": "まさかここまでとは・・・",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 2192,
+      "original": "無念・・・",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 2204,
+      "original": "かなわないねぇ・・・",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 2228,
+      "original": "デートはおあずけか・・・",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 2256,
+      "original": "美しくないですわ・・・",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 2280,
+      "original": "キノウテイシシマス・・・",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 2308,
+      "original": "私が負けるなんて・・・",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 2332,
+      "original": "すまねぇ・・・",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 2348,
+      "original": "キラー・ビー",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 2364,
+      "original": "チェックメイト",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 2380,
+      "original": "ジ・エンド",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 2392,
+      "original": "兜割り",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 2400,
+      "original": "十文字",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 2408,
+      "original": "ヘブンズクライ",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 2424,
+      "original": "クレセントウェブ",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 2444,
+      "original": "ムーンライト",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 2460,
+      "original": "トールハンマー",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 2476,
+      "original": "ダンシングナイフ",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 2496,
+      "original": "ブレイブハート",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 2512,
+      "original": "双竜門",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 2520,
+      "original": "ホーリースワロー",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 2540,
+      "original": "アーマーキラー",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 2556,
+      "original": "メテオストライク",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 2576,
+      "original": "パニッシャー",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 2592,
+      "original": "アベンジャー",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 2608,
+      "original": "アベンジャー",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 2624,
+      "original": "メテオストライク",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 2644,
+      "original": "＜ダミー＞",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 2656,
+      "original": "メテオストライク",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 2676,
+      "original": "アベンジャー",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 2692,
+      "original": "メテオストライク",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 2712,
+      "original": "ワイバンフォーム",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 2732,
+      "original": "ワイバンフォーム",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 2752,
+      "original": "ワイバンフォーム",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 2772,
+      "original": "ワイバンフォーム",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 2792,
+      "original": "ワイバンフォーム",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 2812,
+      "original": "トリガーハッピー",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 2832,
+      "original": "デフコン５",
+      "translated": ""
+    },
+    {
+      "index": 94,
+      "offset": 2844,
+      "original": "スティンガー",
+      "translated": ""
+    },
+    {
+      "index": 95,
+      "offset": 2860,
+      "original": "デモンスライサー",
+      "translated": ""
+    },
+    {
+      "index": 96,
+      "offset": 2880,
+      "original": "ギガインパクト",
+      "translated": ""
+    },
+    {
+      "index": 97,
+      "offset": 2896,
+      "original": "エレクトロキュート",
+      "translated": ""
+    },
+    {
+      "index": 98,
+      "offset": 2916,
+      "original": "袋にアイテムが装備されていません",
+      "translated": ""
+    },
+    {
+      "index": 99,
+      "offset": 2952,
+      "original": "魔法を覚えていません",
+      "translated": ""
+    },
+    {
+      "index": 100,
+      "offset": 2976,
+      "original": "予備武器が装備されていません",
+      "translated": ""
+    },
+    {
+      "index": 101,
+      "offset": 3008,
+      "original": "サポート対象の仲間がいません",
+      "translated": ""
+    },
+    {
+      "index": 102,
+      "offset": 3040,
+      "original": "逃げる事が出来ません",
+      "translated": ""
+    },
+    {
+      "index": 103,
+      "offset": 3064,
+      "original": "MP ",
+      "translated": ""
+    },
+    {
+      "index": 104,
+      "offset": 3068,
+      "original": "ミス",
+      "translated": ""
+    },
+    {
+      "index": 105,
+      "offset": 3076,
+      "original": "ガード",
+      "translated": ""
+    },
+    {
+      "index": 106,
+      "offset": 3084,
+      "original": "MP＋",
+      "translated": ""
+    },
+    {
+      "index": 107,
+      "offset": 3092,
+      "original": "加速",
+      "translated": ""
+    },
+    {
+      "index": 108,
+      "offset": 3100,
+      "original": "減速",
+      "translated": ""
+    },
+    {
+      "index": 109,
+      "offset": 3108,
+      "original": "毒化",
+      "translated": ""
+    },
+    {
+      "index": 110,
+      "offset": 3116,
+      "original": "闇化",
+      "translated": ""
+    },
+    {
+      "index": 111,
+      "offset": 3124,
+      "original": "沈黙",
+      "translated": ""
+    },
+    {
+      "index": 112,
+      "offset": 3132,
+      "original": "麻痺",
+      "translated": ""
+    },
+    {
+      "index": 113,
+      "offset": 3140,
+      "original": "病気",
+      "translated": ""
+    },
+    {
+      "index": 114,
+      "offset": 3148,
+      "original": "石化",
+      "translated": ""
+    },
+    {
+      "index": 115,
+      "offset": 3156,
+      "original": "死亡",
+      "translated": ""
+    },
+    {
+      "index": 116,
+      "offset": 3164,
+      "original": "防御力Down",
+      "translated": ""
+    },
+    {
+      "index": 117,
+      "offset": 3176,
+      "original": "攻撃力Down",
+      "translated": ""
+    },
+    {
+      "index": 118,
+      "offset": 3188,
+      "original": "防御力Up",
+      "translated": ""
+    },
+    {
+      "index": 119,
+      "offset": 3200,
+      "original": "攻撃力Up",
+      "translated": ""
+    },
+    {
+      "index": 120,
+      "offset": 3212,
+      "original": "魔法防御力Up",
+      "translated": ""
+    },
+    {
+      "index": 121,
+      "offset": 3228,
+      "original": "毒化 解除",
+      "translated": ""
+    },
+    {
+      "index": 122,
+      "offset": 3240,
+      "original": "闇化 解除",
+      "translated": ""
+    },
+    {
+      "index": 123,
+      "offset": 3252,
+      "original": "沈黙 解除",
+      "translated": ""
+    },
+    {
+      "index": 124,
+      "offset": 3264,
+      "original": "麻痺 解除",
+      "translated": ""
+    },
+    {
+      "index": 125,
+      "offset": 3276,
+      "original": "病気 解除",
+      "translated": ""
+    },
+    {
+      "index": 126,
+      "offset": 3288,
+      "original": "石化 解除",
+      "translated": ""
+    },
+    {
+      "index": 127,
+      "offset": 3300,
+      "original": "死亡 解除",
+      "translated": ""
+    },
+    {
+      "index": 128,
+      "offset": 3312,
+      "original": "全異常 解除",
+      "translated": ""
+    },
+    {
+      "index": 129,
+      "offset": 3324,
+      "original": "相手の戦闘終了を待っています・・・",
+      "translated": ""
+    },
+    {
+      "index": 130,
+      "offset": 3360,
+      "original": "右",
+      "translated": ""
+    },
+    {
+      "index": 131,
+      "offset": 3364,
+      "original": "左",
+      "translated": ""
+    },
+    {
+      "index": 132,
+      "offset": 3368,
+      "original": "が",
+      "translated": ""
+    },
+    {
+      "index": 133,
+      "offset": 3372,
+      "original": "上がった",
+      "translated": ""
+    }
+  ]
+}

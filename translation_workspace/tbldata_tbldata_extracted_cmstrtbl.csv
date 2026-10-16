@@ -1,0 +1,51 @@
+﻿File Path,Index,Offset,Original,Translated
+tbldata/tbldata_extracted/cmstrtbl,0,416,種族を決めてください,종족을 정하세요
+tbldata/tbldata_extracted/cmstrtbl,1,440,性別を決めてください,성별을 정하세요
+tbldata/tbldata_extracted/cmstrtbl,2,464,職業を決めてください,직업을 정하세요
+tbldata/tbldata_extracted/cmstrtbl,3,488,名前を決めてください,이름을 정하세요
+tbldata/tbldata_extracted/cmstrtbl,4,512,ボーナスポイントを振り分けてください,보너스 포인트를 배분하세요
+tbldata/tbldata_extracted/cmstrtbl,5,552,全体的にバランスの整った種族,전반적으로 균형 잡힌 종족
+tbldata/tbldata_extracted/cmstrtbl,6,584,武器による攻撃が得意な種族,무기 공격이 특기인 종족
+tbldata/tbldata_extracted/cmstrtbl,7,612,小ささと素早さを備えた種族,작고 민첩한 종족
+tbldata/tbldata_extracted/cmstrtbl,8,640,魔法が得意な種族,마법 특기 종족
+tbldata/tbldata_extracted/cmstrtbl,9,660,魔法は使えないが防御力に長けた種族　専用の武器も多い,마법 불가·방어 특화 종족　전용 무기도 많다
+tbldata/tbldata_extracted/cmstrtbl,10,716,より体力が高い,체력이 높다
+tbldata/tbldata_extracted/cmstrtbl,11,732,より器用さが高い,손재주가 높다
+tbldata/tbldata_extracted/cmstrtbl,12,752,より体力が高い,체력이 높다
+tbldata/tbldata_extracted/cmstrtbl,13,768,より知恵、抵抗力が高い,지혜·저항력이 높다
+tbldata/tbldata_extracted/cmstrtbl,14,792,より素早さ、器用さが高い,민첩성·손재주 우세
+tbldata/tbldata_extracted/cmstrtbl,15,820,より素早さ、知恵が高い,민첩성·지혜가 높다
+tbldata/tbldata_extracted/cmstrtbl,16,844,より抵抗力が高い,저항력이 높다
+tbldata/tbldata_extracted/cmstrtbl,17,864,より知恵が高い,지혜가 높다
+tbldata/tbldata_extracted/cmstrtbl,18,880,より体力が高い,체력이 높다
+tbldata/tbldata_extracted/cmstrtbl,19,896,より素早さが高い,민첩성이 높다
+tbldata/tbldata_extracted/cmstrtbl,20,916,武器攻撃を主に行う　盾を装備できる,무기 공격 위주　방패 장착 가능
+tbldata/tbldata_extracted/cmstrtbl,21,952,攻撃魔法を主に行う,공격마법 위주
+tbldata/tbldata_extracted/cmstrtbl,22,972,回復魔法を主に行う,회복마법 위주
+tbldata/tbldata_extracted/cmstrtbl,23,992,遠距離武器に長けている,원거리무기가 특기
+tbldata/tbldata_extracted/cmstrtbl,24,1016,攻撃、回復、両方の魔法が使える,공격·회복마법 사용 가능
+tbldata/tbldata_extracted/cmstrtbl,25,1048,回復魔法の使える戦士　盾を装備できる,회복전사　방패 장착 가능
+tbldata/tbldata_extracted/cmstrtbl,26,1088,一撃に長けている,일격이 특기
+tbldata/tbldata_extracted/cmstrtbl,27,1108,隠れて行動することに長けている,은신행동이 특기
+tbldata/tbldata_extracted/cmstrtbl,28,1140,ＨＰと攻撃力などに関係している,ＨＰ와 공격력 등에 관여
+tbldata/tbldata_extracted/cmstrtbl,29,1172,ＭＰと魔法攻撃などに関係している,ＭＰ와 마법공격 등에 관여
+tbldata/tbldata_extracted/cmstrtbl,30,1208,ＭＰと魔法攻撃を受けた時などに関係している,ＭＰ와 마법피해 등에 관여
+tbldata/tbldata_extracted/cmstrtbl,31,1252,ＨＰと防御などに関係している,ＨＰ와 방어력 등에 관여
+tbldata/tbldata_extracted/cmstrtbl,32,1284,回避行動などに関係している,회피 등에 관여
+tbldata/tbldata_extracted/cmstrtbl,33,1312,クリティカルヒットなどに関係している,치명타 등에 관여
+tbldata/tbldata_extracted/cmstrtbl,34,1352,全ての事柄に関係している,모든 능력에 관여
+tbldata/tbldata_extracted/cmstrtbl,35,1380,すべてのボーナスポイントの振り分けが終了したら□ボタンを押してください,모든 보너스 포인트를 배분한 뒤 □ 버튼을 누르세요
+tbldata/tbldata_extracted/cmstrtbl,36,1452,残りポイント,남은 포인트
+tbldata/tbldata_extracted/cmstrtbl,37,1468,入力終了,입력종료
+tbldata/tbldata_extracted/cmstrtbl,38,1480,１つ前,이전
+tbldata/tbldata_extracted/cmstrtbl,39,1488,文字切替,문자전환
+tbldata/tbldata_extracted/cmstrtbl,40,1500,文字後退,문자삭제
+tbldata/tbldata_extracted/cmstrtbl,41,1512,選択決定,선택결정
+tbldata/tbldata_extracted/cmstrtbl,42,1524,中止,취소
+tbldata/tbldata_extracted/cmstrtbl,43,1532,全消去,초기화
+tbldata/tbldata_extracted/cmstrtbl,44,1540,平,가
+tbldata/tbldata_extracted/cmstrtbl,45,1544,片,나
+tbldata/tbldata_extracted/cmstrtbl,46,1548,英,영
+tbldata/tbldata_extracted/cmstrtbl,47,1552,ボーナスポイントをすべて振り分けてください,보너스 포인트를 모두 배분하세요
+tbldata/tbldata_extracted/cmstrtbl,48,1596,中止しますか？,취소할까요?
+tbldata/tbldata_extracted/cmstrtbl,49,1612,この内容でよろしいですか？,이대로 괜찮습니까?

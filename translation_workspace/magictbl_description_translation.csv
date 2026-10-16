@@ -1,0 +1,49 @@
+﻿File Path,Category,Index,Record Offset,Offset,Field Size,Original Bytes,Original,Translated
+tbldata/magictbl,마법 효과 설명,0,0x10,0x550,12,12,炎でダメージ,화염 피해
+tbldata/magictbl,마법 효과 설명,1,0x2C,0x55C,16,14,冷気でダメージ,냉기 피해
+tbldata/magictbl,마법 효과 설명,2,0x48,0x56C,8,8,毒を付与,독 부여
+tbldata/magictbl,마법 효과 설명,3,0x64,0x574,8,8,闇を付与,암흑부여
+tbldata/magictbl,마법 효과 설명,4,0x80,0x57C,20,18,カマイタチダメージ,칼바람 피해
+tbldata/magictbl,마법 효과 설명,5,0x9C,0x590,16,16,心理ダメージMP減,정신피해 MP감소
+tbldata/magictbl,마법 효과 설명,6,0xB8,0x5A0,12,10,麻痺を付与,마비 부여
+tbldata/magictbl,마법 효과 설명,7,0xD4,0x5AC,16,16,魔法抵抗を上げる,마법저항을높인다
+tbldata/magictbl,마법 효과 설명,8,0xF0,0x5BC,12,12,炎でダメージ,화염 피해
+tbldata/magictbl,마법 효과 설명,9,0x10C,0x5C8,20,18,敵PT防御力を下げる,적PT방어력을낮춘다
+tbldata/magictbl,마법 효과 설명,10,0x128,0x5DC,12,10,沈黙を付与,침묵 부여
+tbldata/magictbl,마법 효과 설명,11,0x144,0x5E8,8,8,毒を付与,독 부여
+tbldata/magictbl,마법 효과 설명,12,0x160,0x5F0,16,14,冷気でダメージ,냉기 피해
+tbldata/magictbl,마법 효과 설명,13,0x17C,0x600,20,18,敵PT攻撃力を下げる,적PT공격력을낮춘다
+tbldata/magictbl,마법 효과 설명,14,0x198,0x614,12,10,病気を付与,질병 부여
+tbldata/magictbl,마법 효과 설명,15,0x1B4,0x620,16,16,心理ダメージMP減,정신피해 MP감소
+tbldata/magictbl,마법 효과 설명,16,0x1D0,0x630,20,18,カマイタチダメージ,칼바람 피해
+tbldata/magictbl,마법 효과 설명,17,0x1EC,0x644,20,18,対単数最強攻撃魔法,단일최강공격마법
+tbldata/magictbl,마법 효과 설명,18,0x208,0x658,12,10,石化を付与,석화 부여
+tbldata/magictbl,마법 효과 설명,19,0x224,0x664,8,8,闇を付与,암흑부여
+tbldata/magictbl,마법 효과 설명,20,0x240,0x66C,12,12,迷宮から脱出,미궁서 탈출
+tbldata/magictbl,마법 효과 설명,21,0x25C,0x678,12,12,最強攻撃魔法,최강공격마법
+tbldata/magictbl,마법 효과 설명,22,0x278,0x684,12,10,麻痺を付与,마비 부여
+tbldata/magictbl,마법 효과 설명,23,0x294,0x690,16,16,魔法抵抗を上げる,마법저항을높인다
+tbldata/magictbl,마법 효과 설명,24,0x2B0,0x6A0,8,6,HP回復,HP회복
+tbldata/magictbl,마법 효과 설명,25,0x2CC,0x6A8,12,10,毒化を解除,독 해제
+tbldata/magictbl,마법 효과 설명,26,0x2E8,0x6B4,12,10,闇化を解除,암흑 해제
+tbldata/magictbl,마법 효과 설명,27,0x304,0x6C0,20,18,アイテムを鑑定する,아이템을 감정한다
+tbldata/magictbl,마법 효과 설명,28,0x320,0x6D4,8,6,HP回復,HP회복
+tbldata/magictbl,마법 효과 설명,29,0x33C,0x6DC,12,12,行動速度低下,행동속도저하
+tbldata/magictbl,마법 효과 설명,30,0x358,0x6E8,12,10,麻痺を解除,마비 해제
+tbldata/magictbl,마법 효과 설명,31,0x374,0x6F4,20,20,宝箱のトラップを解除,보물함 함정을 해제
+tbldata/magictbl,마법 효과 설명,32,0x390,0x708,8,6,HP回復,HP회복
+tbldata/magictbl,마법 효과 설명,33,0x3AC,0x710,12,12,行動速度上昇,행동속도상승
+tbldata/magictbl,마법 효과 설명,34,0x3C8,0x71C,16,16,地形罠を光らせる,지형함정을밝힌다
+tbldata/magictbl,마법 효과 설명,35,0x3E4,0x72C,16,16,光で敵にダメージ,빛으로 적 피해
+tbldata/magictbl,마법 효과 설명,36,0x400,0x73C,8,6,HP回復,HP회복
+tbldata/magictbl,마법 효과 설명,37,0x41C,0x744,12,10,沈黙を解除,침묵 해제
+tbldata/magictbl,마법 효과 설명,38,0x438,0x750,12,10,病気を解除,질병 해제
+tbldata/magictbl,마법 효과 설명,39,0x454,0x75C,16,14,防御力を上げる,방어력을높인다
+tbldata/magictbl,마법 효과 설명,40,0x470,0x76C,8,6,HP回復,HP회복
+tbldata/magictbl,마법 효과 설명,41,0x48C,0x774,12,10,死亡を解除,사망 해제
+tbldata/magictbl,마법 효과 설명,42,0x4A8,0x780,12,10,石化を解除,석화 해제
+tbldata/magictbl,마법 효과 설명,43,0x4C4,0x78C,16,14,攻撃力を上げる,공격력을높인다
+tbldata/magictbl,마법 효과 설명,44,0x4E0,0x79C,8,6,HP回復,HP회복
+tbldata/magictbl,마법 효과 설명,45,0x4FC,0x7A4,20,18,全ての状態異常解除,모든상태이상해제
+tbldata/magictbl,마법 효과 설명,46,0x518,0x7B8,16,16,光で敵にダメージ,빛으로 적 피해
+tbldata/magictbl,마법 효과 설명,47,0x534,0x7C8,24,22,自分のMPを対象に分ける,내MP를 대상과 나눈다

@@ -1,0 +1,791 @@
+{
+  "file_path": "tbldata/tbldata_extracted/glstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 1064,
+      "original": "ジルジダの店",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 1080,
+      "original": "パラディ支部",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 1096,
+      "original": "仲間を入れ替える",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 1116,
+      "original": "職業を変える",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 1132,
+      "original": "クエストの情報",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 1148,
+      "original": "持ち物を鑑定する",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 1168,
+      "original": "通信ＰＬＡＹ",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 1184,
+      "original": "パーティに加える",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1204,
+      "original": "パーティから外す",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1224,
+      "original": "仲間を探す",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1236,
+      "original": "仲間と別れる",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1252,
+      "original": "職業を変える",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1268,
+      "original": "職業を覚える",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1284,
+      "original": "クエストを受ける",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1304,
+      "original": "クエストを報告",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1320,
+      "original": "クエストを見る",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1336,
+      "original": "受けている内容",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1352,
+      "original": "協力ＰＬＡＹ",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1368,
+      "original": "対戦ＰＬＡＹ",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1384,
+      "original": "通信相手を探す",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1400,
+      "original": "別れたら、こいつとは二度と出会えないよ\nこいつが持っているアイテムも、戻ってこないよ\n\n本当に別れるのかい？",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1508,
+      "original": "鑑定するアイテムがないよ\n鑑定には１つにつき",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1552,
+      "original": "必要だよ",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1564,
+      "original": "誰をパーティに加えるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1596,
+      "original": "どの場所に加えるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1624,
+      "original": "誰を外すんだい？",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1644,
+      "original": "誰と別れるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1664,
+      "original": "誰の職業を変えるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1692,
+      "original": "職業を付け替えな",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1712,
+      "original": "かかるが、変更するかい？",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1740,
+      "original": "お金が足りないね",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1760,
+      "original": "装備を外せるようにしないとメイン職業が変更できないよ",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1816,
+      "original": "誰が職業を覚えるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1844,
+      "original": "どの職業を覚えるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1872,
+      "original": "どのクエストを受けるか、選んでおくれ",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1912,
+      "original": "すまないね、今は仕事がないんだよ",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1948,
+      "original": "このクエストを受けるのかい？",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1980,
+      "original": "どのクエストを見るんだい？",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 2008,
+      "original": "こんなクエストもあったねえ",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 2036,
+      "original": "どうだい、思い出したかい？",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 2064,
+      "original": "このクエストなんてのは、どうだい？\n気に入ったなら受けてみるかい",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 2128,
+      "original": "協力してくれる仲間を探しているから、しばらく待ちな",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 2180,
+      "original": "協力してくれる仲間がいたよ\n誰に協力してもらうんだい？",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 2236,
+      "original": "パーティーを３名で組むから、２名を選んでおくれ",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 2284,
+      "original": "この仲間で良いかい？",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 2308,
+      "original": "職業を変更しておくかい？",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 2336,
+      "original": "この仲間で良いかい？",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 2360,
+      "original": "対戦してくれる相手を探しているから、しばらく待ちな",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 2412,
+      "original": "対戦してくれる相手があらわれたよ\n誰と対戦するか選んでおくれ",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 2472,
+      "original": "職業を変更しておくかい？",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 2500,
+      "original": "この相手でいいのかい？",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 2524,
+      "original": "おや、相手から断られたよ！",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 2552,
+      "original": "何を賭けて、戦うか決めておくれ",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 2584,
+      "original": "何ゴールド賭けるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 2612,
+      "original": "どのアイテムを賭けるんだい？",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 2644,
+      "original": "お互いに賭ける物は、これでいいかい？",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 2684,
+      "original": "残念だが、これ以上アイテムが持てないようだね\nゴールドで賭け直しておくれ",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 2756,
+      "original": "不満があるみたいだね。選び直しておくれ",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 2796,
+      "original": "戦う時間はどうするんだい？",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 2824,
+      "original": "対戦をやめるのかい？",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 2848,
+      "original": "もう一度、戦うのかい？",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 2872,
+      "original": "闘技場",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 2880,
+      "original": "アイテム",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 2892,
+      "original": "ゴールド",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 2904,
+      "original": "どちらかが全滅するまで戦う",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 2932,
+      "original": "１分限定で残りのＨＰが多いほうの勝利",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 2972,
+      "original": "５分限定で残りのＨＰが多いほうの勝利",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 3012,
+      "original": "勝利",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 3020,
+      "original": "敗北",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 3028,
+      "original": "獲得",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 3036,
+      "original": "放出",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 3044,
+      "original": "再戦",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 3052,
+      "original": "決定",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 3060,
+      "original": "どれを鑑定するんだい？\n鑑定には１つにつき",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 3104,
+      "original": "必要だよ",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 3116,
+      "original": "お金が足りないね",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 3136,
+      "original": "協力をたのむ",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 3152,
+      "original": "対戦をたのむ",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 3168,
+      "original": "他の人を探す",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 3184,
+      "original": "通信をやめる",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 3200,
+      "original": "選択",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 3208,
+      "original": "増やす",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 3216,
+      "original": "減らす",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 3224,
+      "original": "通信が途切れました。",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 3248,
+      "original": "ネット接続の準備をします。\nよろしいですか？",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 3292,
+      "original": "このチャンネルは満員です。",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 3320,
+      "original": "ホスト用メニュー０",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 3340,
+      "original": "クライアント用メニュー０",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 3368,
+      "original": "が参戦希望",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 3380,
+      "original": "協力",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 3388,
+      "original": "対戦",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 3396,
+      "original": "誰が使いますか？",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 3416,
+      "original": "かかるが、いいかい？",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 3440,
+      "original": "お金をためて、でなおしてきな",
+      "translated": ""
+    },
+    {
+      "index": 94,
+      "offset": 3472,
+      "original": "仲間を入れ替えています・・・",
+      "translated": ""
+    },
+    {
+      "index": 95,
+      "offset": 3504,
+      "original": "検索中",
+      "translated": ""
+    },
+    {
+      "index": 96,
+      "offset": 3512,
+      "original": "さんへ参加を申し込みました。\nしばらくお待ちください。",
+      "translated": ""
+    },
+    {
+      "index": 97,
+      "offset": 3568,
+      "original": "参加ができませんでした。",
+      "translated": ""
+    },
+    {
+      "index": 98,
+      "offset": 3596,
+      "original": "桁変更",
+      "translated": ""
+    },
+    {
+      "index": 99,
+      "offset": 3604,
+      "original": "増",
+      "translated": ""
+    },
+    {
+      "index": 100,
+      "offset": 3608,
+      "original": "減",
+      "translated": ""
+    },
+    {
+      "index": 101,
+      "offset": 3612,
+      "original": "相手が決めるまで、待っておくれ",
+      "translated": ""
+    },
+    {
+      "index": 102,
+      "offset": 3644,
+      "original": "クエスト",
+      "translated": ""
+    },
+    {
+      "index": 103,
+      "offset": 3656,
+      "original": "賭けるものがないよ！",
+      "translated": ""
+    },
+    {
+      "index": 104,
+      "offset": 3680,
+      "original": "それぞれの条件は、こうなったぞ",
+      "translated": ""
+    },
+    {
+      "index": 105,
+      "offset": 3712,
+      "original": "相手が帰ってくるのを待っとくれ",
+      "translated": ""
+    },
+    {
+      "index": 106,
+      "offset": 3744,
+      "original": "誰とＰＬＡＹを進めますか？",
+      "translated": ""
+    },
+    {
+      "index": 107,
+      "offset": 3772,
+      "original": "難易度",
+      "translated": ""
+    },
+    {
+      "index": 108,
+      "offset": 3780,
+      "original": "かんたん",
+      "translated": ""
+    },
+    {
+      "index": 109,
+      "offset": 3792,
+      "original": "通常",
+      "translated": ""
+    },
+    {
+      "index": 110,
+      "offset": 3800,
+      "original": "難しい",
+      "translated": ""
+    },
+    {
+      "index": 111,
+      "offset": 3808,
+      "original": "どの難易度にするのかい？",
+      "translated": ""
+    },
+    {
+      "index": 112,
+      "offset": 3836,
+      "original": "クエスト選択",
+      "translated": ""
+    },
+    {
+      "index": 113,
+      "offset": 3852,
+      "original": "相手の条件は、",
+      "translated": ""
+    },
+    {
+      "index": 114,
+      "offset": 3868,
+      "original": "だ",
+      "translated": ""
+    },
+    {
+      "index": 115,
+      "offset": 3872,
+      "original": "装備が外れてるから、気をつけるんだよ",
+      "translated": ""
+    },
+    {
+      "index": 116,
+      "offset": 3912,
+      "original": "死亡から回復させることができません\nアイテムを装備するか、魔法が必要です",
+      "translated": ""
+    },
+    {
+      "index": 117,
+      "offset": 3984,
+      "original": "どうやって回復させますか？",
+      "translated": ""
+    },
+    {
+      "index": 118,
+      "offset": 4012,
+      "original": "魔法リバースを使う",
+      "translated": ""
+    },
+    {
+      "index": 119,
+      "offset": 4032,
+      "original": "リバースの小瓶を使う",
+      "translated": ""
+    },
+    {
+      "index": 120,
+      "offset": 4056,
+      "original": "誰が魔法リバースを唱えますか？",
+      "translated": ""
+    },
+    {
+      "index": 121,
+      "offset": 4088,
+      "original": "そいつは外せないよ",
+      "translated": ""
+    },
+    {
+      "index": 122,
+      "offset": 4108,
+      "original": "パーティーを",
+      "translated": ""
+    },
+    {
+      "index": 123,
+      "offset": 4124,
+      "original": "名で組むから、",
+      "translated": ""
+    },
+    {
+      "index": 124,
+      "offset": 4140,
+      "original": "名を選んでおくれ",
+      "translated": ""
+    },
+    {
+      "index": 125,
+      "offset": 4160,
+      "original": "入れ替える仲間を選びな\n左がギルドの仲間、右が今のパーティだよ",
+      "translated": ""
+    },
+    {
+      "index": 126,
+      "offset": 4224,
+      "original": "せっかくなんだけど・・・\n今は冒険者になろうってヤツはいないよ",
+      "translated": ""
+    },
+    {
+      "index": 127,
+      "offset": 4288,
+      "original": "クエスト開始",
+      "translated": ""
+    },
+    {
+      "index": 128,
+      "offset": 4304,
+      "original": "クエスト終了",
+      "translated": ""
+    },
+    {
+      "index": 129,
+      "offset": 4320,
+      "original": "機械人は職業を変更できないよ",
+      "translated": ""
+    },
+    {
+      "index": 130,
+      "offset": 4352,
+      "original": "仲間を入れ替えるにはセーブを行う必要があります。",
+      "translated": ""
+    }
+  ]
+}

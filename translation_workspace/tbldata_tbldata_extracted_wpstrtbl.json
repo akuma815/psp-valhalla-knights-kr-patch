@@ -1,0 +1,791 @@
+{
+  "file_path": "tbldata/tbldata_extracted/wpstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 1064,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n使いやすい",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 1104,
+      "original": "片手持ちの短剣\n盾装備が可能\n\nナイフよりも\n少し重い",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 1156,
+      "original": "片手持ちの短剣\n盾装備が可能\n\nナイフの中では一番重い",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 1208,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n幅広の刃を持つ",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 1252,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n幅広の刃を持つ\nダガーよりも強い刃を持つ",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 1324,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n幅広の刃を持つ\n少し重い",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 1380,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n小振り剣",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 1420,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n幅が広めの小振り剣",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1468,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n小振り剣\n多少の防御能力もある",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1528,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n一般的な片手剣",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1576,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\nかたい金属の片手剣",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1628,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n多少の防御能力もある",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1684,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n湾曲した形状を持つ",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1736,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n湾曲した形状を持つ",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1788,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n湾曲した形状を持つ",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1840,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n細身の片手剣\n素早く振れる",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1900,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n細身の片手剣\n素早く振れる",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1960,
+      "original": "片手持ちの\n片手剣\n盾装備が可能\n\n細身の片手剣\n素早く振れる",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 2020,
+      "original": "両手持ちの\n両手剣\n重く力を必要とする",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 2060,
+      "original": "両手持ちの\n両手剣\n\n重く力を必要とする",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 2100,
+      "original": "両手持ちの\n両手剣\n\n重く力を必要とする",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 2140,
+      "original": "両手持ちの\n両手剣\n\n幅が広く重い",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 2172,
+      "original": "両手持ちの\n両手剣\n\n幅が広く重い",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 2204,
+      "original": "両手持ちの\n両手剣\n\n幅が広く重い",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 2236,
+      "original": "両手持ちの\n両手剣\n\n両手剣の中で\nもっとも大きい",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 2284,
+      "original": "両手持ちの\n両手剣\n\n両手剣の中で\nもっとも大きい",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 2332,
+      "original": "両手持ちの\n両手剣\n\n両手剣の中で\nもっとも大きい",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 2380,
+      "original": "両手持ちの刀\n\n直刀である",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 2408,
+      "original": "両手持ちの刀\n\n直刀である",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 2436,
+      "original": "両手持ちの刀\n\n直刀である",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 2464,
+      "original": "両手持ちの刀\n\n少し反っている",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 2496,
+      "original": "両手持ちの刀\n\n少し反っている",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 2528,
+      "original": "両手持ちの刀\n\n少し反っている",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 2560,
+      "original": "両手持ちの刀\n\n反りの強い刃を持つ",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 2596,
+      "original": "両手持ちの刀\n\n反りの強い刃を持つ",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 2632,
+      "original": "両手持ちの刀\n\n反りの強い刃を持つ",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 2668,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 2704,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 2740,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 2776,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 2812,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 2848,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 2884,
+      "original": "両手持ちの\nショートボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 2920,
+      "original": "両手持ちの\nショートボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 2956,
+      "original": "両手持ちの\nショートボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 2992,
+      "original": "両手持ちの\nロングボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 3024,
+      "original": "両手持ちの\nロングボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 3056,
+      "original": "両手持ちの\nロングボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 3088,
+      "original": "片手持ちの\nワンド",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 3108,
+      "original": "片手持ちの\nワンド",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 3128,
+      "original": "片手持ちの\nワンド",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 3148,
+      "original": "片手持ちの\nクラブ",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 3168,
+      "original": "片手持ちの\nクラブ",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 3188,
+      "original": "片手持ちの\nクラブ",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 3208,
+      "original": "両手持ちの\nスタッフ",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 3228,
+      "original": "両手持ちの\nスタッフ",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 3248,
+      "original": "両手持ちの\nメイス",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 3268,
+      "original": "両手持ちの\nメイス",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 3288,
+      "original": "片手持ちの斧\n\n片刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 3312,
+      "original": "片手持ちの斧\n\n片刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 3336,
+      "original": "片手持ちの斧\n\n片刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 3360,
+      "original": "片手持ちの斧\n\n両刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 3384,
+      "original": "片手持ちの斧\n\n両刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 3408,
+      "original": "片手持ちの斧\n\n両刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 3432,
+      "original": "両手持ちのガン\n\n弾丸が必要",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 3460,
+      "original": "両手持ちのガン\n\n弾丸が必要",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 3488,
+      "original": "両手持ちのガン\n\n弾丸が必要",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 3516,
+      "original": "両手持ちのガン\n\n弾丸が必要",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 3544,
+      "original": "両手持ちの\nランチャー\n\n砲弾が必要",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 3580,
+      "original": "両手持ちの\nランチャー\n\n砲弾が必要",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 3616,
+      "original": "両手持ちの\nランチャー\n\n砲弾が必要",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 3652,
+      "original": "両手持ちの\nランチャー\n\n砲弾が必要",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 3688,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n丸い形状をしている",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 3740,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n丸い形状をしている",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 3792,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n丸い形状をしている",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 3844,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n大きめの形状",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 3892,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n大きめの形状",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 3940,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n大きめの形状",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 3988,
+      "original": "弓と共に装備する矢\n\n木でできている",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 4024,
+      "original": "弓と共に装備する矢\n\n石でできている",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 4060,
+      "original": "弓と共に装備する矢\n\n鉄でできている",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 4096,
+      "original": "弓と共に装備する矢\n\n状態異常\n「病気」を\n付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 4156,
+      "original": "弓と共に装備する矢\n\n状態異常\n「闇化」を\n付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 4216,
+      "original": "弓と共に装備する矢\n\n状態異常\n「毒化」を\n付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 4276,
+      "original": "弓と共に装備する矢\n\n状態異常\n「麻痺」を\n付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 4336,
+      "original": "弓と共に装備する矢\n\n状態異常\n「沈黙」を\n付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 4396,
+      "original": "ガンと共に装備する弾丸",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 4420,
+      "original": "ガンと共に装備する弾丸",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 4444,
+      "original": "ガンと共に装備する弾丸",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 4468,
+      "original": "ガンと共に装備する弾丸",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 4492,
+      "original": "ランチャーと共に装備する砲弾",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 4524,
+      "original": "ランチャーと共に装備する砲弾",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 4556,
+      "original": "ランチャーと共に装備する砲弾",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 4588,
+      "original": "ランチャーと共に装備する砲弾",
+      "translated": ""
+    },
+    {
+      "index": 94,
+      "offset": 4620,
+      "original": "マシーン専用の武器\n\n腕に\nドリル\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 95,
+      "offset": 4660,
+      "original": "マシーン専用の武器\n\n腕に\nドリル\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 96,
+      "offset": 4700,
+      "original": "マシーン専用の武器\n\n腕に\nドリル\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 97,
+      "offset": 4740,
+      "original": "マシーン専用の武器\n\n腕に\nチェーンソー\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 98,
+      "offset": 4788,
+      "original": "マシーン専用の武器\n\n腕に\nチェーンソー\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 99,
+      "offset": 4836,
+      "original": "マシーン専用の武器\n\n腕に\nチェーンソー\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 100,
+      "offset": 4884,
+      "original": "マシーン専用の武器\n\n腕に\nパイルバンカー\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 101,
+      "offset": 4932,
+      "original": "マシーン専用の武器\n\n腕に\nパイルバンカー\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 102,
+      "offset": 4980,
+      "original": "マシーン専用の武器\n\n腕に\nパイルバンカー\nを装備",
+      "translated": ""
+    },
+    {
+      "index": 103,
+      "offset": 5028,
+      "original": "マシーン専用の武器\nスタンガン\n\n状態異常\n「麻痺」\nを付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 104,
+      "offset": 5100,
+      "original": "マシーン専用の武器\nスタンガン\n\n状態異常\n「麻痺」\nを付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 105,
+      "offset": 5172,
+      "original": "マシーン専用の武器\nスタンガン\n\n状態異常\n「麻痺」\nを付与することがある",
+      "translated": ""
+    },
+    {
+      "index": 106,
+      "offset": 5244,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n使いやすい",
+      "translated": ""
+    },
+    {
+      "index": 107,
+      "offset": 5284,
+      "original": "片手持ちの短剣\n盾装備が可能\n\n使いやすい",
+      "translated": ""
+    },
+    {
+      "index": 108,
+      "offset": 5324,
+      "original": "片手持ちの\n片手剣\n盾装備が可能",
+      "translated": ""
+    },
+    {
+      "index": 109,
+      "offset": 5356,
+      "original": "片手持ちの\n片手剣\n盾装備が可能",
+      "translated": ""
+    },
+    {
+      "index": 110,
+      "offset": 5388,
+      "original": "両手持ちの\n両手剣\n\n幅が広く重い",
+      "translated": ""
+    },
+    {
+      "index": 111,
+      "offset": 5420,
+      "original": "両手持ちの\n両手剣\n\n幅が広く重い",
+      "translated": ""
+    },
+    {
+      "index": 112,
+      "offset": 5452,
+      "original": "両手持ちの刀\n\n反りの強い刃を持つ",
+      "translated": ""
+    },
+    {
+      "index": 113,
+      "offset": 5488,
+      "original": "両手持ちの刀\n\n反りの強い刃を持つ",
+      "translated": ""
+    },
+    {
+      "index": 114,
+      "offset": 5524,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 115,
+      "offset": 5560,
+      "original": "片手持ちの忍刀\n\nニンジャ用の\n小刀",
+      "translated": ""
+    },
+    {
+      "index": 116,
+      "offset": 5596,
+      "original": "両手持ちの\nショートボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 117,
+      "offset": 5632,
+      "original": "両手持ちの\nショートボウ\n\n矢が必要",
+      "translated": ""
+    },
+    {
+      "index": 118,
+      "offset": 5668,
+      "original": "片手持ちの\nワンド",
+      "translated": ""
+    },
+    {
+      "index": 119,
+      "offset": 5688,
+      "original": "片手持ちの\nワンド",
+      "translated": ""
+    },
+    {
+      "index": 120,
+      "offset": 5708,
+      "original": "両手持ちの\nスタッフ",
+      "translated": ""
+    },
+    {
+      "index": 121,
+      "offset": 5728,
+      "original": "両手持ちの\nスタッフ",
+      "translated": ""
+    },
+    {
+      "index": 122,
+      "offset": 5748,
+      "original": "片手持ちの斧\n\n片刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 123,
+      "offset": 5772,
+      "original": "片手持ちの斧\n\n片刃の斧",
+      "translated": ""
+    },
+    {
+      "index": 124,
+      "offset": 5796,
+      "original": "両手持ちのガン\n弾丸が必要",
+      "translated": ""
+    },
+    {
+      "index": 125,
+      "offset": 5824,
+      "original": "両手持ちのガン\n弾丸が必要",
+      "translated": ""
+    },
+    {
+      "index": 126,
+      "offset": 5852,
+      "original": "両手持ちの\nランチャー\n\n砲弾が必要",
+      "translated": ""
+    },
+    {
+      "index": 127,
+      "offset": 5888,
+      "original": "両手持ちの\nランチャー\n\n砲弾が必要",
+      "translated": ""
+    },
+    {
+      "index": 128,
+      "offset": 5924,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n大きめの形状",
+      "translated": ""
+    },
+    {
+      "index": 129,
+      "offset": 5972,
+      "original": "片手装備品の\n時に装備できる\n盾\n\n大きめの形状",
+      "translated": ""
+    },
+    {
+      "index": 130,
+      "offset": 6020,
+      "original": "両手持ちの\n両手剣\n\n両手剣の中で\nもっとも大きい",
+      "translated": ""
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "file_path": "tbldata/tbldata_extracted/sistrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 816,
+      "original": "唯一隻眼王に対抗出来る術\n不思議な力を感じる",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 860,
+      "original": "王女エーファのペンダント\n美しくかがやいている",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 908,
+      "original": "扉を開けるための鍵\n門番が守っていたもの",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 948,
+      "original": "”将都アカトキ”へ\n入るための鍵\n元は二つの\nカケラだったもの",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 1008,
+      "original": "何かのカケラ\nこれだけでは\n意味がないようだ",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 1052,
+      "original": "何かのカケラ\nこれだけでは\n意味がないようだ",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 1096,
+      "original": "",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 1100,
+      "original": "扉を開けるための鍵\n領山からもらったもの",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1140,
+      "original": "飛行船を動かすための鍵\nキレイな翼の形をしている",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1188,
+      "original": "飛行船を動かすための鍵\nキレイな翼の形をしている",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1236,
+      "original": "ワープ機を動かすための鍵\nリーネから預かったもの",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1284,
+      "original": "さびたメス\n昔、医者が使っていたもの",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1320,
+      "original": "キレイな海の絵\n蒼一色でかかれている",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1356,
+      "original": "不思議な感じのする石\n何に使うのだろう",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1396,
+      "original": "少年の書いたラブレター\n中が気になる・・・",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1440,
+      "original": "過去の冒険者たちが\n残した装備\nまだ使えそうな物もある",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1496,
+      "original": "時を止める事の\n出来るひつぎ\n入った者の時間を\n永遠に止めてしまう",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1560,
+      "original": "古びた電子時計\n実はバクダンの一部",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1596,
+      "original": "鉄のかたまり\n機械人の\n壊れたパーツらしい",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1640,
+      "original": "特別なネジ\n機械人の大切な部品",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1672,
+      "original": "「ニンジュツ」の\n使い方を書いた巻物\nよめない文字で\n書かれている",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1736,
+      "original": "教会で使われる書物\n神聖なものらしい",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1772,
+      "original": "遺書\n新しい当主を\n指名したものらしい",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1812,
+      "original": "城の兵士のお守り\n娘が作ってくれた人形らしい",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1856,
+      "original": "不思議な鉱石\nキラキラ光っている",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1888,
+      "original": "フロッグ種族の\nモンスターの肉\n食感がよいらしいが\n食べる気はしない",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1956,
+      "original": "蒼い宝石のペンダント\n呪われていて\n持ち主は不幸になるという",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 2016,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 2024,
+      "original": "未来の結婚相手がうつる鏡\n使い方は不明",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 2064,
+      "original": "大昔の魔法使いが\n書いた魔道書\nただの日記にしか見えない",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 2120,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 2128,
+      "original": "スパイダー種族の\nモンスターの足\nとても美味しいらしいが\n食べる気はしない",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 2200,
+      "original": "ドラゴンのしっぽ\nとても美味しそう",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 2236,
+      "original": "蒼い宝石のペンダント\n呪われていて\n持ち主は不幸になるという",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 2296,
+      "original": "おかし\n将都アカトキの名物",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 2324,
+      "original": "どんな病でも治すクスリ\nお酒としても\nすばらしい一品",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 2376,
+      "original": "エーファの日記\nよむのが怖い",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 2404,
+      "original": "食をきわめた者の装備\nどこかで聞いたことが\nあるような・・・",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 2464,
+      "original": "蒼い宝石のペンダント\n呪いはただの\nウワサだったらしい",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 2520,
+      "original": "ファイアードラゴンの左眼\nまさかこれは・・・・・・",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 2572,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 2580,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 2588,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 2596,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 2604,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 2612,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 2620,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 2628,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 2636,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 2644,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 2652,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 2660,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 2668,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 2676,
+      "original": "金のかたまり\n宿代には十分すぎるだろう",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 2716,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 2724,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 2732,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 2740,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 2748,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 2756,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 2764,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 2772,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 2780,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 2788,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 2796,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 2804,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 2812,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 2820,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 2828,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 2836,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 2844,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 2852,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 2860,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 2868,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 2876,
+      "original": "ゴールデンウルフの毛皮\nとてもきちょうな物らしい",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 2924,
+      "original": "色とりどりの花束\nとてもキレイに作ってある",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 2968,
+      "original": "ペンダント\n美しい装飾が施されている",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 3004,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 3012,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 3020,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 3028,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 3036,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 3044,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 3052,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 3060,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 3068,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 3076,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 3084,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 3092,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 3100,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 3108,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 3116,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 3124,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 3132,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 94,
+      "offset": 3140,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 95,
+      "offset": 3148,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 96,
+      "offset": 3156,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 97,
+      "offset": 3164,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 98,
+      "offset": 3172,
+      "original": "ダミー",
+      "translated": ""
+    },
+    {
+      "index": 99,
+      "offset": 3180,
+      "original": "ダミー",
+      "translated": ""
+    }
+  ]
+}

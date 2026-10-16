@@ -1,0 +1,79 @@
+﻿File Path,Index,Offset,Original,Translated
+tbldata/tbldata_extracted/msstrtbl,0,272,"メモリースティック＠がみつかりません。
+このゲームのデータをセーブするには空き容量が合計","메모리스틱＠을 찾을 수 없습니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,1,360,"メモリースティック＠がみつかりません。
+このゲームのデータをセーブするには空き容量が合計","메모리스틱＠을 찾을 수 없습니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,2,448,"メモリースティック＠の空き容量が不足しています。
+このゲームのデータをセーブするには空き容量が合計","메모리스틱＠의 여유공간이 부족합니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,3,548,"セーブに失敗しました。
+メモリースティック＠がロックされているため、
+メモリースティック＠に書き込みできませんでした。
+このゲームのデータをセーブするには空き容量が合計","저장에 실패했습니다.
+메모리스틱＠이 잠겨 있어,
+메모리스틱＠에 쓸 수 없었습니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,4,716,"セーブに失敗しました。
+メモリースティック＠を入れてください。","저장에 실패했습니다.
+메모리스틱＠을 넣어 주세요."
+tbldata/tbldata_extracted/msstrtbl,5,780,"セーブデータが壊れています。
+このゲームのデータをセーブするには空き容量が合計","저장 데이터가 깨졌습니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,6,860,"セーブデータがありません。
+このゲームのデータをセーブするには空き容量が合計","저장 데이터가 없습니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,7,936,"セーブデータが壊れています。
+このゲームのデータをセーブするには空き容量が合計","저장 데이터가 깨졌습니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,8,1016,"メモリースティック＠にアクセスできませんでした。
+メモリースティック＠を入れてください。
+このゲームのデータをセーブするには空き容量が合計","메모리스틱＠에 접근하지 못했습니다.
+메모리스틱＠을 넣어 주세요.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,9,1156,"セーブデータがありません。
+このゲームのデータをセーブするには空き容量が合計","저장 데이터가 없습니다.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,10,1232,"メモリースティック＠にアクセスできませんでした。
+メモリースティック＠を入れてください。
+このゲームのデータをセーブするには空き容量が合計","메모리스틱＠에 접근하지 못했습니다.
+메모리스틱＠을 넣어 주세요.
+게임 저장에는 총 여유공간"
+tbldata/tbldata_extracted/msstrtbl,11,1372,ＫＢ以上必要です。,ＫＢ 이상 필요
+tbldata/tbldata_extracted/msstrtbl,12,1392,ロードに失敗しました。,불러오기 실패
+tbldata/tbldata_extracted/msstrtbl,13,1416,セーブデータを削除しますか？,저장 데이터를 삭제할까요?
+tbldata/tbldata_extracted/msstrtbl,14,1448,一時セーブデータを削除しますが、かまいませんか？,임시 저장 데이터를 삭제할까요?
+tbldata/tbldata_extracted/msstrtbl,15,1500,一時セーブデータを削除しています・・・,임시 저장 데이터를 삭제하는 중…
+tbldata/tbldata_extracted/msstrtbl,16,1540,セーブをしますか？,저장할까요?
+tbldata/tbldata_extracted/msstrtbl,17,1560,セーブに失敗しました。,저장에 실패했습니다.
+tbldata/tbldata_extracted/msstrtbl,18,1584,ロードが中断されました,불러오기 중단
+tbldata/tbldata_extracted/msstrtbl,19,1608,セーブが中断されました,저장이 중단됐습니다
+tbldata/tbldata_extracted/msstrtbl,20,1632,もう一度ロードをおこないますか？,다시 불러올까요?
+tbldata/tbldata_extracted/msstrtbl,21,1668,もう一度セーブをおこないますか？,다시 저장할까요?
+tbldata/tbldata_extracted/msstrtbl,22,1704,"ロードに失敗しました。
+メモリースティック＠を入れてください。","불러오기 실패
+메모리스틱＠을 넣어 주세요."
+tbldata/tbldata_extracted/msstrtbl,23,1768,"本ゲームはオートセーブ機能に対応しています。
+オートセーブ中にはメモリースティック デュオ＠アクセスランプが
+点滅しますので、その間はメモリースティック＠を抜いたり、
+本体の電源を切ったりしないで下さい。","이 게임은 자동저장을 지원합니다.
+자동저장 중에는 메모리스틱 듀오＠ 접근 램프가
+깜빡이므로 메모리스틱＠을 빼거나
+본체 전원을 끄지 마세요."
+tbldata/tbldata_extracted/msstrtbl,24,1972,"セーブデータをロードします。
+ロードの際に、一時セーブデータは削除する事になりますが、
+かまいませんか？","저장 데이터를 불러옵니다.
+불러오면 임시 저장 데이터가 삭제됩니다.
+계속할까요?"
+tbldata/tbldata_extracted/msstrtbl,25,2076,一時セーブデータを上書きしますか？,임시 저장 데이터를 덮어쓸까요?
+tbldata/tbldata_extracted/msstrtbl,26,2112,一時セーブを行いませんでした,임시 저장을 안 했습니다
+tbldata/tbldata_extracted/msstrtbl,27,2144,セーブデータの削除が中断されました,저장 데이터 삭제가 중단됐습니다
+tbldata/tbldata_extracted/msstrtbl,28,2180,もう一度セーブデータの削除をおこないますか？,저장 데이터를 다시 삭제할까요?
+tbldata/tbldata_extracted/msstrtbl,29,2228,すでにあるセーブデータは削除されますが、かまいませんか？,기존 저장 데이터가 삭제됩니다. 괜찮습니까?
+tbldata/tbldata_extracted/msstrtbl,30,2288,"別のセーブデータにかわっています
+上書きしてもかまいませんか？","저장 데이터가 바뀌었습니다
+덮어써도 괜찮습니까?"
+tbldata/tbldata_extracted/msstrtbl,31,2352,"別のセーブデータにかわっています
+一時セーブデータの削除を中止します","저장 데이터가 바뀌었습니다
+임시 저장 데이터 삭제 중지"

@@ -1,0 +1,87 @@
+[
+  {
+    "file_path": "tbldata/tbldata_extracted/amstrtbl",
+    "string_count": 94,
+    "export_json": "tbldata_tbldata_extracted_amstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/btstrtbl",
+    "string_count": 134,
+    "export_json": "tbldata_tbldata_extracted_btstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/chstrtbl",
+    "string_count": 5,
+    "export_json": "tbldata_tbldata_extracted_chstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/cmstrtbl",
+    "string_count": 50,
+    "export_json": "tbldata_tbldata_extracted_cmstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/cpstrtbl",
+    "string_count": 180,
+    "export_json": "tbldata_tbldata_extracted_cpstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/etstrtbl",
+    "string_count": 187,
+    "export_json": "tbldata_tbldata_extracted_etstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/glstrtbl",
+    "string_count": 131,
+    "export_json": "tbldata_tbldata_extracted_glstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/instrtbl",
+    "string_count": 7,
+    "export_json": "tbldata_tbldata_extracted_instrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/mgstrtbl",
+    "string_count": 48,
+    "export_json": "tbldata_tbldata_extracted_mgstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/msstrtbl",
+    "string_count": 32,
+    "export_json": "tbldata_tbldata_extracted_msstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/pmstrtbl",
+    "string_count": 120,
+    "export_json": "tbldata_tbldata_extracted_pmstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/qtstrtbl",
+    "string_count": 160,
+    "export_json": "tbldata_tbldata_extracted_qtstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/sistrtbl",
+    "string_count": 100,
+    "export_json": "tbldata_tbldata_extracted_sistrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/spstrtbl",
+    "string_count": 36,
+    "export_json": "tbldata_tbldata_extracted_spstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/tbstrtbl",
+    "string_count": 24,
+    "export_json": "tbldata_tbldata_extracted_tbstrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/uistrtbl",
+    "string_count": 78,
+    "export_json": "tbldata_tbldata_extracted_uistrtbl.json"
+  },
+  {
+    "file_path": "tbldata/tbldata_extracted/wpstrtbl",
+    "string_count": 131,
+    "export_json": "tbldata_tbldata_extracted_wpstrtbl.json"
+  }
+]

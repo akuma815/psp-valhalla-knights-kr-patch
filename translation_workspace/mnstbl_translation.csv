@@ -1,0 +1,170 @@
+﻿File Path,Index,Record ID,Record Offset,Name Offset,Field Size,Original Bytes,Original,Translated
+tbldata/mnstbl,0,en00,0x1C,0x34,32,8,スライム,슬라임
+tbldata/mnstbl,1,en00,0x58,0x70,32,14,グレースライム,그레이 슬라임
+tbldata/mnstbl,2,en00,0x94,0xAC,32,16,グリーンスライム,그린 슬라임
+tbldata/mnstbl,3,en00,0xD0,0xE8,32,16,ポイズンスライム,포이즌 슬라임
+tbldata/mnstbl,4,en00,0x10C,0x124,32,18,パラライズスライム,패럴라이즈 슬라임
+tbldata/mnstbl,5,en01,0x148,0x160,32,10,スケルトン,스켈레톤
+tbldata/mnstbl,6,en01,0x184,0x19C,32,16,ガードスケルトン,가드 스켈레톤
+tbldata/mnstbl,7,en01,0x1C0,0x1D8,32,20,スケルトンソルジャー,스켈레톤 솔저
+tbldata/mnstbl,8,en01,0x1FC,0x214,32,16,ダークスケルトン,다크 스켈레톤
+tbldata/mnstbl,9,en01,0x238,0x250,32,16,パエルスケルトン,페일 스켈레톤
+tbldata/mnstbl,10,en02,0x274,0x28C,32,6,オーク,오크
+tbldata/mnstbl,11,en02,0x2B0,0x2C8,32,12,ガードオーク,가드 오크
+tbldata/mnstbl,12,en02,0x2EC,0x304,32,16,オークソルジャー,오크 솔저
+tbldata/mnstbl,13,en03,0x328,0x340,32,16,キラースパイダー,킬러 스파이더
+tbldata/mnstbl,14,en03,0x364,0x37C,32,18,ポイズンスパイダー,포이즌 스파이더
+tbldata/mnstbl,15,en03,0x3A0,0x3B8,32,20,パラライズスパイダー,패럴라이즈 스파이더
+tbldata/mnstbl,16,en04,0x3DC,0x3F4,32,12,キラーウルフ,킬러 울프
+tbldata/mnstbl,17,en04,0x418,0x430,32,14,ポイズンウルフ,포이즌 울프
+tbldata/mnstbl,18,en04,0x454,0x46C,32,14,ファングウルフ,팽 울프
+tbldata/mnstbl,19,en05,0x490,0x4A8,32,8,ゴブリン,고블린
+tbldata/mnstbl,20,en05,0x4CC,0x4E4,32,18,ゴブリンファイター,고블린 파이터
+tbldata/mnstbl,21,en05,0x508,0x520,32,20,ゴブリンスラッシャー,고블린 슬래셔
+tbldata/mnstbl,22,en05,0x544,0x55C,32,16,ゴブリンリーダー,고블린 리더
+tbldata/mnstbl,23,en06,0x580,0x598,32,8,トロール,트롤
+tbldata/mnstbl,24,en07,0x5BC,0x5D4,32,18,アースジャイアント,어스 자이언트
+tbldata/mnstbl,25,en07,0x5F8,0x610,32,20,ポイズンジャイアント,포이즌 자이언트
+tbldata/mnstbl,26,en07,0x634,0x64C,32,22,パラライズジャイアント,패럴라이즈 자이언트
+tbldata/mnstbl,27,en08,0x670,0x688,32,12,ヴァンパイア,뱀파이어
+tbldata/mnstbl,28,en09,0x6AC,0x6C4,32,14,キングビートル,킹 비틀
+tbldata/mnstbl,29,en09,0x6E8,0x700,32,16,グリーンビートル,그린 비틀
+tbldata/mnstbl,30,en09,0x724,0x73C,32,16,ポイズンビートル,포이즌 비틀
+tbldata/mnstbl,31,en10,0x760,0x778,32,10,アマルガム,아말감
+tbldata/mnstbl,32,en10,0x79C,0x7B4,32,20,アマルガムウォーリア,아말감 워리어
+tbldata/mnstbl,33,en10,0x7D8,0x7F0,32,20,アマルガムオフィサー,아말감 오피서
+tbldata/mnstbl,34,en11,0x814,0x82C,32,14,アタックドッグ,어택 도그
+tbldata/mnstbl,35,en12,0x850,0x868,32,8,ミミック,미믹
+tbldata/mnstbl,36,en12,0x88C,0x8A4,32,14,キラーミミック,킬러 미믹
+tbldata/mnstbl,37,en13,0x8C8,0x8E0,32,10,ワイバーン,와이번
+tbldata/mnstbl,38,en14,0x904,0x91C,32,8,ピクシー,픽시
+tbldata/mnstbl,39,en14,0x940,0x958,32,14,ピクシーグレー,그레이 픽시
+tbldata/mnstbl,40,en14,0x97C,0x994,32,14,ピクシーダーク,다크 픽시
+tbldata/mnstbl,41,en14,0x9B8,0x9D0,32,14,ピクシーブルー,블루 픽시
+tbldata/mnstbl,42,en15,0x9F4,0xA0C,32,8,ゴーレム,골렘
+tbldata/mnstbl,43,en16,0xA30,0xA48,32,10,ガーゴイル,가고일
+tbldata/mnstbl,44,en16,0xA6C,0xA84,32,18,ストーンガーゴイル,스톤 가고일
+tbldata/mnstbl,45,en16,0xAA8,0xAC0,32,16,サンドガーゴイル,샌드 가고일
+tbldata/mnstbl,46,en16,0xAE4,0xAFC,32,16,ダークガーゴイル,다크 가고일
+tbldata/mnstbl,47,en16,0xB20,0xB38,32,20,サイレントガーゴイル,사일런트 가고일
+tbldata/mnstbl,48,en17,0xB5C,0xB74,32,14,チャージラット,차지 래트
+tbldata/mnstbl,49,en18,0xB98,0xBB0,32,16,ブルキーフロッグ,벌키 프로그
+tbldata/mnstbl,50,en18,0xBD4,0xBEC,32,16,グリーンフロッグ,그린 프로그
+tbldata/mnstbl,51,en18,0xC10,0xC28,32,16,ポイズンフロッグ,포이즌 프로그
+tbldata/mnstbl,52,en19,0xC4C,0xC64,32,8,コボルド,코볼트
+tbldata/mnstbl,53,en19,0xC88,0xCA0,32,16,グリーフコボルド,그리프 코볼트
+tbldata/mnstbl,54,en19,0xCC4,0xCDC,32,16,フーリーコボルド,퓨리 코볼트
+tbldata/mnstbl,55,en19,0xD00,0xD18,32,18,バーサークコボルド,버서크 코볼트
+tbldata/mnstbl,56,en20,0xD3C,0xD54,32,12,サイクロプス,사이클롭스
+tbldata/mnstbl,57,en20,0xD78,0xD90,32,18,グレーサイクロプス,그레이 사이클롭스
+tbldata/mnstbl,58,en20,0xDB4,0xDCC,32,18,ダークサイクロプス,다크 사이클롭스
+tbldata/mnstbl,59,en20,0xDF0,0xE08,32,18,ブルーサイクロプス,블루 사이클롭스
+tbldata/mnstbl,60,en21,0xE2C,0xE44,32,12,ミノタウロス,미노타우로스
+tbldata/mnstbl,61,en21,0xE68,0xE80,32,22,ミノタウロスファイター,미노타우로스 파이터
+tbldata/mnstbl,62,en21,0xEA4,0xEBC,32,22,バーサークミノタウロス,버서크 미노타우로스
+tbldata/mnstbl,63,en21,0xEE0,0xEF8,32,18,キングミノタウロス,킹 미노타우로스
+tbldata/mnstbl,64,en22,0xF1C,0xF34,32,16,レッサーデーモン,레서 데몬
+tbldata/mnstbl,65,en22,0xF58,0xF70,32,22,レッサーデーモンロード,레서 데몬 로드
+tbldata/mnstbl,66,en23,0xF94,0xFAC,32,10,メデューサ,메두사
+tbldata/mnstbl,67,en24,0xFD0,0xFE8,32,6,ゾンビ,좀비
+tbldata/mnstbl,68,en24,0x100C,0x1024,32,16,ゾンビソルジャー,좀비 솔저
+tbldata/mnstbl,69,en24,0x1048,0x1060,32,12,ダークゾンビ,다크 좀비
+tbldata/mnstbl,70,en24,0x1084,0x109C,32,16,サイレントゾンビ,사일런트 좀비
+tbldata/mnstbl,71,en25,0x10C0,0x10D8,32,16,タイサイスライム,타이사이 슬라임
+tbldata/mnstbl,72,en25,0x10FC,0x1114,32,16,タイサイストーン,타이사이 스톤
+tbldata/mnstbl,73,en26,0x1138,0x1150,32,4,忍犬,닌견
+tbldata/mnstbl,74,en27,0x1174,0x118C,32,14,マーダーラット,머더 래트
+tbldata/mnstbl,75,en27,0x11B0,0x11C8,32,10,ハイラット,하이 래트
+tbldata/mnstbl,76,en27,0x11EC,0x1204,32,16,バーサークラット,버서크 래트
+tbldata/mnstbl,77,en27,0x1228,0x1240,32,18,ハンティングラット,헌팅 래트
+tbldata/mnstbl,78,en27,0x1264,0x127C,32,12,ソウルラット,소울 래트
+tbldata/mnstbl,79,en28,0x12A0,0x12B8,32,6,くノ一,여닌자
+tbldata/mnstbl,80,en29,0x12DC,0x12F4,32,4,武士,무사
+tbldata/mnstbl,81,en29,0x1318,0x1330,32,10,ながれ武士,낭인무사
+tbldata/mnstbl,82,en30,0x1354,0x136C,32,6,女武士,여무사
+tbldata/mnstbl,83,en30,0x1390,0x13A8,32,12,狐面の女武士,여우탈여무사
+tbldata/mnstbl,84,en30,0x13CC,0x13E4,32,12,般若の女武士,반야탈여무사
+tbldata/mnstbl,85,en31,0x1408,0x1420,32,4,下忍,게닌
+tbldata/mnstbl,86,en31,0x1444,0x145C,32,4,上忍,조닌
+tbldata/mnstbl,87,en32,0x1480,0x1498,32,8,領山幸忠,영산행충
+tbldata/mnstbl,88,en33,0x14BC,0x14D4,32,6,れいこ,레이코
+tbldata/mnstbl,89,en34,0x14F8,0x1510,32,12,ウォーリア−,워리어
+tbldata/mnstbl,90,en34,0x1534,0x154C,32,22,ストロングウォーリア−,스트롱 워리어
+tbldata/mnstbl,91,en34,0x1570,0x1588,32,20,ブレイブウォーリア−,브레이브 워리어
+tbldata/mnstbl,92,en34,0x15AC,0x15C4,32,18,キングウォーリア−,킹 워리어
+tbldata/mnstbl,93,en35,0x15E8,0x1600,32,10,プリースト,프리스트
+tbldata/mnstbl,94,en36,0x1624,0x163C,32,10,ソーサラー,소서러
+tbldata/mnstbl,95,en36,0x1660,0x1678,32,20,スピーリアソーサラ−,스피리어 소서러
+tbldata/mnstbl,96,en37,0x169C,0x16B4,32,10,ワーウルフ,웨어울프
+tbldata/mnstbl,97,en37,0x16D8,0x16F0,32,18,グリーフワーウルフ,그리프 웨어울프
+tbldata/mnstbl,98,en38,0x1714,0x172C,32,8,ゴースト,고스트
+tbldata/mnstbl,99,en38,0x1750,0x1768,32,14,ダークゴースト,다크 고스트
+tbldata/mnstbl,100,en38,0x178C,0x17A4,32,18,サイレントゴースト,사일런트 고스트
+tbldata/mnstbl,101,en39,0x17C8,0x17E0,32,8,ラビット,래빗
+tbldata/mnstbl,102,en39,0x1804,0x181C,32,14,フルーラビット,플루 래빗
+tbldata/mnstbl,103,en40,0x1840,0x1858,32,10,イフリート,이프리트
+tbldata/mnstbl,104,en41,0x187C,0x1894,32,8,ぬりかべ,누리카베
+tbldata/mnstbl,105,en42,0x18B8,0x18D0,32,24,ゴールドディザイアコイン,골드 디자이어 코인
+tbldata/mnstbl,106,en43,0x18F4,0x190C,32,14,グリムリーパー,그림 리퍼
+tbldata/mnstbl,107,en44,0x1930,0x1948,32,12,リザードマン,리자드맨
+tbldata/mnstbl,108,en44,0x196C,0x1984,32,18,リザードファイター,리자드 파이터
+tbldata/mnstbl,109,en45,0x19A8,0x19C0,32,16,リザードランサー,리자드 랜서
+tbldata/mnstbl,110,en45,0x19E4,0x19FC,32,24,リザードスピアファイター,리자드 스피어 파이터
+tbldata/mnstbl,111,en45,0x1A20,0x1A38,32,24,リザードランサーリーダー,리자드 랜서 리더
+tbldata/mnstbl,112,en45,0x1A5C,0x1A74,32,24,リザードスピアキャリアー,리자드 스피어 캐리어
+tbldata/mnstbl,113,en46,0x1A98,0x1AB0,32,16,リザードタンバー,리자드 탬버
+tbldata/mnstbl,114,en46,0x1AD4,0x1AEC,32,24,リザードタンバーリーダー,리자드 탬버 리더
+tbldata/mnstbl,115,en47,0x1B10,0x1B28,32,18,グレーターデーモン,그레이터 데몬
+tbldata/mnstbl,116,en47,0x1B4C,0x1B64,32,24,グレーターデーモンロード,그레이터 데몬 로드
+tbldata/mnstbl,117,en48,0x1B88,0x1BA0,32,8,ドラゴン,드래곤
+tbldata/mnstbl,118,en49,0x1BC4,0x1BDC,32,14,ドラゴンゾンビ,드래곤 좀비
+tbldata/mnstbl,119,en50,0x1C00,0x1C18,32,14,ドラゴンパピー,드래곤 퍼피
+tbldata/mnstbl,120,en51,0x1C3C,0x1C54,32,18,ファイアードラゴン,파이어 드래곤
+tbldata/mnstbl,121,en52,0x1C78,0x1C90,32,8,隻眼の王,외눈왕
+tbldata/mnstbl,122,en53,0x1CB4,0x1CCC,32,10,ルーシカス,루시카스
+tbldata/mnstbl,123,en54,0x1CF0,0x1D08,32,26,アーティアリーリザードマン,포병 리자드맨
+tbldata/mnstbl,124,en55,0x1D2C,0x1D44,32,18,ワイバーンゴブリン,와이번 고블린
+tbldata/mnstbl,125,en56,0x1D68,0x1D80,32,16,トロールゴブリン,트롤 고블린
+tbldata/mnstbl,126,en57,0x1DA4,0x1DBC,32,16,ミミックゴブリン,미믹 고블린
+tbldata/mnstbl,127,en58,0x1DE0,0x1DF8,32,16,ゴブリンビートル,고블린 비틀
+tbldata/mnstbl,128,en59,0x1E1C,0x1E34,32,8,忍ガエル,닌개구리
+tbldata/mnstbl,129,en60,0x1E58,0x1E70,32,12,ガスクラウド,가스 구름
+tbldata/mnstbl,130,en60,0x1E94,0x1EAC,32,18,ロックガスクラウド,록 가스 구름
+tbldata/mnstbl,131,en60,0x1ED0,0x1EE8,32,18,シックガスクラウド,시크 가스 구름
+tbldata/mnstbl,132,en60,0x1F0C,0x1F24,32,20,ポイズンガスクラウド,포이즌 가스 구름
+tbldata/mnstbl,133,en60,0x1F48,0x1F60,32,18,ダークガスクラウド,다크 가스 구름
+tbldata/mnstbl,134,en60,0x1F84,0x1F9C,32,22,サイレントガスクラウド,사일런트 가스 구름
+tbldata/mnstbl,135,en61,0x1FC0,0x1FD8,32,18,ウィルオーウィスプ,윌오위스프
+tbldata/mnstbl,136,en61,0x1FFC,0x2014,32,24,グレーウィルオーウィスプ,그레이 윌오위스프
+tbldata/mnstbl,137,en61,0x2038,0x2050,32,26,グリーンウィルオーウィスプ,그린 윌오위스프
+tbldata/mnstbl,138,en61,0x2074,0x208C,32,28,ヴィオーラウィルオーウィスプ,비올라 윌오위스프
+tbldata/mnstbl,139,en61,0x20B0,0x20C8,32,24,ダークウィルオーウィスプ,다크 윌오위스프
+tbldata/mnstbl,140,en61,0x20EC,0x2104,32,24,ブルーウィルオーウィスプ,블루 윌오위스프
+tbldata/mnstbl,141,en42,0x2128,0x2140,32,24,シルバーディザイアコイン,실버 디자이어 코인
+tbldata/mnstbl,142,en42,0x2164,0x217C,32,22,コパーディザイアコイン,코퍼 디자이어 코인
+tbldata/mnstbl,143,en62,0x21A0,0x21B8,32,18,コンバットプレイン,컴뱃 플레인
+tbldata/mnstbl,144,en63,0x21DC,0x21F4,32,22,インファントリロボット,인팬트리 로봇
+tbldata/mnstbl,145,en64,0x2218,0x2230,32,6,タンク,탱크
+tbldata/mnstbl,146,en65,0x2254,0x226C,32,8,スカウト,스카우트
+tbldata/mnstbl,147,en66,0x2290,0x22A8,32,12,クライズ伯爵,크라이즈백작
+tbldata/mnstbl,148,en67,0x22CC,0x22E4,32,16,ミミックマシーン,미믹 머신
+tbldata/mnstbl,149,en68,0x2308,0x2320,32,6,テング,텐구
+tbldata/mnstbl,150,en69,0x2344,0x235C,32,6,武者鎧,무사갑
+tbldata/mnstbl,151,en40,0x2380,0x2398,32,12,封印されし者,봉인된 자
+tbldata/mnstbl,152,en51,0x23BC,0x23D4,32,8,ノワール,누아르
+tbldata/mnstbl,153,en74,0x23F8,0x2410,32,8,灰眼の王,회안왕
+tbldata/mnstbl,154,en70,0x2434,0x244C,32,8,ドラゴン,드래곤
+tbldata/mnstbl,155,en71,0x2470,0x2488,32,18,ミミックコマンダー,미믹 커맨더
+tbldata/mnstbl,156,en72,0x24AC,0x24C4,32,20,エージェントプレイン,에이전트 플레인
+tbldata/mnstbl,157,en73,0x24E8,0x2500,32,14,ゼネラルタンク,제너럴 탱크
+tbldata/mnstbl,158,en75,0x2524,0x253C,32,8,領山吉忠,영산길충
+tbldata/mnstbl,159,en76,0x2560,0x2578,32,16,ＡＳＴ−００００,AST-0000
+tbldata/mnstbl,160,en77,0x259C,0x25B4,32,6,アスト,아스트
+tbldata/mnstbl,161,en78,0x25D8,0x25F0,32,10,ラスティル,라스틸
+tbldata/mnstbl,162,en79,0x2614,0x262C,32,6,エリス,에리스
+tbldata/mnstbl,163,en80,0x2650,0x2668,32,6,リーネ,리네
+tbldata/mnstbl,164,en81,0x268C,0x26A4,32,6,アリア,아리아
+tbldata/mnstbl,165,en82,0x26C8,0x26E0,32,8,オルキス,오르키스
+tbldata/mnstbl,166,en83,0x2704,0x271C,32,8,コラール,코랄
+tbldata/mnstbl,167,en84,0x2740,0x2758,32,12,シーヴィング,시빙
+tbldata/mnstbl,168,en85,0x277C,0x2794,32,6,ラルゴ,라르고

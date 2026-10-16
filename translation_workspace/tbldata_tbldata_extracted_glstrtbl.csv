@@ -1,0 +1,160 @@
+﻿File Path,Index,Offset,Original,Translated
+tbldata/tbldata_extracted/glstrtbl,0,1064,ジルジダの店,지르지다점
+tbldata/tbldata_extracted/glstrtbl,1,1080,パラディ支部,파라디지부
+tbldata/tbldata_extracted/glstrtbl,2,1096,仲間を入れ替える,동료 교체
+tbldata/tbldata_extracted/glstrtbl,3,1116,職業を変える,직업 변경
+tbldata/tbldata_extracted/glstrtbl,4,1132,クエストの情報,퀘스트 정보
+tbldata/tbldata_extracted/glstrtbl,5,1148,持ち物を鑑定する,소지품 감정
+tbldata/tbldata_extracted/glstrtbl,6,1168,通信ＰＬＡＹ,통신ＰＬＡＹ
+tbldata/tbldata_extracted/glstrtbl,7,1184,パーティに加える,파티에 합류
+tbldata/tbldata_extracted/glstrtbl,8,1204,パーティから外す,파티서 제외
+tbldata/tbldata_extracted/glstrtbl,9,1224,仲間を探す,동료 찾기
+tbldata/tbldata_extracted/glstrtbl,10,1236,仲間と別れる,동료와 결별
+tbldata/tbldata_extracted/glstrtbl,11,1252,職業を変える,직업 변경
+tbldata/tbldata_extracted/glstrtbl,12,1268,職業を覚える,직업 습득
+tbldata/tbldata_extracted/glstrtbl,13,1284,クエストを受ける,퀘스트 수락
+tbldata/tbldata_extracted/glstrtbl,14,1304,クエストを報告,퀘스트 보고
+tbldata/tbldata_extracted/glstrtbl,15,1320,クエストを見る,퀘스트 보기
+tbldata/tbldata_extracted/glstrtbl,16,1336,受けている内容,진행 중 내용
+tbldata/tbldata_extracted/glstrtbl,17,1352,協力ＰＬＡＹ,협력ＰＬＡＹ
+tbldata/tbldata_extracted/glstrtbl,18,1368,対戦ＰＬＡＹ,대전ＰＬＡＹ
+tbldata/tbldata_extracted/glstrtbl,19,1384,通信相手を探す,통신상대 찾기
+tbldata/tbldata_extracted/glstrtbl,20,1400,"別れたら、こいつとは二度と出会えないよ
+こいつが持っているアイテムも、戻ってこないよ
+
+本当に別れるのかい？","헤어지면 녀석과 다시 못 만나
+녀석이 가진 아이템도 돌아오지 않아
+
+정말 헤어질 건가?"
+tbldata/tbldata_extracted/glstrtbl,21,1508,"鑑定するアイテムがないよ
+鑑定には１つにつき","감정할 아이템이 없어
+감정은 하나당"
+tbldata/tbldata_extracted/glstrtbl,22,1552,必要だよ,필요해
+tbldata/tbldata_extracted/glstrtbl,23,1564,誰をパーティに加えるんだい？,누구를 파티에 넣을까?
+tbldata/tbldata_extracted/glstrtbl,24,1596,どの場所に加えるんだい？,어느 자리에 넣을까?
+tbldata/tbldata_extracted/glstrtbl,25,1624,誰を外すんだい？,누굴 뺄까?
+tbldata/tbldata_extracted/glstrtbl,26,1644,誰と別れるんだい？,누구와 헤어질까?
+tbldata/tbldata_extracted/glstrtbl,27,1664,誰の職業を変えるんだい？,누구의 직업을 바꿀까?
+tbldata/tbldata_extracted/glstrtbl,28,1692,職業を付け替えな,직업을 바꿔
+tbldata/tbldata_extracted/glstrtbl,29,1712,かかるが、変更するかい？,"들지만, 바꿀까?"
+tbldata/tbldata_extracted/glstrtbl,30,1740,お金が足りないね,돈이 부족하네
+tbldata/tbldata_extracted/glstrtbl,31,1760,装備を外せるようにしないとメイン職業が変更できないよ,장비를 해제해야 주직업을 바꿀 수 있어
+tbldata/tbldata_extracted/glstrtbl,32,1816,誰が職業を覚えるんだい？,누가 직업을 익힐까?
+tbldata/tbldata_extracted/glstrtbl,33,1844,どの職業を覚えるんだい？,어떤 직업을 익힐까?
+tbldata/tbldata_extracted/glstrtbl,34,1872,どのクエストを受けるか、選んでおくれ,받을 퀘스트를 골라줘
+tbldata/tbldata_extracted/glstrtbl,35,1912,すまないね、今は仕事がないんだよ,미안하지만 지금은 일이 없어
+tbldata/tbldata_extracted/glstrtbl,36,1948,このクエストを受けるのかい？,이 퀘스트를 받을까?
+tbldata/tbldata_extracted/glstrtbl,37,1980,どのクエストを見るんだい？,어떤 퀘스트를 볼까?
+tbldata/tbldata_extracted/glstrtbl,38,2008,こんなクエストもあったねえ,이런 퀘스트도 있었지
+tbldata/tbldata_extracted/glstrtbl,39,2036,どうだい、思い出したかい？,"어때, 기억났나?"
+tbldata/tbldata_extracted/glstrtbl,40,2064,"このクエストなんてのは、どうだい？
+気に入ったなら受けてみるかい","이 퀘스트는 어때?
+마음에 들면 받아볼래?"
+tbldata/tbldata_extracted/glstrtbl,41,2128,協力してくれる仲間を探しているから、しばらく待ちな,협력할 동료를 찾는 중이니 잠시 기다려
+tbldata/tbldata_extracted/glstrtbl,42,2180,"協力してくれる仲間がいたよ
+誰に協力してもらうんだい？","협력할 동료가 왔어
+누구의 도움을 받을까?"
+tbldata/tbldata_extracted/glstrtbl,43,2236,パーティーを３名で組むから、２名を選んでおくれ,３명 파티니까 ２명을 골라줘
+tbldata/tbldata_extracted/glstrtbl,44,2284,この仲間で良いかい？,이 동료로 할까?
+tbldata/tbldata_extracted/glstrtbl,45,2308,職業を変更しておくかい？,직업을 바꿔둘까?
+tbldata/tbldata_extracted/glstrtbl,46,2336,この仲間で良いかい？,이 동료로 할까?
+tbldata/tbldata_extracted/glstrtbl,47,2360,対戦してくれる相手を探しているから、しばらく待ちな,대전 상대를 찾는 중이니 잠시 기다려
+tbldata/tbldata_extracted/glstrtbl,48,2412,"対戦してくれる相手があらわれたよ
+誰と対戦するか選んでおくれ","대전 상대가 나타났어
+누구와 싸울지 골라줘"
+tbldata/tbldata_extracted/glstrtbl,49,2472,職業を変更しておくかい？,직업을 바꿔둘까?
+tbldata/tbldata_extracted/glstrtbl,50,2500,この相手でいいのかい？,이 상대로 괜찮아?
+tbldata/tbldata_extracted/glstrtbl,51,2524,おや、相手から断られたよ！,"이런, 상대가 거절했어!"
+tbldata/tbldata_extracted/glstrtbl,52,2552,何を賭けて、戦うか決めておくれ,뭘 걸고 싸울지 정해줘
+tbldata/tbldata_extracted/glstrtbl,53,2584,何ゴールド賭けるんだい？,몇 골드를 걸까?
+tbldata/tbldata_extracted/glstrtbl,54,2612,どのアイテムを賭けるんだい？,어떤 아이템을 걸까?
+tbldata/tbldata_extracted/glstrtbl,55,2644,お互いに賭ける物は、これでいいかい？,서로 걸 물건은 이걸로 될까?
+tbldata/tbldata_extracted/glstrtbl,56,2684,"残念だが、これ以上アイテムが持てないようだね
+ゴールドで賭け直しておくれ","아쉽지만 아이템을 더 못 드나 봐
+골드로 다시 걸어줘"
+tbldata/tbldata_extracted/glstrtbl,57,2756,不満があるみたいだね。選び直しておくれ,불만이 있나 봐. 다시 골라줘
+tbldata/tbldata_extracted/glstrtbl,58,2796,戦う時間はどうするんだい？,대전 시간은 어쩔까?
+tbldata/tbldata_extracted/glstrtbl,59,2824,対戦をやめるのかい？,대전을 그만둘까?
+tbldata/tbldata_extracted/glstrtbl,60,2848,もう一度、戦うのかい？,다시 싸울까?
+tbldata/tbldata_extracted/glstrtbl,61,2872,闘技場,투기장
+tbldata/tbldata_extracted/glstrtbl,62,2880,アイテム,아이템
+tbldata/tbldata_extracted/glstrtbl,63,2892,ゴールド,골드
+tbldata/tbldata_extracted/glstrtbl,64,2904,どちらかが全滅するまで戦う,한쪽이 전멸할 때까지
+tbldata/tbldata_extracted/glstrtbl,65,2932,１分限定で残りのＨＰが多いほうの勝利,１분한정·잔여ＨＰ 우세 승리
+tbldata/tbldata_extracted/glstrtbl,66,2972,５分限定で残りのＨＰが多いほうの勝利,５분한정·잔여ＨＰ 우세 승리
+tbldata/tbldata_extracted/glstrtbl,67,3012,勝利,승리
+tbldata/tbldata_extracted/glstrtbl,68,3020,敗北,패배
+tbldata/tbldata_extracted/glstrtbl,69,3028,獲得,획득
+tbldata/tbldata_extracted/glstrtbl,70,3036,放出,방출
+tbldata/tbldata_extracted/glstrtbl,71,3044,再戦,재전
+tbldata/tbldata_extracted/glstrtbl,72,3052,決定,결정
+tbldata/tbldata_extracted/glstrtbl,73,3060,"どれを鑑定するんだい？
+鑑定には１つにつき","어느 걸 감정할까?
+감정은 하나당"
+tbldata/tbldata_extracted/glstrtbl,74,3104,必要だよ,필요해
+tbldata/tbldata_extracted/glstrtbl,75,3116,お金が足りないね,돈이 부족하네
+tbldata/tbldata_extracted/glstrtbl,76,3136,協力をたのむ,협력 요청
+tbldata/tbldata_extracted/glstrtbl,77,3152,対戦をたのむ,대전 요청
+tbldata/tbldata_extracted/glstrtbl,78,3168,他の人を探す,타인 찾기
+tbldata/tbldata_extracted/glstrtbl,79,3184,通信をやめる,통신 종료
+tbldata/tbldata_extracted/glstrtbl,80,3200,選択,선택
+tbldata/tbldata_extracted/glstrtbl,81,3208,増やす,늘리기
+tbldata/tbldata_extracted/glstrtbl,82,3216,減らす,줄이기
+tbldata/tbldata_extracted/glstrtbl,83,3224,通信が途切れました。,통신이 끊겼습니다.
+tbldata/tbldata_extracted/glstrtbl,84,3248,"ネット接続の準備をします。
+よろしいですか？","네트워크 접속 준비중
+괜찮습니까?"
+tbldata/tbldata_extracted/glstrtbl,85,3292,このチャンネルは満員です。,이 채널은 만원입니다.
+tbldata/tbldata_extracted/glstrtbl,86,3320,ホスト用メニュー０,호스트용 메뉴０
+tbldata/tbldata_extracted/glstrtbl,87,3340,クライアント用メニュー０,클라이언트용 메뉴０
+tbldata/tbldata_extracted/glstrtbl,88,3368,が参戦希望,가참전희망
+tbldata/tbldata_extracted/glstrtbl,89,3380,協力,협력
+tbldata/tbldata_extracted/glstrtbl,90,3388,対戦,대전
+tbldata/tbldata_extracted/glstrtbl,91,3396,誰が使いますか？,누가 쓰나요?
+tbldata/tbldata_extracted/glstrtbl,92,3416,かかるが、いいかい？,"드는데, 괜찮아?"
+tbldata/tbldata_extracted/glstrtbl,93,3440,お金をためて、でなおしてきな,돈을 모아 다시 와
+tbldata/tbldata_extracted/glstrtbl,94,3472,仲間を入れ替えています・・・,동료를 교체하는 중…
+tbldata/tbldata_extracted/glstrtbl,95,3504,検索中,검색중
+tbldata/tbldata_extracted/glstrtbl,96,3512,"さんへ参加を申し込みました。
+しばらくお待ちください。","님에게 참가 신청했습니다.
+잠시 기다려 주세요."
+tbldata/tbldata_extracted/glstrtbl,97,3568,参加ができませんでした。,참가하지 못했습니다.
+tbldata/tbldata_extracted/glstrtbl,98,3596,桁変更,자릿수
+tbldata/tbldata_extracted/glstrtbl,99,3604,増,증
+tbldata/tbldata_extracted/glstrtbl,100,3608,減,감
+tbldata/tbldata_extracted/glstrtbl,101,3612,相手が決めるまで、待っておくれ,상대가 정할 때까지 기다려줘
+tbldata/tbldata_extracted/glstrtbl,102,3644,クエスト,퀘스트
+tbldata/tbldata_extracted/glstrtbl,103,3656,賭けるものがないよ！,걸 게 없어!
+tbldata/tbldata_extracted/glstrtbl,104,3680,それぞれの条件は、こうなったぞ,각자 조건은 이렇게 됐다
+tbldata/tbldata_extracted/glstrtbl,105,3712,相手が帰ってくるのを待っとくれ,상대가 돌아오길 기다려줘
+tbldata/tbldata_extracted/glstrtbl,106,3744,誰とＰＬＡＹを進めますか？,누구와 ＰＬＡＹ할까요?
+tbldata/tbldata_extracted/glstrtbl,107,3772,難易度,난이도
+tbldata/tbldata_extracted/glstrtbl,108,3780,かんたん,쉬움
+tbldata/tbldata_extracted/glstrtbl,109,3792,通常,보통
+tbldata/tbldata_extracted/glstrtbl,110,3800,難しい,어려움
+tbldata/tbldata_extracted/glstrtbl,111,3808,どの難易度にするのかい？,난이도를 뭘로 할까?
+tbldata/tbldata_extracted/glstrtbl,112,3836,クエスト選択,퀘스트 선택
+tbldata/tbldata_extracted/glstrtbl,113,3852,相手の条件は、,상대 조건은
+tbldata/tbldata_extracted/glstrtbl,114,3868,だ,다
+tbldata/tbldata_extracted/glstrtbl,115,3872,装備が外れてるから、気をつけるんだよ,장비가 빠졌으니 조심해
+tbldata/tbldata_extracted/glstrtbl,116,3912,"死亡から回復させることができません
+アイテムを装備するか、魔法が必要です","사망에서 회복할 수 없습니다
+아이템 장착이나 마법이 필요합니다"
+tbldata/tbldata_extracted/glstrtbl,117,3984,どうやって回復させますか？,어떻게 회복할까요?
+tbldata/tbldata_extracted/glstrtbl,118,4012,魔法リバースを使う,리버스 마법 사용
+tbldata/tbldata_extracted/glstrtbl,119,4032,リバースの小瓶を使う,리버스 작은병 사용
+tbldata/tbldata_extracted/glstrtbl,120,4056,誰が魔法リバースを唱えますか？,누가 리버스 마법을 쓸까요?
+tbldata/tbldata_extracted/glstrtbl,121,4088,そいつは外せないよ,그건 뺄 수 없어
+tbldata/tbldata_extracted/glstrtbl,122,4108,パーティーを,파티를
+tbldata/tbldata_extracted/glstrtbl,123,4124,名で組むから、,"명으로 꾸려,"
+tbldata/tbldata_extracted/glstrtbl,124,4140,名を選んでおくれ,명을 골라줘
+tbldata/tbldata_extracted/glstrtbl,125,4160,"入れ替える仲間を選びな
+左がギルドの仲間、右が今のパーティだよ","교체할 동료를 골라
+왼쪽은 길드, 오른쪽은 현재 파티야"
+tbldata/tbldata_extracted/glstrtbl,126,4224,"せっかくなんだけど・・・
+今は冒険者になろうってヤツはいないよ","아쉽지만…
+지금 모험가가 될 녀석은 없어"
+tbldata/tbldata_extracted/glstrtbl,127,4288,クエスト開始,퀘스트 시작
+tbldata/tbldata_extracted/glstrtbl,128,4304,クエスト終了,퀘스트 종료
+tbldata/tbldata_extracted/glstrtbl,129,4320,機械人は職業を変更できないよ,기계인은 직업을 못 바꿔
+tbldata/tbldata_extracted/glstrtbl,130,4352,仲間を入れ替えるにはセーブを行う必要があります。,동료 교체 전 저장해야 합니다.

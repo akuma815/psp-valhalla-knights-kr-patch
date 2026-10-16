@@ -1,0 +1,1127 @@
+{
+  "file_path": "tbldata/tbldata_extracted/etstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 1512,
+      "original": "人間",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 1520,
+      "original": "ドワーフ",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 1532,
+      "original": "ホビット",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 1544,
+      "original": "エルフ",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 1552,
+      "original": "機械人",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 1560,
+      "original": "男性",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 1568,
+      "original": "女性",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 1576,
+      "original": "ファイター",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 1588,
+      "original": "メイジ",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1596,
+      "original": "プリースト",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1608,
+      "original": "シーフ",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1616,
+      "original": "アンカー",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1628,
+      "original": "ナイト",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1636,
+      "original": "サムライ",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1648,
+      "original": "ニンジャ",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1660,
+      "original": "マシーン",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1672,
+      "original": "名前",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1680,
+      "original": "職業",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1688,
+      "original": "性別",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1696,
+      "original": "ＨＰ",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1704,
+      "original": "ＭＰ",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1712,
+      "original": "ＳＰ",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1720,
+      "original": "体力",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1728,
+      "original": "智恵",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1736,
+      "original": "抵抗力",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1744,
+      "original": "生命力",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1752,
+      "original": "素早さ",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1760,
+      "original": "器用さ",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1768,
+      "original": "運",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1772,
+      "original": "ＷＬ",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1780,
+      "original": "ＡＬ",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1788,
+      "original": "武器ダメージ補正",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1808,
+      "original": "魔法ダメージ補正",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1828,
+      "original": "攻撃",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1836,
+      "original": "防御",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1844,
+      "original": "攻撃",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1852,
+      "original": "防御",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1860,
+      "original": "魔法属性",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 1872,
+      "original": "炎",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 1876,
+      "original": "冷",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 1880,
+      "original": "空",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 1884,
+      "original": "無",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 1888,
+      "original": "付与",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 1896,
+      "original": "耐性",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 1904,
+      "original": "ＥＸＰ",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 1912,
+      "original": "動物",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 1920,
+      "original": "不死",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 1928,
+      "original": "昆虫",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 1936,
+      "original": "巨人",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 1944,
+      "original": "魔法生物",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 1956,
+      "original": "悪魔",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 1964,
+      "original": "妖怪",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 1972,
+      "original": "獣人",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 1980,
+      "original": "人間",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 1988,
+      "original": "竜",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 1992,
+      "original": "Ｇ",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 1996,
+      "original": "短剣",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 2004,
+      "original": "片手剣",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 2012,
+      "original": "両手剣",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 2020,
+      "original": "刀",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 2024,
+      "original": "忍刀",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 2032,
+      "original": "弓",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 2036,
+      "original": "ワンド",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 2044,
+      "original": "クラブ",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 2052,
+      "original": "スタッフ",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 2064,
+      "original": "メイス",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 2072,
+      "original": "片手斧",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 2080,
+      "original": "ガン",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 2088,
+      "original": "ランチャー",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 2100,
+      "original": "盾",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 2104,
+      "original": "矢",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 2108,
+      "original": "弾丸",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 2116,
+      "original": "砲弾",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 2124,
+      "original": "ドリル",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 2132,
+      "original": "チェーンソー",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 2148,
+      "original": "パイルバンカー",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 2164,
+      "original": "スタンガン",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 2176,
+      "original": "帽子",
+      "translated": ""
+    },
+    {
+      "index": 78,
+      "offset": 2184,
+      "original": "アーマー",
+      "translated": ""
+    },
+    {
+      "index": 79,
+      "offset": 2196,
+      "original": "グローブ",
+      "translated": ""
+    },
+    {
+      "index": 80,
+      "offset": 2208,
+      "original": "パンツ",
+      "translated": ""
+    },
+    {
+      "index": 81,
+      "offset": 2216,
+      "original": "ネックレス",
+      "translated": ""
+    },
+    {
+      "index": 82,
+      "offset": 2228,
+      "original": "リング",
+      "translated": ""
+    },
+    {
+      "index": 83,
+      "offset": 2236,
+      "original": "ビン",
+      "translated": ""
+    },
+    {
+      "index": 84,
+      "offset": 2244,
+      "original": "札",
+      "translated": ""
+    },
+    {
+      "index": 85,
+      "offset": 2248,
+      "original": "書物",
+      "translated": ""
+    },
+    {
+      "index": 86,
+      "offset": 2256,
+      "original": "鋲",
+      "translated": ""
+    },
+    {
+      "index": 87,
+      "offset": 2260,
+      "original": "↑",
+      "translated": ""
+    },
+    {
+      "index": 88,
+      "offset": 2264,
+      "original": "↓",
+      "translated": ""
+    },
+    {
+      "index": 89,
+      "offset": 2268,
+      "original": "←",
+      "translated": ""
+    },
+    {
+      "index": 90,
+      "offset": 2272,
+      "original": "→",
+      "translated": ""
+    },
+    {
+      "index": 91,
+      "offset": 2276,
+      "original": "○",
+      "translated": ""
+    },
+    {
+      "index": 92,
+      "offset": 2280,
+      "original": "×",
+      "translated": ""
+    },
+    {
+      "index": 93,
+      "offset": 2284,
+      "original": "△",
+      "translated": ""
+    },
+    {
+      "index": 94,
+      "offset": 2288,
+      "original": "□",
+      "translated": ""
+    },
+    {
+      "index": 95,
+      "offset": 2292,
+      "original": "Ｌ",
+      "translated": ""
+    },
+    {
+      "index": 96,
+      "offset": 2296,
+      "original": "Ｒ",
+      "translated": ""
+    },
+    {
+      "index": 97,
+      "offset": 2300,
+      "original": "加速",
+      "translated": ""
+    },
+    {
+      "index": 98,
+      "offset": 2308,
+      "original": "減速",
+      "translated": ""
+    },
+    {
+      "index": 99,
+      "offset": 2316,
+      "original": "毒化",
+      "translated": ""
+    },
+    {
+      "index": 100,
+      "offset": 2324,
+      "original": "闇化",
+      "translated": ""
+    },
+    {
+      "index": 101,
+      "offset": 2332,
+      "original": "沈黙",
+      "translated": ""
+    },
+    {
+      "index": 102,
+      "offset": 2340,
+      "original": "麻痺",
+      "translated": ""
+    },
+    {
+      "index": 103,
+      "offset": 2348,
+      "original": "病気",
+      "translated": ""
+    },
+    {
+      "index": 104,
+      "offset": 2356,
+      "original": "石化",
+      "translated": ""
+    },
+    {
+      "index": 105,
+      "offset": 2364,
+      "original": "死亡",
+      "translated": ""
+    },
+    {
+      "index": 106,
+      "offset": 2372,
+      "original": "ＡＫ",
+      "translated": ""
+    },
+    {
+      "index": 107,
+      "offset": 2380,
+      "original": "ＮＫ",
+      "translated": ""
+    },
+    {
+      "index": 108,
+      "offset": 2388,
+      "original": "ＩＫ",
+      "translated": ""
+    },
+    {
+      "index": 109,
+      "offset": 2396,
+      "original": "ＧＫ",
+      "translated": ""
+    },
+    {
+      "index": 110,
+      "offset": 2404,
+      "original": "ＭＫ",
+      "translated": ""
+    },
+    {
+      "index": 111,
+      "offset": 2412,
+      "original": "ＥＫ",
+      "translated": ""
+    },
+    {
+      "index": 112,
+      "offset": 2420,
+      "original": "ＹＫ",
+      "translated": ""
+    },
+    {
+      "index": 113,
+      "offset": 2428,
+      "original": "ＢＫ",
+      "translated": ""
+    },
+    {
+      "index": 114,
+      "offset": 2436,
+      "original": "ＨＫ",
+      "translated": ""
+    },
+    {
+      "index": 115,
+      "offset": 2444,
+      "original": "ＤＫ",
+      "translated": ""
+    },
+    {
+      "index": 116,
+      "offset": 2452,
+      "original": "決定",
+      "translated": ""
+    },
+    {
+      "index": 117,
+      "offset": 2460,
+      "original": "戻る",
+      "translated": ""
+    },
+    {
+      "index": 118,
+      "offset": 2468,
+      "original": "蒼乱の",
+      "translated": ""
+    },
+    {
+      "index": 119,
+      "offset": 2476,
+      "original": "赤乱の",
+      "translated": ""
+    },
+    {
+      "index": 120,
+      "offset": 2484,
+      "original": "紫乱の",
+      "translated": ""
+    },
+    {
+      "index": 121,
+      "offset": 2492,
+      "original": "黒乱の",
+      "translated": ""
+    },
+    {
+      "index": 122,
+      "offset": 2500,
+      "original": "藍乱の",
+      "translated": ""
+    },
+    {
+      "index": 123,
+      "offset": 2508,
+      "original": "黄乱の",
+      "translated": ""
+    },
+    {
+      "index": 124,
+      "offset": 2516,
+      "original": "翠乱の",
+      "translated": ""
+    },
+    {
+      "index": 125,
+      "offset": 2524,
+      "original": "灰乱の",
+      "translated": ""
+    },
+    {
+      "index": 126,
+      "offset": 2532,
+      "original": "蒼撃の",
+      "translated": ""
+    },
+    {
+      "index": 127,
+      "offset": 2540,
+      "original": "赤撃の",
+      "translated": ""
+    },
+    {
+      "index": 128,
+      "offset": 2548,
+      "original": "紫撃の",
+      "translated": ""
+    },
+    {
+      "index": 129,
+      "offset": 2556,
+      "original": "黒撃の",
+      "translated": ""
+    },
+    {
+      "index": 130,
+      "offset": 2564,
+      "original": "藍撃の",
+      "translated": ""
+    },
+    {
+      "index": 131,
+      "offset": 2572,
+      "original": "黄撃の",
+      "translated": ""
+    },
+    {
+      "index": 132,
+      "offset": 2580,
+      "original": "翠撃の",
+      "translated": ""
+    },
+    {
+      "index": 133,
+      "offset": 2588,
+      "original": "灰撃の",
+      "translated": ""
+    },
+    {
+      "index": 134,
+      "offset": 2596,
+      "original": "蒼滅の",
+      "translated": ""
+    },
+    {
+      "index": 135,
+      "offset": 2604,
+      "original": "赤滅の",
+      "translated": ""
+    },
+    {
+      "index": 136,
+      "offset": 2612,
+      "original": "紫滅の",
+      "translated": ""
+    },
+    {
+      "index": 137,
+      "offset": 2620,
+      "original": "黒滅の",
+      "translated": ""
+    },
+    {
+      "index": 138,
+      "offset": 2628,
+      "original": "藍滅の",
+      "translated": ""
+    },
+    {
+      "index": 139,
+      "offset": 2636,
+      "original": "黄滅の",
+      "translated": ""
+    },
+    {
+      "index": 140,
+      "offset": 2644,
+      "original": "翠滅の",
+      "translated": ""
+    },
+    {
+      "index": 141,
+      "offset": 2652,
+      "original": "灰滅の",
+      "translated": ""
+    },
+    {
+      "index": 142,
+      "offset": 2660,
+      "original": "蒼鉛の",
+      "translated": ""
+    },
+    {
+      "index": 143,
+      "offset": 2668,
+      "original": "赤鉛の",
+      "translated": ""
+    },
+    {
+      "index": 144,
+      "offset": 2676,
+      "original": "紫鉛の",
+      "translated": ""
+    },
+    {
+      "index": 145,
+      "offset": 2684,
+      "original": "黒鉛の",
+      "translated": ""
+    },
+    {
+      "index": 146,
+      "offset": 2692,
+      "original": "藍鉛の",
+      "translated": ""
+    },
+    {
+      "index": 147,
+      "offset": 2700,
+      "original": "黄鉛の",
+      "translated": ""
+    },
+    {
+      "index": 148,
+      "offset": 2708,
+      "original": "翠鉛の",
+      "translated": ""
+    },
+    {
+      "index": 149,
+      "offset": 2716,
+      "original": "灰鉛の",
+      "translated": ""
+    },
+    {
+      "index": 150,
+      "offset": 2724,
+      "original": "蒼銅の",
+      "translated": ""
+    },
+    {
+      "index": 151,
+      "offset": 2732,
+      "original": "赤銅の",
+      "translated": ""
+    },
+    {
+      "index": 152,
+      "offset": 2740,
+      "original": "紫銅の",
+      "translated": ""
+    },
+    {
+      "index": 153,
+      "offset": 2748,
+      "original": "黒銅の",
+      "translated": ""
+    },
+    {
+      "index": 154,
+      "offset": 2756,
+      "original": "藍銅の",
+      "translated": ""
+    },
+    {
+      "index": 155,
+      "offset": 2764,
+      "original": "黄銅の",
+      "translated": ""
+    },
+    {
+      "index": 156,
+      "offset": 2772,
+      "original": "翠銅の",
+      "translated": ""
+    },
+    {
+      "index": 157,
+      "offset": 2780,
+      "original": "灰銅の",
+      "translated": ""
+    },
+    {
+      "index": 158,
+      "offset": 2788,
+      "original": "蒼鉱の",
+      "translated": ""
+    },
+    {
+      "index": 159,
+      "offset": 2796,
+      "original": "赤鉱の",
+      "translated": ""
+    },
+    {
+      "index": 160,
+      "offset": 2804,
+      "original": "紫鉱の",
+      "translated": ""
+    },
+    {
+      "index": 161,
+      "offset": 2812,
+      "original": "黒鉱の",
+      "translated": ""
+    },
+    {
+      "index": 162,
+      "offset": 2820,
+      "original": "藍鉱の",
+      "translated": ""
+    },
+    {
+      "index": 163,
+      "offset": 2828,
+      "original": "黄鉱の",
+      "translated": ""
+    },
+    {
+      "index": 164,
+      "offset": 2836,
+      "original": "翠鉱の",
+      "translated": ""
+    },
+    {
+      "index": 165,
+      "offset": 2844,
+      "original": "灰鉱の",
+      "translated": ""
+    },
+    {
+      "index": 166,
+      "offset": 2852,
+      "original": "メイン職業",
+      "translated": ""
+    },
+    {
+      "index": 167,
+      "offset": 2864,
+      "original": "サブ職業１",
+      "translated": ""
+    },
+    {
+      "index": 168,
+      "offset": 2876,
+      "original": "サブ職業２",
+      "translated": ""
+    },
+    {
+      "index": 169,
+      "offset": 2888,
+      "original": "兄ちゃん",
+      "translated": ""
+    },
+    {
+      "index": 170,
+      "offset": 2900,
+      "original": "姉ちゃん",
+      "translated": ""
+    },
+    {
+      "index": 171,
+      "offset": 2912,
+      "original": "はい",
+      "translated": ""
+    },
+    {
+      "index": 172,
+      "offset": 2920,
+      "original": "いいえ",
+      "translated": ""
+    },
+    {
+      "index": 173,
+      "offset": 2928,
+      "original": "Ｎｅｗ　Ｇａｍｅ",
+      "translated": ""
+    },
+    {
+      "index": 174,
+      "offset": 2948,
+      "original": "Ｃｏｎｔｉｎｕｅ",
+      "translated": ""
+    },
+    {
+      "index": 175,
+      "offset": 2968,
+      "original": "一時セーブデータロード",
+      "translated": ""
+    },
+    {
+      "index": 176,
+      "offset": 2992,
+      "original": "状態異常",
+      "translated": ""
+    },
+    {
+      "index": 177,
+      "offset": 3004,
+      "original": "終了",
+      "translated": ""
+    },
+    {
+      "index": 178,
+      "offset": 3012,
+      "original": "はギルドにもどりました",
+      "translated": ""
+    },
+    {
+      "index": 179,
+      "offset": 3036,
+      "original": "ギルドにもどります",
+      "translated": ""
+    },
+    {
+      "index": 180,
+      "offset": 3056,
+      "original": "なし",
+      "translated": ""
+    },
+    {
+      "index": 181,
+      "offset": 3064,
+      "original": "状態異常",
+      "translated": ""
+    },
+    {
+      "index": 182,
+      "offset": 3076,
+      "original": "を付与できる",
+      "translated": ""
+    },
+    {
+      "index": 183,
+      "offset": 3092,
+      "original": "に有効",
+      "translated": ""
+    },
+    {
+      "index": 184,
+      "offset": 3100,
+      "original": "に耐性を持つ",
+      "translated": ""
+    },
+    {
+      "index": 185,
+      "offset": 3116,
+      "original": "魔法属性",
+      "translated": ""
+    },
+    {
+      "index": 186,
+      "offset": 3128,
+      "original": "に対して耐性を持つ",
+      "translated": ""
+    }
+  ]
+}

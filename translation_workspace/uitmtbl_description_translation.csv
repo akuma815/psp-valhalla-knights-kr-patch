@@ -1,0 +1,74 @@
+﻿File Path,Category,Index,Record Offset,Offset,Field Size,Original Bytes,Original,Translated
+tbldata/uitmtbl,일반 아이템 설명,0,0x10,0x930,60,58,状態異常「加速」になる。状態異常「減速」の解除にも使える。,「가속」에 걸린다. 「감속」 해제에도 쓸 수 있다.
+tbldata/uitmtbl,일반 아이템 설명,1,0x30,0x96C,60,58,状態異常「減速」になる。状態異常「加速」の解除にも使える。,「감속」에 걸린다. 「가속」 해제에도 쓸 수 있다.
+tbldata/uitmtbl,일반 아이템 설명,2,0x50,0x9A8,28,28,状態異常「石化」を解除する。,「석화」 상태를 해제한다.
+tbldata/uitmtbl,일반 아이템 설명,3,0x70,0x9C4,28,28,状態異常「病気」を解除する。,「질병」 상태를 해제한다.
+tbldata/uitmtbl,일반 아이템 설명,4,0x90,0x9E0,28,28,状態異常「闇化」を解除する。,「암흑」 상태를 해제한다.
+tbldata/uitmtbl,일반 아이템 설명,5,0xB0,0x9FC,28,28,状態異常「毒化」を解除する。,「독」 상태를 해제한다.
+tbldata/uitmtbl,일반 아이템 설명,6,0xD0,0xA18,28,28,状態異常「麻痺」を解除する。,「마비」 상태를 해제한다.
+tbldata/uitmtbl,일반 아이템 설명,7,0xF0,0xA34,28,28,状態異常「沈黙」を解除する。,「침묵」 상태를 해제한다.
+tbldata/uitmtbl,일반 아이템 설명,8,0x110,0xA50,28,28,状態異常「石化」を付与する。,「석화」 상태를 부여한다.
+tbldata/uitmtbl,일반 아이템 설명,9,0x130,0xA6C,28,28,状態異常「病気」を付与する。,「질병」 상태를 부여한다.
+tbldata/uitmtbl,일반 아이템 설명,10,0x150,0xA88,28,28,状態異常「闇化」を付与する。,「암흑」 상태를 부여한다.
+tbldata/uitmtbl,일반 아이템 설명,11,0x170,0xAA4,28,28,状態異常「毒化」を付与する。,「독」 상태를 부여한다.
+tbldata/uitmtbl,일반 아이템 설명,12,0x190,0xAC0,28,28,状態異常「麻痺」を付与する。,「마비」 상태를 부여한다.
+tbldata/uitmtbl,일반 아이템 설명,13,0x1B0,0xADC,28,28,状態異常「沈黙」を付与する。,「침묵」 상태를 부여한다.
+tbldata/uitmtbl,일반 아이템 설명,14,0x1D0,0xAF8,24,22,ＨＰを少し回復します。,HP를 조금 회복.
+tbldata/uitmtbl,일반 아이템 설명,15,0x1F0,0xB10,20,18,ＨＰを回復します。,HP를 회복.
+tbldata/uitmtbl,일반 아이템 설명,16,0x210,0xB24,24,24,ＨＰをかなり回復します。,HP를 크게 회복.
+tbldata/uitmtbl,일반 아이템 설명,17,0x230,0xB3C,24,22,ＭＰを少し回復します。,MP를 조금 회복.
+tbldata/uitmtbl,일반 아이템 설명,18,0x250,0xB54,24,24,ＭＰをかなり回復します。,MP를 크게 회복.
+tbldata/uitmtbl,일반 아이템 설명,19,0x270,0xB6C,24,24,街でセーブした場所へ戻る,마을 저장지로 돌아간다
+tbldata/uitmtbl,일반 아이템 설명,20,0x290,0xB84,16,16,対象者を鑑定する,대상을 감정한다
+tbldata/uitmtbl,일반 아이템 설명,21,0x2B0,0xB94,32,32,対象者の状態異常を全て解除する。,모든 상태이상을 해제한다.
+tbldata/uitmtbl,일반 아이템 설명,22,0x2D0,0xBB4,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,23,0x2F0,0xBE8,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,24,0x310,0xC1C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,25,0x330,0xC50,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,26,0x350,0xC84,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,27,0x370,0xCB8,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,28,0x390,0xCEC,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,29,0x3B0,0xD20,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,30,0x3D0,0xD54,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,31,0x3F0,0xD88,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,32,0x410,0xDBC,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,33,0x430,0xDF0,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,34,0x450,0xE24,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,35,0x470,0xE58,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,36,0x490,0xE8C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,37,0x4B0,0xEC0,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,38,0x4D0,0xEF4,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,39,0x4F0,0xF28,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,40,0x510,0xF5C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,41,0x530,0xF90,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,42,0x550,0xFC4,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,43,0x570,0xFF8,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,44,0x590,0x102C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,45,0x5B0,0x1060,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,46,0x5D0,0x1094,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,47,0x5F0,0x10C8,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,48,0x610,0x10FC,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,49,0x630,0x1130,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,50,0x650,0x1164,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,51,0x670,0x1198,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,52,0x690,0x11CC,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,53,0x6B0,0x1200,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,54,0x6D0,0x1234,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,55,0x6F0,0x1268,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,56,0x710,0x129C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,57,0x730,0x12D0,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,58,0x750,0x1304,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,59,0x770,0x1338,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,60,0x790,0x136C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,61,0x7B0,0x13A0,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,62,0x7D0,0x13D4,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,63,0x7F0,0x1408,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,64,0x810,0x143C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,65,0x830,0x1470,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,66,0x850,0x14A4,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,67,0x870,0x14D8,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,68,0x890,0x150C,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,69,0x8B0,0x1540,52,49,Campで使うと覚える。BTLで使うと対象者へ魔法効果。,Camp서 쓰면 습득.BTL서 대상에 마법효과.
+tbldata/uitmtbl,일반 아이템 설명,70,0x8D0,0x1574,32,30,Campで使うと一時セーブできる。,Camp서 쓰면 임시저장 가능.
+tbldata/uitmtbl,일반 아이템 설명,71,0x8F0,0x1594,4,2,ｘ,ｘ
+tbldata/uitmtbl,일반 아이템 설명,72,0x910,0x1598,4,2,ｘ,ｘ

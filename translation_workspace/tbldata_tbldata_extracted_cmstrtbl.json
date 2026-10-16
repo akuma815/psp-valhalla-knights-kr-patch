@@ -1,0 +1,305 @@
+{
+  "file_path": "tbldata/tbldata_extracted/cmstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 416,
+      "original": "種族を決めてください",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 440,
+      "original": "性別を決めてください",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 464,
+      "original": "職業を決めてください",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 488,
+      "original": "名前を決めてください",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 512,
+      "original": "ボーナスポイントを振り分けてください",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 552,
+      "original": "全体的にバランスの整った種族",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 584,
+      "original": "武器による攻撃が得意な種族",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 612,
+      "original": "小ささと素早さを備えた種族",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 640,
+      "original": "魔法が得意な種族",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 660,
+      "original": "魔法は使えないが防御力に長けた種族　専用の武器も多い",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 716,
+      "original": "より体力が高い",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 732,
+      "original": "より器用さが高い",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 752,
+      "original": "より体力が高い",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 768,
+      "original": "より知恵、抵抗力が高い",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 792,
+      "original": "より素早さ、器用さが高い",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 820,
+      "original": "より素早さ、知恵が高い",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 844,
+      "original": "より抵抗力が高い",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 864,
+      "original": "より知恵が高い",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 880,
+      "original": "より体力が高い",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 896,
+      "original": "より素早さが高い",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 916,
+      "original": "武器攻撃を主に行う　盾を装備できる",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 952,
+      "original": "攻撃魔法を主に行う",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 972,
+      "original": "回復魔法を主に行う",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 992,
+      "original": "遠距離武器に長けている",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1016,
+      "original": "攻撃、回復、両方の魔法が使える",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1048,
+      "original": "回復魔法の使える戦士　盾を装備できる",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1088,
+      "original": "一撃に長けている",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1108,
+      "original": "隠れて行動することに長けている",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1140,
+      "original": "ＨＰと攻撃力などに関係している",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1172,
+      "original": "ＭＰと魔法攻撃などに関係している",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1208,
+      "original": "ＭＰと魔法攻撃を受けた時などに関係している",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1252,
+      "original": "ＨＰと防御などに関係している",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1284,
+      "original": "回避行動などに関係している",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1312,
+      "original": "クリティカルヒットなどに関係している",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1352,
+      "original": "全ての事柄に関係している",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1380,
+      "original": "すべてのボーナスポイントの振り分けが終了したら□ボタンを押してください",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1452,
+      "original": "残りポイント",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1468,
+      "original": "入力終了",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 1480,
+      "original": "１つ前",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 1488,
+      "original": "文字切替",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 1500,
+      "original": "文字後退",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 1512,
+      "original": "選択決定",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 1524,
+      "original": "中止",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 1532,
+      "original": "全消去",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 1540,
+      "original": "平",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 1544,
+      "original": "片",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 1548,
+      "original": "英",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 1552,
+      "original": "ボーナスポイントをすべて振り分けてください",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 1596,
+      "original": "中止しますか？",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 1612,
+      "original": "この内容でよろしいですか？",
+      "translated": ""
+    }
+  ]
+}

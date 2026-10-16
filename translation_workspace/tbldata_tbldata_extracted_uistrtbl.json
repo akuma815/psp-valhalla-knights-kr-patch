@@ -1,0 +1,473 @@
+{
+  "file_path": "tbldata/tbldata_extracted/uistrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 640,
+      "original": "状態異常\n　「加速」を\n付与する\n\n状態異常\n　「減速」の\n解除にも使える",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 712,
+      "original": "状態異常\n　「減速」を\n付与する\n\n状態異常\n　「加速」の\n解除にも使える",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 784,
+      "original": "状態異常\n　「石化」を\n解除する",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 816,
+      "original": "状態異常\n　「病気」を\n解除する",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 848,
+      "original": "状態異常\n　「闇化」を\n解除する",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 880,
+      "original": "状態異常\n　「毒化」を\n解除する",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 912,
+      "original": "状態異常\n　「麻痺」を\n解除する",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 944,
+      "original": "状態異常\n　「沈黙」を\n解除する",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 976,
+      "original": "状態異常\n　「石化」を\n付与する",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 1008,
+      "original": "状態異常\n　「病気」を\n付与する",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 1040,
+      "original": "状態異常\n　「闇化」を\n付与する",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 1072,
+      "original": "状態異常\n　「毒化」を\n付与する",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 1104,
+      "original": "状態異常\n　「麻痺」を\n付与する",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 1136,
+      "original": "状態異常\n　「沈黙」を\n付与する",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 1168,
+      "original": "ＨＰを１０程度回復できる",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 1196,
+      "original": "ＨＰを４０程度回復できる",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1224,
+      "original": "ＨＰを１００程度回復できる",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1252,
+      "original": "ＭＰを１０程度回復できる",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1280,
+      "original": "ＭＰを３０程度回復できる",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1308,
+      "original": "街へ戻ることが出来る",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1332,
+      "original": "対象物を鑑定できる",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1352,
+      "original": "状態異常を全て解除する",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1376,
+      "original": "使うと\n魔法ファイア\nを覚える\n\n投げると\n魔法ファイア\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1456,
+      "original": "使うと\n魔法アイス\nを覚える\n\n投げると\n魔法アイス\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1532,
+      "original": "使うと\n魔法ポイズン\nを覚える\n\n投げると\n魔法ポイズン\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1612,
+      "original": "使うと\n魔法ブラインド\nを覚える\n\n投げると\n魔法ブラインド\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1696,
+      "original": "使うと\n魔法ウィンド\nを覚える\n\n投げると\n魔法ウィンド\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1776,
+      "original": "使うと\n魔法フィアー\nを覚える\n\n投げると\n魔法フィアー\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1856,
+      "original": "使うと\n魔法パラライズ\nを覚える\n\n投げると\n魔法パラライズ\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1940,
+      "original": "使うと\n魔法バリア\nを覚える\n\n投げると\n魔法バリア\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 2016,
+      "original": "使うと\n魔法ファイアストーム\nを覚える\n\n投げると\n魔法ファイアストーム\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 2112,
+      "original": "使うと\n魔法カースシールド\nを覚える\n\n投げると\n魔法カースシールド\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 2204,
+      "original": "使うと\n魔法サイレンス\nを覚える\n\n投げると\n魔法サイレンス\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 2288,
+      "original": "使うと\n魔法ポイズンクラウド\nを覚える\n\n投げると\n魔法ポイズンクラウド\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 2384,
+      "original": "使うと\n魔法アイスストーム\nを覚える\n\n投げると\n魔法アイスストーム\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 2476,
+      "original": "使うと\n魔法カースソード\nを覚える\n\n投げると\n魔法カースソード\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 2564,
+      "original": "使うと\n魔法インフェクト\nを覚える\n\n投げると\n魔法インフェクト\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 2652,
+      "original": "使うと\n魔法テラー\nを覚える\n\n投げると\n魔法テラー\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 2728,
+      "original": "使うと\n魔法ウィンドストーム\nを覚える\n\n投げると\n魔法ウィンドストーム\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 2824,
+      "original": "使うと\n魔法カオス\nを覚える\n\n投げると\n魔法カオス\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 2900,
+      "original": "使うと\n魔法ストーン\nを覚える\n\n投げると\n魔法ストーン\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 2980,
+      "original": "使うと\n魔法ブラインドゾーン\nを覚える\n\n投げると\n魔法ブラインドゾーン\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 3076,
+      "original": "使うと\n魔法エスケイプ\nを覚える\n\n投げると\n魔法エスケイプ\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 3160,
+      "original": "使うと\n魔法カオスグレイブ\nを覚える\n\n投げると\n魔法カオスグレイブ\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 3252,
+      "original": "使うと\n魔法パラライズガス\nを覚える\n\n投げると\n魔法パラライズガス\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 3344,
+      "original": "使うと\n魔法バリアゾーン\nを覚える\n\n投げると\n魔法バリアゾーン\nの効果発動\n\nメイジタイプ",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 3432,
+      "original": "使うと\n魔法エイド\nを覚える\n\n投げると\n魔法エイド\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 3520,
+      "original": "使うと\n魔法ノンポイゾネス\nを覚える\n\n投げると\n魔法ノンポイゾネス\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 48,
+      "offset": 3624,
+      "original": "使うと\n魔法ブライトネス\nを覚える\n\n投げると\n魔法ブライトネス\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 49,
+      "offset": 3724,
+      "original": "使うと\n魔法アナリシス\nを覚える\n\n投げると\n魔法アナリシス\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 50,
+      "offset": 3820,
+      "original": "使うと\n魔法パラーラルエイド\nを覚える\n\n投げると\n魔法パラーラルエイド\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 51,
+      "offset": 3928,
+      "original": "使うと\n魔法スロウ\nを覚える\n\n投げると\n魔法スロウ\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 52,
+      "offset": 4016,
+      "original": "使うと\n魔法リカバリー\nを覚える\n\n投げると\n魔法リカバリー\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 53,
+      "offset": 4112,
+      "original": "使うと\n魔法ホールド\nを覚える\n\n投げると\n魔法ホールド\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 54,
+      "offset": 4204,
+      "original": "使うと\n魔法キュア\nを覚える\n\n投げると\n魔法キュア\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 55,
+      "offset": 4292,
+      "original": "使うと\n魔法クイック\nを覚える\n\n投げると\n魔法クイック\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 56,
+      "offset": 4384,
+      "original": "使うと\n魔法サーチ\nを覚える\n\n投げると\n魔法サーチ\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 57,
+      "offset": 4472,
+      "original": "使うと\n魔法レイ\nを覚える\n\n投げると\n魔法レイ\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 58,
+      "offset": 4556,
+      "original": "使うと\n魔法パラーラルキュア\nを覚える\n\n投げると\n魔法パラーラルキュア\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 59,
+      "offset": 4664,
+      "original": "使うと\n魔法スピーク\nを覚える\n\n投げると\n魔法スピーク\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 60,
+      "offset": 4756,
+      "original": "使うと\n魔法メディスン\nを覚える\n\n投げると\n魔法メディスン\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 61,
+      "offset": 4852,
+      "original": "使うと\n魔法フォースシールド\nを覚える\n\n投げると\n魔法フォースシールド\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 62,
+      "offset": 4960,
+      "original": "使うと\n魔法ヒール\nを覚える\n\n投げると\n魔法ヒール\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 63,
+      "offset": 5048,
+      "original": "使うと\n魔法リバース\nを覚える\n\n投げると\n魔法リバース\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 64,
+      "offset": 5140,
+      "original": "使うと\n魔法レリーズ\nを覚える\n\n投げると\n魔法レリーズ\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 65,
+      "offset": 5232,
+      "original": "使うと\n魔法フォースソード\nを覚える\n\n投げると\n魔法フォースソード\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 66,
+      "offset": 5336,
+      "original": "使うと\n魔法パラーラルヒール\nを覚える\n\n投げると\n魔法パラーラルヒール\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 67,
+      "offset": 5444,
+      "original": "使うと\n魔法ピュリファイ\nを覚える\n\n投げると\n魔法ピュリファイ\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 68,
+      "offset": 5544,
+      "original": "使うと\n魔法レイストーム\nを覚える\n\n投げると\n魔法レイストーム\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 69,
+      "offset": 5644,
+      "original": "使うと\n魔法リフュール\nを覚える\n\n投げると\n魔法リフュール\nの効果発動\n\nプリースト\n　　　　タイプ",
+      "translated": ""
+    },
+    {
+      "index": 70,
+      "offset": 5740,
+      "original": "このアイテムはなくなりました",
+      "translated": ""
+    },
+    {
+      "index": 71,
+      "offset": 5772,
+      "original": "ニンジャのみが投げることができる\n装備しないと使えない\n一度投げると無くなる",
+      "translated": ""
+    },
+    {
+      "index": 72,
+      "offset": 5848,
+      "original": "ニンジャのみが投げることができる\n装備しないと使えない\n一度投げると無くなる",
+      "translated": ""
+    },
+    {
+      "index": 73,
+      "offset": 5924,
+      "original": "生き返ることができる",
+      "translated": ""
+    },
+    {
+      "index": 74,
+      "offset": 5948,
+      "original": "この札をギルドに託すと\n上級職業\n　【アンカー】\nになれる",
+      "translated": ""
+    },
+    {
+      "index": 75,
+      "offset": 6004,
+      "original": "この札をギルドに託すと\n上級職業\n　【ナイト】\nになれる",
+      "translated": ""
+    },
+    {
+      "index": 76,
+      "offset": 6060,
+      "original": "この札をギルドに託すと\n上級職業\n　【サムライ】\nになれる",
+      "translated": ""
+    },
+    {
+      "index": 77,
+      "offset": 6116,
+      "original": "この札をギルドに託すと\n上級職業\n　【ニンジャ】\nになれる",
+      "translated": ""
+    }
+  ]
+}

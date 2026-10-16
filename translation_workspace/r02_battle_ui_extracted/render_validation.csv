@@ -1,0 +1,26 @@
+﻿ID,Texture,Translated,Font Size,Measured Width,Measured Height,Box Width,Box Height,Fit
+S0_001,station0,행동 불능,14,46,12,68,18,PASS
+S2_001,station2,결정,9,15,8,26,14,PASS
+S2_002,station2,페이지전환,9,37,8,56,14,PASS
+S2_003,station2,자신 선택,9,30,8,56,14,PASS
+S2_004,station2,취소,9,14,7,48,14,PASS
+S2_005,station2,대상 선택,9,31,8,58,14,PASS
+S2_006,station2,대열 그룹\n전환,9,31,17,52,22,PASS
+S2_007,station2,조작 대상\n모드,10,36,17,48,24,PASS
+S2_008,station2,타깃\n고정,10,16,19,48,24,PASS
+S2_009,station2,지원\n메뉴,10,17,16,48,24,PASS
+S2_010,station2,공격,12,18,10,48,24,PASS
+S2_011,station2,필살기,12,27,10,48,24,PASS
+S2_012,station2,아이템\n선택,9,22,16,48,24,PASS
+S2_013,station2,마법선택,12,38,10,48,24,PASS
+S2_014,station2,장비변경,12,37,10,48,24,PASS
+S2_015,station2,전투\n메뉴,9,15,15,48,24,PASS
+S2_016,station2,도주,12,20,10,48,24,PASS
+S2_017,station2,독,9,7,8,32,14,PASS
+S2_018,station2,마비,9,15,8,30,14,PASS
+S2_019,station2,긴장,9,13,8,54,14,PASS
+S2_020,station2,화상,9,14,8,32,12,PASS
+S2_021,station2,빙결,9,14,8,53,12,PASS
+S2_022,station2,실명,9,14,8,39,12,PASS
+S2_023,station2,대화,12,21,10,42,19,PASS
+S2_024,station2,열기,12,18,10,54,19,PASS

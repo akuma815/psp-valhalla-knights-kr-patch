@@ -1,0 +1,20 @@
+Valhalla Knights 한국어 패치 (xdelta3)
+
+[필요한 원본]
+파일명: Valhalla Knights (Korea).iso
+크기: 687,964,160 bytes
+SHA-256: 6F62CBE6FCAB9A35146245A85025725782AD060A2B1F47A400E1477F9B445360
+
+[패치 파일]
+파일명: Valhalla Knights_Korean_Patch.xdelta
+크기: 148,366,897 bytes
+SHA-256: 9544DFCC0B4A62087F9282F20823524E3B0BAF3F2188F25BBC668DC4DEE10B67
+
+[적용 방법]
+xdelta3.exe -d -s "Valhalla Knights (Korea).iso" "Valhalla Knights_Korean_Patch.xdelta" "Valhalla Knights_Korean.iso"
+
+[정상 적용 결과]
+크기: 602,060,800 bytes
+SHA-256: EAEEEE9F4B7CC587ED870A33D9B3CB6FDD18D424566B05E805641756EB147DB9
+
+반드시 위 SHA-256과 일치하는 원본 ISO에 적용하십시오.

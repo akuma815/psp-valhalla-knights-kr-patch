@@ -1,0 +1,293 @@
+{
+  "file_path": "tbldata/tbldata_extracted/mgstrtbl",
+  "strings": [
+    {
+      "index": 0,
+      "offset": 400,
+      "original": "魔法属性《炎》\n炎でダメージを与える\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 1,
+      "offset": 448,
+      "original": "魔法属性《冷》\n冷気でダメージを与える\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 2,
+      "offset": 496,
+      "original": "状態異常「毒化」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 3,
+      "offset": 528,
+      "original": "状態異常「闇化」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 4,
+      "offset": 560,
+      "original": "魔法属性《空》\n真空刃でダメージを与える\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 5,
+      "offset": 612,
+      "original": "心理的ダメージをＭＰに与える\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 6,
+      "offset": 652,
+      "original": "状態異常「麻痺」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 7,
+      "offset": 684,
+      "original": "対象の魔法ダメージに対する耐性を上げる\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 8,
+      "offset": 732,
+      "original": "魔法属性《炎》\n炎でダメージを与える\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 9,
+      "offset": 780,
+      "original": "対象の防御力を下げる\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 10,
+      "offset": 812,
+      "original": "状態異常「沈黙」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 11,
+      "offset": 844,
+      "original": "状態異常「毒化」を付与\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 12,
+      "offset": 876,
+      "original": "魔法属性《冷》\n冷気でダメージを与える\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 13,
+      "offset": 924,
+      "original": "対象の攻撃力を下げる\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 14,
+      "offset": 956,
+      "original": "状態異常「病気」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 15,
+      "offset": 988,
+      "original": "心理的ダメージをＭＰに与える\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 16,
+      "offset": 1028,
+      "original": "魔法属性《空》\n真空刃でダメージを与える\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 17,
+      "offset": 1080,
+      "original": "魔法属性《無》\n光線でダメージを与える\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 18,
+      "offset": 1128,
+      "original": "状態異常「石化」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 19,
+      "offset": 1160,
+      "original": "状態異常「闇化」を付与\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 20,
+      "offset": 1192,
+      "original": "街へ戻る",
+      "translated": ""
+    },
+    {
+      "index": 21,
+      "offset": 1204,
+      "original": "魔法属性《無》\n光線でダメージを与える\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 22,
+      "offset": 1252,
+      "original": "状態異常「麻痺」を付与\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 23,
+      "offset": 1284,
+      "original": "対象の魔法ダメージに対する耐性を上げる\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 24,
+      "offset": 1332,
+      "original": "ＨＰを少し回復させる\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 25,
+      "offset": 1364,
+      "original": "状態異常「毒化」を解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 26,
+      "offset": 1396,
+      "original": "状態異常「闇化」を解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 27,
+      "offset": 1428,
+      "original": "対象物を鑑定する",
+      "translated": ""
+    },
+    {
+      "index": 28,
+      "offset": 1448,
+      "original": "ＨＰを少し回復させる\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 29,
+      "offset": 1480,
+      "original": "状態異常「減速」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 30,
+      "offset": 1512,
+      "original": "状態異常「麻痺」を解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 31,
+      "offset": 1544,
+      "original": "弱い敵を動けなくする",
+      "translated": ""
+    },
+    {
+      "index": 32,
+      "offset": 1568,
+      "original": "ＨＰを回復させる\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 33,
+      "offset": 1596,
+      "original": "状態異常「加速」を付与\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 34,
+      "offset": 1628,
+      "original": "ダンジョンの状況をミニマップに投影する",
+      "translated": ""
+    },
+    {
+      "index": 35,
+      "offset": 1668,
+      "original": "魔法属性　なし\n光の束でダメージを与える\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 36,
+      "offset": 1720,
+      "original": "ＨＰを回復させる\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 37,
+      "offset": 1748,
+      "original": "状態異常「沈黙」を解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 38,
+      "offset": 1780,
+      "original": "状態異常「病気」を解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 39,
+      "offset": 1812,
+      "original": "対象の防御力を上げる\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 40,
+      "offset": 1844,
+      "original": "ＨＰを大幅に回復させる\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 41,
+      "offset": 1876,
+      "original": "死亡状態を解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 42,
+      "offset": 1900,
+      "original": "状態異常「石化」を解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 43,
+      "offset": 1932,
+      "original": "対象の攻撃力を上げる\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 44,
+      "offset": 1964,
+      "original": "ＨＰを大幅に回復させる\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 45,
+      "offset": 1996,
+      "original": "状態異常の全てを解除\n単数対象",
+      "translated": ""
+    },
+    {
+      "index": 46,
+      "offset": 2028,
+      "original": "魔法属性　なし\n光の束でダメージを与える\n複数対象",
+      "translated": ""
+    },
+    {
+      "index": 47,
+      "offset": 2080,
+      "original": "自分のＭＰを対象に分け与える",
+      "translated": ""
+    }
+  ]
+}
