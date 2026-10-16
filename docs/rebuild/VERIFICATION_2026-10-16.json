@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "logicalFilesVerified": 3125,
+  "finalSHA256": "eaeeee9f4b7cc587ed870a33d9b3cb6fdd18d424566b05e805641756eb147db9",
+  "textAndFontRebuiltFromSource": true,
+  "layoutRecoveredFromPinnedPublicRelease": true,
+  "originalUnchanged": true,
+  "runtime": "not newly performed",
+  "sourceSHA256": "6f62cbe6fcab9a35146245a85025725782ad060a2b1f47a400e1477f9b445360",
+  "downloadedReleaseSHA256": "2cd0819acf3fb67331e557cdf10757eadf2380db358998dc64d9179359248c70",
+  "finalBytes": 602060800,
+  "expectedModifiedFiles": 185,
+  "STTVStrings": 1517,
+  "TSQVStrings": 4998,
+  "TSQVRecords": 603,
+  "EVSCRIPTStrings": 427,
+  "stationGraphicsRows": 25,
+  "sourceCheckoutLedgersUnmodified": true,
+  "defaultDevelopmentNormalizationUnchanged": true,
+  "privateBackupRequired": false,
+  "externalInputs": "supported original ISO, LeeSeoyun font, entire GimConv tool directory, xdelta3, pinned public release ZIP",
+  "independentFreshRemoteCloneBuild": "pending"
+}

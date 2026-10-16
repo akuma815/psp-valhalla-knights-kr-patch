@@ -64,6 +64,12 @@ RUNTIME_CHARACTER_NORMALIZATION.update(
 )
 
 
+# Explicit historical profile; the default development normalization is unchanged.
+if os.environ.get('VK_FINAL_RELEASE_PROFILE') == '1':
+    for _ch in ('ー', '”', '“', '＋', '／', '【', '】'):
+        RUNTIME_CHARACTER_NORMALIZATION.pop(ord(_ch), None)
+
+
 def normalize_runtime_text(text):
     return text.translate(RUNTIME_CHARACTER_NORMALIZATION)
 

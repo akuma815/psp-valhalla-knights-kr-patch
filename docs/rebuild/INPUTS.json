@@ -1,0 +1,25 @@
+{
+  "sourceISO": {
+    "bytes": 687964160,
+    "sha256": "6f62cbe6fcab9a35146245a85025725782ad060a2b1f47a400e1477f9b445360"
+  },
+  "font": {
+    "name": "LeeSeoyun Regular (Font/LeeSeoYeon.ttf)",
+    "sha256": "8eae3d64050446b2094c62b64a8793bc3a163d1881edddf88993210fd915f700"
+  },
+  "GimConv": {
+    "path": "Tools/GimConv",
+    "exe_sha256": "ae85d83457d94ba2cd6930511c1a59f4918bcf51614e5fb73d23aad0f1988d1c",
+    "keep_entire_directory": true
+  },
+  "publicRelease": {
+    "tag": "release-current",
+    "zip_sha256": "2cd0819acf3fb67331e557cdf10757eadf2380db358998dc64d9179359248c70",
+    "patch_sha256": "9544dfcc0b4a62087f9282f20823524e3b0baf3f2188f25bbc668dc4dee10b67",
+    "purpose": "Original ISO plus public patch recovers frozen ISO filesystem layout/padding; all 3125 file payloads are independently rebuilt or copied from original and compared"
+  },
+  "finalISO": {
+    "bytes": 602060800,
+    "sha256": "eaeeee9f4b7cc587ed870a33d9b3cb6fdd18d424566b05e805641756eb147db9"
+  }
+}

@@ -32,3 +32,12 @@ __pycache__/
 *.utoc
 *.uasset
 *.uexp
+
+# Reconstructed game assets and externally supplied tools/fonts
+/PSP_GAME/
+/UMD_DATA.BIN
+/font.ttf
+/tool/
+translation_workspace/*.gim
+translation_workspace/*.png
+translation_workspace/r02_battle_ui_extracted/textures/

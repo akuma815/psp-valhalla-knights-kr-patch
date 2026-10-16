@@ -38,3 +38,8 @@ PSP **발할라 나이츠** 한글 번역 패치 프로젝트입니다. 캐릭�
 ## 소스 및 작업 기록
 
 [공개 소스 구성과 빌드 전제](docs/SOURCE_GUIDE.md) · [상세 패치 안내](docs/PATCH_GUIDE.txt)
+
+
+[최종판 소스 재빌드·복원](docs/rebuild/README.md): 공개 소스와 별도 입력으로 전체 3,125개 파일 및 최종 ISO 동일성을 검증했습니다. 공용 Font·Tools와 고정 공개 릴리즈가 필요합니다.
+
+[최신 작업 인계](docs/HANDOFF_2026-10-16.md)
