@@ -19,5 +19,8 @@
   "defaultDevelopmentNormalizationUnchanged": true,
   "privateBackupRequired": false,
   "externalInputs": "supported original ISO, LeeSeoyun font, entire GimConv tool directory, xdelta3, pinned public release ZIP",
-  "independentFreshRemoteCloneBuild": "pending"
+  "independentFreshRemoteCloneBuild": "PASS",
+  "buildCommit": "f0ecc3f39871039da90f007d598fb522a24935af",
+  "gameFolderDeleted": false,
+  "readyForGameFolderDeletion": true
 }
